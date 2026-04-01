@@ -58,7 +58,7 @@ https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775045393~acl=%2f*~id=c141f154ab8e196132e41d599812aa6a~data=hdntl~hmac=a36d2d93b4130bdd797d9fb149169ab9b808c4e40384a05c5a0d32cfddd51149","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports Select HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
