@@ -134,7 +134,7 @@ _______JIO_______TV____
 
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="JIO+ ☎️ Entertainment",Sony SAB
 #EXTVLCOPT:http-user-agent=?
-https://localhost:8000/stream.php?id=sabsd
+#https://localhost:8000/stream.php?id=sabsd
 
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="JIO+ ☎️ Sports",Sony Ten 5 HD
 #KODIPROP:inputstream=inputstream.adaptive
