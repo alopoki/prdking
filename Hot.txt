@@ -27,7 +27,7 @@ https://livetv.hotstar.com/mp1/gec-india/04b034555d63400d9bc304bf91950874/index_
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="ᴄᴏʟᴅꜱᴛᴀʀ | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",TATA IPL TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775045393~acl=%2f*~id=c141f154ab8e196132e41d599812aa6a~data=hdntl~hmac=a36d2d93b4130bdd797d9fb149169ab9b808c4e40384a05c5a0d32cfddd51149","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://livetv.hotstar.com/mp2/gec-india/faffc00f9fc7402db40108fd87c2d53e/index_7.m3u8
+https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="ᴄᴏʟᴅꜱᴛᴀʀ | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",STAR SPORTS CRICKET CLASSIC
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
