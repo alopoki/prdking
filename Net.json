@@ -1,0 +1,2108 @@
+[
+    {
+        "id": "1",
+        "rix": "RIX0001",
+        "name": "nepaltv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-04-161618-5fca0ff692564-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netNTVNEPAL1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "2",
+        "rix": "RIX0002",
+        "name": "bbcnews",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/25-png",
+        "category": "News",
+        "country": "GB",
+        "feed": "http://103.213.31.80:80/ratvott/netBBCNEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "3",
+        "rix": "RIX0003",
+        "name": "cnn",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/26-png",
+        "category": "News",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netCNN1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "4",
+        "rix": "RIX0004",
+        "name": "euronewsenglish",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/29-png",
+        "category": "News",
+        "country": "GB",
+        "feed": "http://103.213.31.80:80/ratvott/netEURO1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "5",
+        "rix": "RIX0005",
+        "name": "zeenews",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150811-6846a7ff82d7e-png",
+        "category": "News",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netZEENEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "6",
+        "rix": "RIX0006",
+        "name": "zeebusiness",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150719-6846a7cbe99a6-png",
+        "category": "News",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netBUSINESS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "7",
+        "rix": "RIX0007",
+        "name": "ddnews",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/36-png",
+        "category": "News",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netDDNEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "8",
+        "rix": "RIX0008",
+        "name": "kantipurhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/41-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netKANTIPUR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "9",
+        "rix": "RIX0009",
+        "name": "ap1hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123214-61fb7a72bd299-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netAP1HD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "10",
+        "rix": "RIX0010",
+        "name": "ntvnews",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/43-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netNTVNEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "11",
+        "rix": "RIX0011",
+        "name": "ntvplus",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/44-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netNTVPLUS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "12",
+        "rix": "RIX0012",
+        "name": "avenuestv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/45-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netAVENEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "13",
+        "rix": "RIX0013",
+        "name": "news24",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-09-171526-6989c552d864c-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netNEWS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "14",
+        "rix": "RIX0014",
+        "name": "himalayantv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/47-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netHIMALAYA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "15",
+        "rix": "RIX0015",
+        "name": "imagechannel",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123230-61fb7a82be12a-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netIMAGE1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "16",
+        "rix": "RIX0016",
+        "name": "abctv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/49-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netABC1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "17",
+        "rix": "RIX0017",
+        "name": "sagarmathatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/50-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netSAGAR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "18",
+        "rix": "RIX0018",
+        "name": "janatatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/51-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netJANTATV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "19",
+        "rix": "RIX0019",
+        "name": "tvtoday",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-155847-6134985b16114-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netTVTODAY1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "20",
+        "rix": "RIX0020",
+        "name": "mountaintv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115215-60af3713dbed3-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netMOUNTAIN1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "21",
+        "rix": "RIX0021",
+        "name": "tvfilmy",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-07-105107-64a79d3fe9ade-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netTVFILMY1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "22",
+        "rix": "RIX0022",
+        "name": "businesstvnepal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/56-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netBTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "23",
+        "rix": "RIX0023",
+        "name": "businessplus",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115351-60af37730c1f6-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netBusinessplus1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "24",
+        "rix": "RIX0024",
+        "name": "ntvkohalpur",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/61-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netNTVKOHALPUR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "25",
+        "rix": "RIX0025",
+        "name": "channel4nepal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/63-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netCHFOUR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "26",
+        "rix": "RIX0026",
+        "name": "indigenoustelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/64-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/Indigenousfallback.stream/playlist.m3u8"
+    },
+    {
+        "id": "27",
+        "rix": "RIX0027",
+        "name": "livingfoodz",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-10-121521-6847d0fdce759-png",
+        "category": "Movies",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netLIVINGFOODZ1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "28",
+        "rix": "RIX0028",
+        "name": "bhaktidarshan",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115419-60af378f8e6ce-png",
+        "category": "Spiritual & Life",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netBHAKTIDARSAN1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "29",
+        "rix": "RIX0029",
+        "name": "peaceofmind",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/74-png",
+        "category": "Spiritual & Life",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netPEACEOFMIND1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "30",
+        "rix": "RIX0030",
+        "name": "aastha",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/76-png",
+        "category": "Spiritual & Life",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netAASTHA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "31",
+        "rix": "RIX0031",
+        "name": "sanskartv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/77-png",
+        "category": "Spiritual & Life",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSANSKAR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "32",
+        "rix": "RIX0032",
+        "name": "daystar",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123622-61fb7b6a18726-png",
+        "category": "Spiritual & Life",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netDAYSTAR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "33",
+        "rix": "RIX0033",
+        "name": "sonyentertainmenthd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-155826-636788c63a56b-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netSONYHD2500.stream/playlist.m3u8"
+    },
+    {
+        "id": "34",
+        "rix": "RIX0034",
+        "name": "colorshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/85-png",
+        "category": "HD",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvottedge/netCOLORS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "35",
+        "rix": "RIX0035",
+        "name": "zeetvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121033-68467e5d32627-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netZEETVHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "36",
+        "rix": "RIX0036",
+        "name": "starbharathd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/87-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netLIFEOKHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "37",
+        "rix": "RIX0037",
+        "name": "starplushd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/88-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netSTARPLUSHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "38",
+        "rix": "RIX0038",
+        "name": "zeecafehd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121132-68467e9856b1e-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netZEECAFEHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "39",
+        "rix": "RIX0039",
+        "name": "sonysab",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-19-134025-643f9e6dc1eb0-png",
+        "category": "Entertainment",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYSABTV2500.stream/playlist.m3u8"
+    },
+    {
+        "id": "40",
+        "rix": "RIX0040",
+        "name": "sonypal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-180132-64bfbd204c772-png",
+        "category": "Entertainment",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYPAL1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "41",
+        "rix": "RIX0041",
+        "name": "rishtey",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163055-5ff1a0632d91c-png",
+        "category": "Entertainment",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netRISHTEY1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "42",
+        "rix": "RIX0042",
+        "name": "sonyten1hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145732-63677a803e7d3-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netTEN1HD.stream/playlist.m3u8"
+    },
+    {
+        "id": "43",
+        "rix": "RIX0043",
+        "name": "sonyten2hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145855-63677ad3684a7-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netTEN2HDstb.stream/playlist.m3u8"
+    },
+    {
+        "id": "44",
+        "rix": "RIX0044",
+        "name": "sonyten3hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145924-63677af01e20c-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/TEN3HDstb.stream/playlist.m3u8"
+    },
+    {
+        "id": "45",
+        "rix": "RIX0045",
+        "name": "sonysixhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150026-63677b2e91d15-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netSIXHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "46",
+        "rix": "RIX0046",
+        "name": "starsports1hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/112-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netSTARSPORTS1HD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "47",
+        "rix": "RIX0047",
+        "name": "starsports2hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/113-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARSPORTS2HD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "48",
+        "rix": "RIX0048",
+        "name": "starsports1hdhindi",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123450-61fb7b0ea2abc-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netSTARSPORTS3HD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "49",
+        "rix": "RIX0049",
+        "name": "starsportsselecthd1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/115-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netSELECTHD11500.stream/playlist.m3u8"
+    },
+    {
+        "id": "50",
+        "rix": "RIX0050",
+        "name": "starsportsselecthd2",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/116-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottsports/netSTARSELECTHD21500.stream/playlist.m3u8"
+    },
+    {
+        "id": "51",
+        "rix": "RIX0051",
+        "name": "ddsports",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/123-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netDDSPORTS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "52",
+        "rix": "RIX0052",
+        "name": "starsports1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/124-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARSPORTS1SD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "53",
+        "rix": "RIX0053",
+        "name": "hbohd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/125-png",
+        "category": "HD",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netHBOHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "54",
+        "rix": "RIX0054",
+        "name": "cinemaxhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-05-22-132737-682ed56d7a9be-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netCINEMAXHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "55",
+        "rix": "RIX0055",
+        "name": "zeecinemahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-120929-68467e1df35d5-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netZEECINEMAHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "56",
+        "rix": "RIX0056",
+        "name": "stargoldselecthd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/132-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARGOLDSELECTHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "57",
+        "rix": "RIX0057",
+        "name": "zeecinema",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121220-68467ec88c507-png",
+        "category": "Movies",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netZEECINEMA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "58",
+        "rix": "RIX0058",
+        "name": "sonymax2",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150213-63677b99078d6-png",
+        "category": "Movies",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netMAXTWO1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "59",
+        "rix": "RIX0059",
+        "name": "moviesok",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121644-606aaed00d3ca-png",
+        "category": "Movies",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netMOVIESOK1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "60",
+        "rix": "RIX0060",
+        "name": "lotusmacauhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/141-png",
+        "category": "HD",
+        "country": "CN",
+        "feed": "http://103.213.31.80:80/ratvott/netLOTUSMACAU1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "61",
+        "rix": "RIX0061",
+        "name": "sonypix",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150236-63677bb08ef4e-png",
+        "category": "Movies",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYPIX1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "62",
+        "rix": "RIX0062",
+        "name": "starutsavmovies",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/151-png",
+        "category": "Movies",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARMOVIES1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "63",
+        "rix": "RIX0063",
+        "name": "mtv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163319-5ff1a0f34c7ea-png",
+        "category": "Music",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netMTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "64",
+        "rix": "RIX0064",
+        "name": "zing",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/163-png",
+        "category": "Music",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netZING1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "65",
+        "rix": "RIX0065",
+        "name": "sangeetbhojpuri",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/168-png",
+        "category": "Music",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netSANGEETBHOJPURI1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "66",
+        "rix": "RIX0066",
+        "name": "nickjr",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/170-png",
+        "category": "Kids",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netNICKJR1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "67",
+        "rix": "RIX0067",
+        "name": "pogo",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/171-png",
+        "category": "Kids",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netPOGO1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "68",
+        "rix": "RIX0068",
+        "name": "disneyjunior",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/172-png",
+        "category": "Kids",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netDISNEYJUNIOR_Dual/playlist.m3u8"
+    },
+    {
+        "id": "69",
+        "rix": "RIX0069",
+        "name": "disneyxd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-07-125624-6225b01c98a09-png",
+        "category": "Kids",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netDISNEYXD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "70",
+        "rix": "RIX0070",
+        "name": "natgeowildhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/174-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netNATGEOWILDHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "71",
+        "rix": "RIX0071",
+        "name": "animalplanethd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123529-61fb7b352d43a-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netAnimalPlanet1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "72",
+        "rix": "RIX0072",
+        "name": "nationalgeographicchannelhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/177-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netNGCHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "73",
+        "rix": "RIX0073",
+        "name": "discoveryhdworld",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123559-61fb7b53c7163-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netDISCOVERYHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "74",
+        "rix": "RIX0074",
+        "name": "historytv18",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/179-png",
+        "category": "Adventures",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netHISTORYTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "75",
+        "rix": "RIX0075",
+        "name": "tlchdworld",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/180-png",
+        "category": "HD",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/TLCHD_DUAL/playlist.m3u8"
+    },
+    {
+        "id": "76",
+        "rix": "RIX0076",
+        "name": "sonybbcearth",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/181-png",
+        "category": "Adventures",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYBBC1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "77",
+        "rix": "RIX0077",
+        "name": "discoveryturbo",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/182-png",
+        "category": "Adventures",
+        "country": "US",
+        "feed": "http://103.213.31.80:80/ratvott/netTurbo1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "78",
+        "rix": "RIX0078",
+        "name": "dwtvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/204-png",
+        "category": "News",
+        "country": "GQ",
+        "feed": "http://103.213.31.80:80/ratvott/netDWTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "79",
+        "rix": "RIX0079",
+        "name": "tv5monde",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/206-png",
+        "category": "International",
+        "country": "FR",
+        "feed": "http://103.213.31.80:80/ratvott/netTV5MONDE1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "80",
+        "rix": "RIX0080",
+        "name": "nhkpremiumhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/210-png",
+        "category": "HD",
+        "country": "JP",
+        "feed": "http://103.213.31.80:80/ratvott/netNHKPREMIUM1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "81",
+        "rix": "RIX0081",
+        "name": "ariranghd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/211-png",
+        "category": "HD",
+        "country": "KP",
+        "feed": "http://103.213.31.80:80/ratvott/netARIRANG1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "82",
+        "rix": "RIX0082",
+        "name": "nhkworldhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/212-png",
+        "category": "HD",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netNHK1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "83",
+        "rix": "RIX0083",
+        "name": "aljazeerahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/213-png",
+        "category": "News",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netALJAZEERA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "84",
+        "rix": "RIX0084",
+        "name": "stargoldhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/214-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARGOLDHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "85",
+        "rix": "RIX0085",
+        "name": "hbohitshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/215-png",
+        "category": "HD",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netHBOHITS_HIGH.stream/playlist.m3u8"
+    },
+    {
+        "id": "86",
+        "rix": "RIX0086",
+        "name": "hbofamilyhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121343-606aae1b748ee-png",
+        "category": "HD",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netHBOFAMILY1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "87",
+        "rix": "RIX0087",
+        "name": "hbosignaturehd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/217-png",
+        "category": "HD",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netHBOSIGNATURE1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "88",
+        "rix": "RIX0088",
+        "name": "stargoldselect",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/218-png",
+        "category": "Movies",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARGOLDSELECT1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "89",
+        "rix": "RIX0089",
+        "name": "newsasiahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/221-png",
+        "category": "News",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netNewsAsia1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "90",
+        "rix": "RIX0090",
+        "name": "aajtak",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/223-png",
+        "category": "News",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netAAJTAK1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "91",
+        "rix": "RIX0091",
+        "name": "cartoonnetwork",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/225-png",
+        "category": "Kids",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netCN1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "92",
+        "rix": "RIX0092",
+        "name": "peacetvurdu",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/227-png",
+        "category": "Spiritual & Life",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netPEACETV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "93",
+        "rix": "RIX0093",
+        "name": "nepalmandal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/228-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netNepalMandal1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "94",
+        "rix": "RIX0094",
+        "name": "fashiontvasiahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/229-png",
+        "category": "HD",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netFASHION1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "95",
+        "rix": "RIX0095",
+        "name": "france24englishhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/230-png",
+        "category": "News",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netFRANCE241500.stream/playlist.m3u8"
+    },
+    {
+        "id": "96",
+        "rix": "RIX0096",
+        "name": "starsportsselect2",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/235-png",
+        "category": "Sports",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netSELECTSD21500.stream/playlist.m3u8"
+    },
+    {
+        "id": "97",
+        "rix": "RIX0097",
+        "name": "appantv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/237-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/Appanfallback.stream/playlist.m3u8"
+    },
+    {
+        "id": "98",
+        "rix": "RIX0098",
+        "name": "bodhitvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/238-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netBodhi1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "99",
+        "rix": "RIX0099",
+        "name": "megatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-08-125925-62021851184ef-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/Megafallback.stream/playlist.m3u8"
+    },
+    {
+        "id": "100",
+        "rix": "RIX0100",
+        "name": "madanichannel",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/240-png",
+        "category": "Spiritual & Life",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netMADANI1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "101",
+        "rix": "RIX0101",
+        "name": "trtworldhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/241-png",
+        "category": "News",
+        "country": "UK",
+        "feed": "http://103.213.31.80:80/ratvott/netTRTWORLDHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "102",
+        "rix": "RIX0102",
+        "name": "starsportsselect1sd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/242-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSELECT1SD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "103",
+        "rix": "RIX0103",
+        "name": "starsports2",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/243-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARSPORTS2SD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "104",
+        "rix": "RIX0104",
+        "name": "yestv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/245-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/iptvlivestream/yestv_high.stream/playlist.m3u8"
+    },
+    {
+        "id": "105",
+        "rix": "RIX0105",
+        "name": "kastamandaptelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/246-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/Kasthmandap/playlist.m3u8"
+    },
+    {
+        "id": "106",
+        "rix": "RIX0106",
+        "name": "arenatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/257-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/arenatv.stream/playlist.m3u8"
+    },
+    {
+        "id": "107",
+        "rix": "RIX0107",
+        "name": "sonybbcearth1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/264-png",
+        "category": "HD",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYBBCHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "108",
+        "rix": "RIX0108",
+        "name": "primetimes",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174459-62a1e0bfd8748-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netPRIMETV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "109",
+        "rix": "RIX0109",
+        "name": "cineplexhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/270-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netCINEPLEXHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "110",
+        "rix": "RIX0110",
+        "name": "kalikahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/272-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netKalikaTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "111",
+        "rix": "RIX0111",
+        "name": "tvtodayjanakpur",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121810-606aaf2695875-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netTvTodayJkpr.stream/playlist.m3u8"
+    },
+    {
+        "id": "112",
+        "rix": "RIX0112",
+        "name": "namastetv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-15-105137-62d0f5dd4d609-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/namaste.stream/playlist.m3u8"
+    },
+    {
+        "id": "113",
+        "rix": "RIX0113",
+        "name": "abcaustraliaasia",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/282-png",
+        "category": "International",
+        "country": "AU",
+        "feed": "http://103.213.31.80:80/ratvott/netAUSTRALIA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "114",
+        "rix": "RIX0114",
+        "name": "kbsworld24",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-10-21-171441-61714f25a8908-png",
+        "category": "HD",
+        "country": "KP",
+        "feed": "http://103.213.31.80:80/ratvott/netKBS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "115",
+        "rix": "RIX0115",
+        "name": "angeltvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/293-png",
+        "category": "Spiritual & Life",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netANGEL1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "116",
+        "rix": "RIX0116",
+        "name": "buddhatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/294-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/ch1.stream/playlist.m3u8"
+    },
+    {
+        "id": "117",
+        "rix": "RIX0117",
+        "name": "sonymaxhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150128-63677b6c11576-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvottedge/netSONYMAXHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "118",
+        "rix": "RIX0118",
+        "name": "sonysabhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150100-63677b5084440-png",
+        "category": "HD",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netSONYSABHD2500.stream/playlist.m3u8"
+    },
+    {
+        "id": "119",
+        "rix": "RIX0119",
+        "name": "nickindia",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/316-png",
+        "category": "Kids",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netNICK1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "120",
+        "rix": "RIX0120",
+        "name": "tlcindia",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/317-png",
+        "category": "Adventures",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netTLCINDIA1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "121",
+        "rix": "RIX0121",
+        "name": "discoverychannel",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-175416-64bfbb6c8d13e-png",
+        "category": "Adventures",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netDISCOVERYCHANNEL1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "122",
+        "rix": "RIX0122",
+        "name": "starsports3",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123508-61fb7b20d6390-png",
+        "category": "Sports",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netstarsportsS3.stream/playlist.m3u8"
+    },
+    {
+        "id": "123",
+        "rix": "RIX0123",
+        "name": "paryawarantv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-01-02-214312-61d1cb943f5a7-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/paryawarantv.stream/playlist.m3u8"
+    },
+    {
+        "id": "124",
+        "rix": "RIX0124",
+        "name": "bhadgauntelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121056-606aad74ebe13-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netBhadgaun1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "125",
+        "rix": "RIX0125",
+        "name": "fewatvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/325-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netFewatv.stream/playlist.m3u8"
+    },
+    {
+        "id": "126",
+        "rix": "RIX0126",
+        "name": "lifeoknepal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105249-606beca58dbdb-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netlifeoknepal.stream/playlist.m3u8"
+    },
+    {
+        "id": "127",
+        "rix": "RIX0127",
+        "name": "cbeebiesasiahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/328-png",
+        "category": "Kids",
+        "country": "IN",
+        "feed": "http://103.213.31.80:80/ratvott/netCB1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "128",
+        "rix": "RIX0128",
+        "name": "zeenepaltv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122543-62f2016ba9da3-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/znepaltv.stream/playlist.m3u8"
+    },
+    {
+        "id": "129",
+        "rix": "RIX0129",
+        "name": "divyadarshanhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/332-png",
+        "category": "Spiritual & Life",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netDibyaDarsan1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "130",
+        "rix": "RIX0130",
+        "name": "cgtnhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/360-png",
+        "category": "News",
+        "country": "CN",
+        "feed": "http://103.213.31.80:80/ratvott/netCGTNHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "131",
+        "rix": "RIX0131",
+        "name": "cgtndocumentary",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/361-png",
+        "category": "Adventures",
+        "country": "CN",
+        "feed": "http://103.213.31.80:80/ratvott/netCGTNDOC1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "132",
+        "rix": "RIX0132",
+        "name": "raptidarpanhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-12-085022-62a557f20885e-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netRAPTITV.stream/playlist.m3u8"
+    },
+    {
+        "id": "133",
+        "rix": "RIX0133",
+        "name": "omkartelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/398-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/Omkartv.stream/playlist.m3u8"
+    },
+    {
+        "id": "134",
+        "rix": "RIX0134",
+        "name": "mithilatvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/399-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netMithilatv.stream/playlist.m3u8"
+    },
+    {
+        "id": "135",
+        "rix": "RIX0135",
+        "name": "educationtv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-04-04-132702-67ef8d4a557e4-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netEduTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "136",
+        "rix": "RIX0136",
+        "name": "yohotvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-164525-yoho-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netYohoTv1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "137",
+        "rix": "RIX0137",
+        "name": "annatelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-23-140731-66f125476fdb8-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/netANNATv.stream/playlist.m3u8"
+    },
+    {
+        "id": "138",
+        "rix": "RIX0138",
+        "name": "aranikotelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-03-175420-6220aff0ebdf0-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/aranikotv.stream/playlist.m3u8"
+    },
+    {
+        "id": "139",
+        "rix": "RIX0139",
+        "name": "kisantv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/424-png",
+        "category": "Nepali",
+        "country": "NP",
+        "feed": "http://103.213.31.80:80/ratvott/kisantv.stream/playlist.m3u8"
+    },
+    {
+        "id": "140",
+        "rix": "RIX0140",
+        "name": "rajyatelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/430-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/rajya4k.stream/playlist.m3u8"
+    },
+    {
+        "id": "141",
+        "rix": "RIX0141",
+        "name": "channelace",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105132-606bec585400e-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netChannelAce.stream/playlist.m3u8"
+    },
+    {
+        "id": "142",
+        "rix": "RIX0142",
+        "name": "newsnepal",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/475-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netNewsNepal1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "143",
+        "rix": "RIX0143",
+        "name": "mytv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/489-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netMyTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "144",
+        "rix": "RIX0144",
+        "name": "newatvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/493-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/NewaTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "145",
+        "rix": "RIX0145",
+        "name": "discoverykids",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/496-png",
+        "category": "Kids",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netDISCOVERYKIDS1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "146",
+        "rix": "RIX0146",
+        "name": "actionsportshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-14-131911-61405073591f9-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netACTIONSPORTSHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "147",
+        "rix": "RIX0147",
+        "name": "birattelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-01-110119-5efc1c2356a90-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netBIRATTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "148",
+        "rix": "RIX0148",
+        "name": "lumbinitvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/522-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netLumbiniTv1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "149",
+        "rix": "RIX0149",
+        "name": "suryadaya",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/527-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/SuryadayaTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "150",
+        "rix": "RIX0150",
+        "name": "tvbirgunj",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/537-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netTvBirgunjHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "151",
+        "rix": "RIX0151",
+        "name": "disneychannel",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121315-606aadff49bfe-png",
+        "category": "Kids",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netDISNEYCHANNEL1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "152",
+        "rix": "RIX0152",
+        "name": "mukundasenhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/548-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netMukundaSenTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "153",
+        "rix": "RIX0153",
+        "name": "deeptv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/562-png",
+        "category": "Spiritual & Life",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netDeepTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "154",
+        "rix": "RIX0154",
+        "name": "ddbharati",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/567-png",
+        "category": "Entertainment",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netDDBharati1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "155",
+        "rix": "RIX0155",
+        "name": "timestv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105202-606bec7630103-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/timestv.stream/playlist.m3u8"
+    },
+    {
+        "id": "156",
+        "rix": "RIX0156",
+        "name": "akashtelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-120914-606aad0e97d6f-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netAakashTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "157",
+        "rix": "RIX0157",
+        "name": "bagmatitvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-12-11-123545-6576b145f1523-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netBagmatiTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "158",
+        "rix": "RIX0158",
+        "name": "sajhatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/606-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/sajhatv.stream/playlist.m3u8"
+    },
+    {
+        "id": "159",
+        "rix": "RIX0159",
+        "name": "tharutelevision",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-10-210619-5f08876fd2527-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netTharuTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "160",
+        "rix": "RIX0160",
+        "name": "disneyinternationalhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-11-100311-5f093d83e0d6d-png",
+        "category": "HD",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netDisneyIntHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "161",
+        "rix": "RIX0161",
+        "name": "karuwatv1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-23-131203-6354ecc7389a6-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/KARUWATV.STREAM/playlist.m3u8"
+    },
+    {
+        "id": "162",
+        "rix": "RIX0162",
+        "name": "redtv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121508-606aae701e857-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/REDTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "163",
+        "rix": "RIX0163",
+        "name": "ntvitaharihd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-08-10-171354-5f312f76cf093-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netNTVitahari1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "164",
+        "rix": "RIX0164",
+        "name": "metv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-01-154225-5f9e86853141f-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netMeTvHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "165",
+        "rix": "RIX0165",
+        "name": "xraytvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-171917-606c47398f727-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/xraytv.stream/playlist.m3u8"
+    },
+    {
+        "id": "166",
+        "rix": "RIX0166",
+        "name": "capitaltvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115913-6007ca352cd52-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netCapitalTvHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "167",
+        "rix": "RIX0167",
+        "name": "colorssd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-25-222238-5f95a9d218ba5-png",
+        "category": "Entertainment",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netColorsSD.stream/playlist.m3u8"
+    },
+    {
+        "id": "168",
+        "rix": "RIX0168",
+        "name": "starplus",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-131446-5f9a6f6aa8439-png",
+        "category": "Entertainment",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARPLUSSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "169",
+        "rix": "RIX0169",
+        "name": "stargold",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-132201-5f9a711d7d0c8-png",
+        "category": "Movies",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netSTARGOLDSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "170",
+        "rix": "RIX0170",
+        "name": "prithivitv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-02-153415-5f9fd61b2b520-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/PrithiviTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "171",
+        "rix": "RIX0171",
+        "name": "a1tv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124937-5fe832051455f-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/A1tv.stream/playlist.m3u8"
+    },
+    {
+        "id": "172",
+        "rix": "RIX0172",
+        "name": "nationalgold",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-13-132742-5fae38f21c8c6-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/NationalTVHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "173",
+        "rix": "RIX0173",
+        "name": "buddhaawaz",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124920-5fe831f4cb3c1-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/Buddhaawajtv.stream/playlist.m3u8"
+    },
+    {
+        "id": "174",
+        "rix": "RIX0174",
+        "name": "saptrangi",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121533-606aae898b564-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/saptrangi.stream/playlist.m3u8"
+    },
+    {
+        "id": "175",
+        "rix": "RIX0175",
+        "name": "starmovieshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-17-173148-5fdb45287be0d-png",
+        "category": "HD",
+        "country": "us",
+        "feed": "http://103.213.31.80:80/ratvott/netStarMoviesHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "176",
+        "rix": "RIX0176",
+        "name": "starmoviesselecthd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-18-151818-5fdc775e25a72-png",
+        "category": "HD",
+        "country": "us",
+        "feed": "http://103.213.31.80:80/ratvott/netStarMoviesSelectHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "177",
+        "rix": "RIX0177",
+        "name": "nickelodeonsonic",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-05-113538-5ff3fe2eb015d-png",
+        "category": "Kids",
+        "country": "us",
+        "feed": "http://103.213.31.80:80/ratvott/netSonicNick1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "178",
+        "rix": "RIX0178",
+        "name": "globaltv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-09-151153-622872ddab0b2-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netGlobalTvNep.stream/playlist.m3u8"
+    },
+    {
+        "id": "179",
+        "rix": "RIX0179",
+        "name": "hungamatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-13-154321-5ffec43d0440a-png",
+        "category": "Kids",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netHungama1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "180",
+        "rix": "RIX0180",
+        "name": "nationalgeographicchannelsd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-19-130712-600688a4d0ba9-png",
+        "category": "Adventures",
+        "country": "us",
+        "feed": "http://103.213.31.80:80/ratvott/netNatGeoSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "181",
+        "rix": "RIX0181",
+        "name": "starbharat",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115333-6007c8e16fb0b-png",
+        "category": "Entertainment",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netStarBharatSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "182",
+        "rix": "RIX0182",
+        "name": "starmovies",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115821-6007ca01c629f-png",
+        "category": "Movies",
+        "country": "us",
+        "feed": "http://103.213.31.80:80/ratvott/netStarMoviesSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "183",
+        "rix": "RIX0183",
+        "name": "makalutvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-31-131827-60165d477593e-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netMakaluTvHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "184",
+        "rix": "RIX0184",
+        "name": "jansanchartvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-03-08-110932-6045b510b3685-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netJanaSanchar.stream/playlist.m3u8"
+    },
+    {
+        "id": "185",
+        "rix": "RIX0185",
+        "name": "kantipurcineplexhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-094857-6923d92d739b9-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netKANTIPURCINEPLEX1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "186",
+        "rix": "RIX0186",
+        "name": "bijaykillahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-121847-613464cbebd07-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/BijayKilla.stream/playlist.m3u8"
+    },
+    {
+        "id": "187",
+        "rix": "RIX0187",
+        "name": "aamnepalitvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-04-122835-6090ed17ef065-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/AamNepaliTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "188",
+        "rix": "RIX0188",
+        "name": "news18",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-30-124843-60b338cf981cb-png",
+        "category": "News",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netIBN71500.stream/playlist.m3u8"
+    },
+    {
+        "id": "189",
+        "rix": "RIX0189",
+        "name": "prabhufamilyhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-09-100434-6392b756cd59a-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netPrabhuTv1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "190",
+        "rix": "RIX0190",
+        "name": "tilotammahd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-23-115413-64e5a289ba7ce-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netTillotamaTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "191",
+        "rix": "RIX0191",
+        "name": "janakitvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-07-09-160434-60e822b6085f8-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/JanakiTvHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "192",
+        "rix": "RIX0192",
+        "name": "devdahatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-03-19-101121-67da476db2566-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netDevDaha1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "193",
+        "rix": "RIX0193",
+        "name": "cityonehd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-112743-6136fbd35b0ed-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netCity1HD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "194",
+        "rix": "RIX0194",
+        "name": "samatatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-113437-6136fd715df1d-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netSamataHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "195",
+        "rix": "RIX0195",
+        "name": "himshikhartv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-20-145426-61484fc634701-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netHimShikharTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "196",
+        "rix": "RIX0196",
+        "name": "8ktv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-02-02-171344-679f56ec30f1a-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netPanchaliTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "197",
+        "rix": "RIX0197",
+        "name": "anewshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-165616-a new -jpg",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netAnews.stream/playlist.m3u8"
+    },
+    {
+        "id": "198",
+        "rix": "RIX0198",
+        "name": "space4k",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174601-62a1e0fd0eeca-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netSPACE4K.stream/playlist.m3u8"
+    },
+    {
+        "id": "199",
+        "rix": "RIX0199",
+        "name": "pokharatvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-20-103728-6997e88c77c6d-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netPokharaTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "200",
+        "rix": "RIX0200",
+        "name": "saptakoshitv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-05-31-191123-6296177feeca5-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netSaptakoshiTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "201",
+        "rix": "RIX0201",
+        "name": "sakuratv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-05-130957-62ecc5c945e19-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netSakuraTVHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "202",
+        "rix": "RIX0202",
+        "name": "nepalnetworktv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-04-104530-62c273eea1f67-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netNepalNetwork.stream/playlist.m3u8"
+    },
+    {
+        "id": "203",
+        "rix": "RIX0203",
+        "name": "publictv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122950-62f202624ee09-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netPublicTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "204",
+        "rix": "RIX0204",
+        "name": "namastetvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-15-052653-62f988412c3b0-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/national-chitwan.stream/playlist.m3u8"
+    },
+    {
+        "id": "205",
+        "rix": "RIX0205",
+        "name": "asportshd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-16-163723-634be267debda-png",
+        "category": "Sports",
+        "country": "pk",
+        "feed": "http://103.213.31.80:80/ratvott/netASPORTSHD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "206",
+        "rix": "RIX0206",
+        "name": "worldcup1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-18-154947-637758bf21614-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/hpremiumPAID/playlist.m3u8"
+    },
+    {
+        "id": "207",
+        "rix": "RIX0207",
+        "name": "nepatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-13-161720-6370c7b4c7a63-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netNepaTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "208",
+        "rix": "RIX0208",
+        "name": "1plus4k",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-15-161258-639af6ae48bb6-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/OnePlusHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "209",
+        "rix": "RIX0209",
+        "name": "7star4k",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-03-13-181414-640f171ad5d60-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/net7star4k.stream/playlist.m3u8"
+    },
+    {
+        "id": "210",
+        "rix": "RIX0210",
+        "name": "koshi4k",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-06-24-220846-Koshi-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/KoshiTvHD/playlist.m3u8"
+    },
+    {
+        "id": "211",
+        "rix": "RIX0211",
+        "name": "sanghutvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-16-102621-64b374f16ec26-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/SanghuTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "212",
+        "rix": "RIX0212",
+        "name": "animalplanet",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-171849-64bfb31d692d7-png",
+        "category": "Adventures",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/AnimalPlanetSD1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "213",
+        "rix": "RIX0213",
+        "name": "discoveryscience",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-02-143201-64ca1805a89ba-png",
+        "category": "Adventures",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netDisScience.stream/playlist.m3u8"
+    },
+    {
+        "id": "214",
+        "rix": "RIX0214",
+        "name": "pubgmobilegamerspack",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-09-04-123542-64f57e42b0dca-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/PubgEvent1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "215",
+        "rix": "RIX0215",
+        "name": "sarokartv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-14-120505-65a37d1522555-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/SAROKARTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "216",
+        "rix": "RIX0216",
+        "name": "rodhitv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-162651-65b8d26fe2c2c-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/iptvlivestream/netRodhiTv1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "217",
+        "rix": "RIX0217",
+        "name": "prismatvhd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-173633-65b8e2c588b4f-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netPrismaHD.stream/playlist.m3u8"
+    },
+    {
+        "id": "218",
+        "rix": "RIX0218",
+        "name": "sambridhatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-06-05-134825-66601bcd937d1-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netSambhridhaTvHD/playlist.m3u8"
+    },
+    {
+        "id": "219",
+        "rix": "RIX0219",
+        "name": "khwopatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-07-10-162801-668e65b5104bc-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/KhwopaTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "220",
+        "rix": "RIX0220",
+        "name": "shemaroobollywood",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122127-66dfe8ebb89b3-png",
+        "category": "HD",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/ShemarooBollywoodHD/playlist.m3u8"
+    },
+    {
+        "id": "221",
+        "rix": "RIX0221",
+        "name": "mnplus",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122515-66dfe9cf25f53-png",
+        "category": "HD",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/MNPlusHD/playlist.m3u8"
+    },
+    {
+        "id": "222",
+        "rix": "RIX0222",
+        "name": "yrfmusic",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154034-6705019610b56-png",
+        "category": "HD",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/YRFMusic.stream/playlist.m3u8"
+    },
+    {
+        "id": "223",
+        "rix": "RIX0223",
+        "name": "sheramoofilmigaane",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154232-6705020c2f333-png",
+        "category": "Music",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/ShemarooFilmiGana/playlist.m3u8"
+    },
+    {
+        "id": "224",
+        "rix": "RIX0224",
+        "name": "themovieclub",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-09-123025-67062685eb80e-png",
+        "category": "HD",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/TheMovieClub/playlist.m3u8"
+    },
+    {
+        "id": "225",
+        "rix": "RIX0225",
+        "name": "animax",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-23-135913-6718b055685cb-png",
+        "category": "Kids",
+        "country": "jp",
+        "feed": "http://103.213.31.80:80/ratvott/AnimaxHD/playlist.m3u8"
+    },
+    {
+        "id": "226",
+        "rix": "RIX0226",
+        "name": "anjantv1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-11-26-123146-67456ed6084b1-png",
+        "category": "Spiritual & Life",
+        "country": "in",
+        "feed": "http://103.213.31.80:80/ratvott/netAnjanTvSD.stream/playlist.m3u8"
+    },
+    {
+        "id": "227",
+        "rix": "RIX0227",
+        "name": "testchannel1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131714-68aabffeec887-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/TestChannel1.stream/playlist.m3u8"
+    },
+    {
+        "id": "228",
+        "rix": "RIX0228",
+        "name": "sunrisehd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-112207-68467303810d6-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/SunriseTv.stream/playlist.m3u8"
+    },
+    {
+        "id": "229",
+        "rix": "RIX0229",
+        "name": "gtv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netGTV1500.stream/playlist.m3u8"
+    },
+    {
+        "id": "230",
+        "rix": "RIX0230",
+        "name": "sports1",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131222-68aabedacb3d6-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/BeinSports1/playlist.m3u8"
+    },
+    {
+        "id": "231",
+        "rix": "RIX0231",
+        "name": "sports2",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131451-68aabf6f3ba7f-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/BeinSports2/playlist.m3u8"
+    },
+    {
+        "id": "232",
+        "rix": "RIX0232",
+        "name": "kntipurmax2hd",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-083747-6923c87fcc017-png",
+        "category": "Sports",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/KantipurMax2HD.stream/playlist.m3u8"
+    },
+    {
+        "id": "233",
+        "rix": "RIX0233",
+        "name": "entv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-12-17-111734-6942407280fb4-png",
+        "category": "Nepali",
+        "country": "np",
+        "feed": "http://103.213.31.80:80/ratvott/netENTV.stream/playlist.m3u8"
+    },
+    {
+        "id": "234",
+        "rix": "RIX0234",
+        "name": "kangbatv",
+        "logo": "https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-17-131526-699419125836e-png",
+        "category": "International",
+        "country": "cn",
+        "feed": "http://103.213.31.80:80/ratvott/netKangba1500.stream/playlist.m3u8"
+    }
+]
