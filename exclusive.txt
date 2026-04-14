@@ -19168,26 +19168,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9d
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
-#EXTINF:-1 group-title="Extra Masala+" tvg-logo="https://www.businessoutreach.in/wp-content/uploads/2023/11/image-87.png", Cricbuzz Sports
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 #EXTINF:-1 group-title="Extra Masala+" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg", Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa392dd68481103587fcc21bcb6d205a:9c796aecdd9d606d6f877e36b3f0753e
-#EXTINF:-1 group-title="Extra Masala+" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg", Willow Hindi
-#EXTVLCOPT:http-user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25
-#EXTVLCOPT:http-cookie=hdntl=exp=1776258797~acl=%2f*~id=cb9cf526-4fa1-4bcf-ad71-83227ea21b44~data=hdntl~hmac=079fc9b597e10d2930c706eebb22b838fd4ae05fc5d76bb876d452b37044d715
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/151763/master.m3u8?|cookie=hdntl=exp=1776258797~acl=%2f*~id=cb9cf526-4fa1-4bcf-ad71-83227ea21b44~data=hdntl~hmac=079fc9b597e10d2930c706eebb22b838fd4ae05fc5d76bb876d452b37044d715&User-Agent=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&X-Forwarded-For=100.42.240.25
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa392dd68481103587fcc21bcb6d205a:9c796aecdd9d606d6f877e36b3f0753e
-#EXTINF:-1 group-title="Extra Masala+" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg", Willow English
-#EXTVLCOPT:http-user-agent=Cricbuzz/7.00.01 (Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25
-#EXTVLCOPT:http-cookie=hdntl=exp=1776258797~acl=%2f*~id=cb9cf526-4fa1-4bcf-ad71-83227ea21b44~data=hdntl~hmac=079fc9b597e10d2930c706eebb22b838fd4ae05fc5d76bb876d452b37044d715
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/151763/master.m3u8?|cookie=hdntl=exp=1776258797~acl=%2f*~id=cb9cf526-4fa1-4bcf-ad71-83227ea21b44~data=hdntl~hmac=079fc9b597e10d2930c706eebb22b838fd4ae05fc5d76bb876d452b37044d715&User-Agent=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&X-Forwarded-For=100.42.240.25
 
