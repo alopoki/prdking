@@ -32,7 +32,7 @@ https://livetv.hotstar.com/mp1/gec-india/04b034555d63400d9bc304bf91950874/index_
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="ᴄᴏʟᴅꜱᴛᴀʀ | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",STAR SPORTS CRICKET CLASSIC
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/16)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775045393~acl=%2f*~id=c141f154ab8e196132e41d599812aa6a~data=hdntl~hmac=a36d2d93b4130bdd797d9fb149169ab9b808c4e40384a05c5a0d32cfddd51149","Referer":"https://www.hotstar.com/"}
-#https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8
+https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="ᴄᴏʟᴅꜱᴛᴀʀ | General" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",T20s TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/16)
