@@ -18378,939 +18378,939 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=3530
 ________NEXA TV________
 
 
-#EXTINF:-1 tvg-id="ts1" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-04-161618-5fca0ff692564-png",Nepal TV
+#EXTINF:-1 tvg-id="ts1" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-04-161618-5fca0ff692564-png",Nepal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=1
 
-#EXTINF:-1 tvg-id="ts2" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/25-png",BBC News
+#EXTINF:-1 tvg-id="ts2" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/25-png",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=2
 
-#EXTINF:-1 tvg-id="ts3" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/26-png",CNN
+#EXTINF:-1 tvg-id="ts3" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/26-png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=3
 
-#EXTINF:-1 tvg-id="ts4" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/29-png",Euronews English
+#EXTINF:-1 tvg-id="ts4" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/29-png",Euronews English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=4
 
-#EXTINF:-1 tvg-id="ts5" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150811-6846a7ff82d7e-png",Zee News
+#EXTINF:-1 tvg-id="ts5" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150811-6846a7ff82d7e-png",Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=5
 
-#EXTINF:-1 tvg-id="ts6" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150719-6846a7cbe99a6-png",Zee Business
+#EXTINF:-1 tvg-id="ts6" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-150719-6846a7cbe99a6-png",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=6
 
-#EXTINF:-1 tvg-id="ts7" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/36-png",DD News
+#EXTINF:-1 tvg-id="ts7" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/36-png",DD News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=7
 
-#EXTINF:-1 tvg-id="ts8" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/41-png",Kantipur HD
+#EXTINF:-1 tvg-id="ts8" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/41-png",Kantipur HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=8
 
-#EXTINF:-1 tvg-id="ts9" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123214-61fb7a72bd299-png",AP1 HD
+#EXTINF:-1 tvg-id="ts9" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123214-61fb7a72bd299-png",AP1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=9
 
-#EXTINF:-1 tvg-id="ts10" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/43-png",NTV News
+#EXTINF:-1 tvg-id="ts10" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/43-png",NTV News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=10
 
-#EXTINF:-1 tvg-id="ts11" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/44-png",NTV Plus
+#EXTINF:-1 tvg-id="ts11" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/44-png",NTV Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=11
 
-#EXTINF:-1 tvg-id="ts12" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/45-png",Avenues TV
+#EXTINF:-1 tvg-id="ts12" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/45-png",Avenues TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=12
 
-#EXTINF:-1 tvg-id="ts13" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-09-171526-6989c552d864c-png",News 24
+#EXTINF:-1 tvg-id="ts13" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-09-171526-6989c552d864c-png",News 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=13
 
-#EXTINF:-1 tvg-id="ts14" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/47-png",Himalayan TV
+#EXTINF:-1 tvg-id="ts14" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/47-png",Himalayan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=14
 
-#EXTINF:-1 tvg-id="ts15" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123230-61fb7a82be12a-png",Image Channel
+#EXTINF:-1 tvg-id="ts15" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123230-61fb7a82be12a-png",Image Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=15
 
-#EXTINF:-1 tvg-id="ts16" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/49-png",ABC TV
+#EXTINF:-1 tvg-id="ts16" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/49-png",ABC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=16
 
-#EXTINF:-1 tvg-id="ts17" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/50-png",Sagarmatha TV
+#EXTINF:-1 tvg-id="ts17" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/50-png",Sagarmatha TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=17
 
-#EXTINF:-1 tvg-id="ts18" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/51-png",Janata TV
+#EXTINF:-1 tvg-id="ts18" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/51-png",Janata TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=18
 
-#EXTINF:-1 tvg-id="ts19" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-155847-6134985b16114-png",TV Today
+#EXTINF:-1 tvg-id="ts19" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-155847-6134985b16114-png",TV Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=19
 
-#EXTINF:-1 tvg-id="ts20" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115215-60af3713dbed3-png",Mountain TV
+#EXTINF:-1 tvg-id="ts20" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115215-60af3713dbed3-png",Mountain TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=20
 
-#EXTINF:-1 tvg-id="ts21" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-07-105107-64a79d3fe9ade-png",TV Filmy
+#EXTINF:-1 tvg-id="ts21" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-07-105107-64a79d3fe9ade-png",TV Filmy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=21
 
-#EXTINF:-1 tvg-id="ts22" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/56-png",Business TV Nepal
+#EXTINF:-1 tvg-id="ts22" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/56-png",Business TV Nepal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=22
 
-#EXTINF:-1 tvg-id="ts23" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115351-60af37730c1f6-png",Business Plus
+#EXTINF:-1 tvg-id="ts23" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115351-60af37730c1f6-png",Business Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=23
 
-#EXTINF:-1 tvg-id="ts24" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/61-png",NTV Kohalpur
+#EXTINF:-1 tvg-id="ts24" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/61-png",NTV Kohalpur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=24
 
-#EXTINF:-1 tvg-id="ts25" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/63-png",Channel 4 Nepal
+#EXTINF:-1 tvg-id="ts25" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/63-png",Channel 4 Nepal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=25
 
-#EXTINF:-1 tvg-id="ts26" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/64-png",Indigenous Television
+#EXTINF:-1 tvg-id="ts26" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/64-png",Indigenous Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=26
 
-#EXTINF:-1 tvg-id="ts27" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-10-121521-6847d0fdce759-png",Living Foodz
+#EXTINF:-1 tvg-id="ts27" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-10-121521-6847d0fdce759-png",Living Foodz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=27
 
-#EXTINF:-1 tvg-id="ts28" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115419-60af378f8e6ce-png",Bhakti Darshan
+#EXTINF:-1 tvg-id="ts28" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115419-60af378f8e6ce-png",Bhakti Darshan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=28
 
-#EXTINF:-1 tvg-id="ts29" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/74-png",Peace of Mind
+#EXTINF:-1 tvg-id="ts29" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/74-png",Peace of Mind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=29
 
-#EXTINF:-1 tvg-id="ts30" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/76-png",Aastha
+#EXTINF:-1 tvg-id="ts30" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/76-png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=30
 
-#EXTINF:-1 tvg-id="ts31" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/77-png",Sanskar TV
+#EXTINF:-1 tvg-id="ts31" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/77-png",Sanskar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=31
 
-#EXTINF:-1 tvg-id="ts32" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123622-61fb7b6a18726-png",Daystar
+#EXTINF:-1 tvg-id="ts32" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123622-61fb7b6a18726-png",Daystar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=32
 
-#EXTINF:-1 tvg-id="ts33" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-155826-636788c63a56b-png",Sony Entertainment HD
+#EXTINF:-1 tvg-id="ts33" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-155826-636788c63a56b-png",Sony Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=33
 
-#EXTINF:-1 tvg-id="ts34" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/85-png",Colors HD
+#EXTINF:-1 tvg-id="ts34" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/85-png",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=34
 
-#EXTINF:-1 tvg-id="ts35" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121033-68467e5d32627-png",Zee TV HD
+#EXTINF:-1 tvg-id="ts35" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121033-68467e5d32627-png",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=35
 
-#EXTINF:-1 tvg-id="ts36" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/87-png",Star Bharat HD
+#EXTINF:-1 tvg-id="ts36" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/87-png",Star Bharat HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=36
 
-#EXTINF:-1 tvg-id="ts37" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/88-png",Star Plus HD
+#EXTINF:-1 tvg-id="ts37" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/88-png",Star Plus HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=37
 
-#EXTINF:-1 tvg-id="ts38" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121132-68467e9856b1e-png",Zee Cafe HD
+#EXTINF:-1 tvg-id="ts38" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121132-68467e9856b1e-png",Zee Cafe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=38
 
-#EXTINF:-1 tvg-id="ts39" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-19-134025-643f9e6dc1eb0-png",Sony SAB
+#EXTINF:-1 tvg-id="ts39" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-19-134025-643f9e6dc1eb0-png",Sony SAB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=39
 
-#EXTINF:-1 tvg-id="ts40" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-180132-64bfbd204c772-png",Sony Pal
+#EXTINF:-1 tvg-id="ts40" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-180132-64bfbd204c772-png",Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=40
 
-#EXTINF:-1 tvg-id="ts41" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163055-5ff1a0632d91c-png",Rishtey
+#EXTINF:-1 tvg-id="ts41" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163055-5ff1a0632d91c-png",Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=41
 
-#EXTINF:-1 tvg-id="ts42" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145732-63677a803e7d3-png",Sony Ten 1 HD
+#EXTINF:-1 tvg-id="ts42" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145732-63677a803e7d3-png",Sony Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=42
 
-#EXTINF:-1 tvg-id="ts43" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145855-63677ad3684a7-png",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="ts43" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145855-63677ad3684a7-png",Sony Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=43
 
-#EXTINF:-1 tvg-id="ts44" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145924-63677af01e20c-png",Sony Ten 3 HD
+#EXTINF:-1 tvg-id="ts44" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145924-63677af01e20c-png",Sony Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=44
 
-#EXTINF:-1 tvg-id="ts45" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150026-63677b2e91d15-png",Sony Six HD
+#EXTINF:-1 tvg-id="ts45" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150026-63677b2e91d15-png",Sony Six HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=45
 
-#EXTINF:-1 tvg-id="ts46" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/112-png",Star Sports 1 HD
+#EXTINF:-1 tvg-id="ts46" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/112-png",Star Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=46
 
-#EXTINF:-1 tvg-id="ts47" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/113-png",Star Sports 2 HD
+#EXTINF:-1 tvg-id="ts47" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/113-png",Star Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=47
 
-#EXTINF:-1 tvg-id="ts48" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123450-61fb7b0ea2abc-png",Star Sports 1 HD Hindi
+#EXTINF:-1 tvg-id="ts48" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123450-61fb7b0ea2abc-png",Star Sports 1 HD Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=48
 
-#EXTINF:-1 tvg-id="ts49" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/115-png",Star Sports Select HD 1
+#EXTINF:-1 tvg-id="ts49" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/115-png",Star Sports Select HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=49
 
-#EXTINF:-1 tvg-id="ts50" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/116-png",Star Sports Select HD 2
+#EXTINF:-1 tvg-id="ts50" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/116-png",Star Sports Select HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=50
 
-#EXTINF:-1 tvg-id="ts51" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/123-png",DD Sports
+#EXTINF:-1 tvg-id="ts51" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/123-png",DD Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=51
 
-#EXTINF:-1 tvg-id="ts52" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/124-png",Star Sports 1
+#EXTINF:-1 tvg-id="ts52" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/124-png",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=52
 
-#EXTINF:-1 tvg-id="ts53" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/125-png",HBO HD
+#EXTINF:-1 tvg-id="ts53" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/125-png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=53
 
-#EXTINF:-1 tvg-id="ts54" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-05-22-132737-682ed56d7a9be-png",Cinemax HD
+#EXTINF:-1 tvg-id="ts54" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-05-22-132737-682ed56d7a9be-png",Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=54
 
-#EXTINF:-1 tvg-id="ts55" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-120929-68467e1df35d5-png",Zee Cinema HD
+#EXTINF:-1 tvg-id="ts55" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-120929-68467e1df35d5-png",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=55
 
-#EXTINF:-1 tvg-id="ts56" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/132-png",Star Gold Select HD
+#EXTINF:-1 tvg-id="ts56" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/132-png",Star Gold Select HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=56
 
-#EXTINF:-1 tvg-id="ts57" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121220-68467ec88c507-png",Zee Cinema
+#EXTINF:-1 tvg-id="ts57" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-121220-68467ec88c507-png",Zee Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=57
 
-#EXTINF:-1 tvg-id="ts58" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150213-63677b99078d6-png",Sony Max 2
+#EXTINF:-1 tvg-id="ts58" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150213-63677b99078d6-png",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=58
 
-#EXTINF:-1 tvg-id="ts59" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121644-606aaed00d3ca-png",Movies OK
+#EXTINF:-1 tvg-id="ts59" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121644-606aaed00d3ca-png",Movies OK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=59
 
-#EXTINF:-1 tvg-id="ts60" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/141-png",Lotus Macau HD
+#EXTINF:-1 tvg-id="ts60" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/141-png",Lotus Macau HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=60
 
-#EXTINF:-1 tvg-id="ts61" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150236-63677bb08ef4e-png",Sony Pix
+#EXTINF:-1 tvg-id="ts61" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150236-63677bb08ef4e-png",Sony Pix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=61
 
-#EXTINF:-1 tvg-id="ts62" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/151-png",Star Utsav Movies
+#EXTINF:-1 tvg-id="ts62" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/151-png",Star Utsav Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=62
 
-#EXTINF:-1 tvg-id="ts63" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163319-5ff1a0f34c7ea-png",MTV
+#EXTINF:-1 tvg-id="ts63" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-03-163319-5ff1a0f34c7ea-png",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=63
 
-#EXTINF:-1 tvg-id="ts64" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/163-png",Zing
+#EXTINF:-1 tvg-id="ts64" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/163-png",Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=64
 
-#EXTINF:-1 tvg-id="ts65" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/168-png",Sangeet Bhojpuri
+#EXTINF:-1 tvg-id="ts65" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/168-png",Sangeet Bhojpuri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=65
 
-#EXTINF:-1 tvg-id="ts66" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/170-png",Nick Jr
+#EXTINF:-1 tvg-id="ts66" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/170-png",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=66
 
-#EXTINF:-1 tvg-id="ts67" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/171-png",Pogo
+#EXTINF:-1 tvg-id="ts67" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/171-png",Pogo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=67
 
-#EXTINF:-1 tvg-id="ts68" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/172-png",Disney Junior
+#EXTINF:-1 tvg-id="ts68" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/172-png",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=68
 
-#EXTINF:-1 tvg-id="ts69" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-07-125624-6225b01c98a09-png",Disney XD
+#EXTINF:-1 tvg-id="ts69" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-07-125624-6225b01c98a09-png",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=69
 
-#EXTINF:-1 tvg-id="ts70" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/174-png",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ts70" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/174-png",Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=70
 
-#EXTINF:-1 tvg-id="ts71" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123529-61fb7b352d43a-png",Animal Planet HD
+#EXTINF:-1 tvg-id="ts71" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123529-61fb7b352d43a-png",Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=71
 
-#EXTINF:-1 tvg-id="ts72" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/177-png",National Geographic Channel HD
+#EXTINF:-1 tvg-id="ts72" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/177-png",National Geographic Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=72
 
-#EXTINF:-1 tvg-id="ts73" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123559-61fb7b53c7163-png",Discovery HD World
+#EXTINF:-1 tvg-id="ts73" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123559-61fb7b53c7163-png",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=73
 
-#EXTINF:-1 tvg-id="ts74" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/179-png",History TV 18
+#EXTINF:-1 tvg-id="ts74" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/179-png",History TV 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=74
 
-#EXTINF:-1 tvg-id="ts75" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/180-png",TLC HD World
+#EXTINF:-1 tvg-id="ts75" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/180-png",TLC HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=75
 
-#EXTINF:-1 tvg-id="ts76" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/181-png",Sony BBC Earth
+#EXTINF:-1 tvg-id="ts76" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/181-png",Sony BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=76
 
-#EXTINF:-1 tvg-id="ts77" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/182-png",Discovery Turbo
+#EXTINF:-1 tvg-id="ts77" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/182-png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=77
 
-#EXTINF:-1 tvg-id="ts78" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/204-png",DW TV HD
+#EXTINF:-1 tvg-id="ts78" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/204-png",DW TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=78
 
-#EXTINF:-1 tvg-id="ts79" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/206-png",TV5 Monde
+#EXTINF:-1 tvg-id="ts79" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/206-png",TV5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=79
 
-#EXTINF:-1 tvg-id="ts80" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/210-png",NHK Premium HD
+#EXTINF:-1 tvg-id="ts80" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/210-png",NHK Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=80
 
-#EXTINF:-1 tvg-id="ts81" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/211-png",Arirang HD
+#EXTINF:-1 tvg-id="ts81" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/211-png",Arirang HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=81
 
-#EXTINF:-1 tvg-id="ts82" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/212-png",NHK World HD
+#EXTINF:-1 tvg-id="ts82" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/212-png",NHK World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=82
 
-#EXTINF:-1 tvg-id="ts83" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/213-png",Al Jazeera HD
+#EXTINF:-1 tvg-id="ts83" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/213-png",Al Jazeera HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=83
 
-#EXTINF:-1 tvg-id="ts84" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/214-png",Star Gold HD
+#EXTINF:-1 tvg-id="ts84" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/214-png",Star Gold HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=84
 
-#EXTINF:-1 tvg-id="ts85" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/215-png",HBO Hits HD
+#EXTINF:-1 tvg-id="ts85" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/215-png",HBO Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=85
 
-#EXTINF:-1 tvg-id="ts86" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121343-606aae1b748ee-png",HBO Family HD
+#EXTINF:-1 tvg-id="ts86" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121343-606aae1b748ee-png",HBO Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=86
 
-#EXTINF:-1 tvg-id="ts87" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/217-png",HBO Signature HD
+#EXTINF:-1 tvg-id="ts87" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/217-png",HBO Signature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=87
 
-#EXTINF:-1 tvg-id="ts88" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/218-png",Star Gold Select
+#EXTINF:-1 tvg-id="ts88" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/218-png",Star Gold Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=88
 
-#EXTINF:-1 tvg-id="ts89" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/221-png",News Asia HD
+#EXTINF:-1 tvg-id="ts89" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/221-png",News Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=89
 
-#EXTINF:-1 tvg-id="ts90" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/223-png",Aaj Tak
+#EXTINF:-1 tvg-id="ts90" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/223-png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=90
 
-#EXTINF:-1 tvg-id="ts91" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/225-png",Cartoon Network
+#EXTINF:-1 tvg-id="ts91" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/225-png",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=91
 
-#EXTINF:-1 tvg-id="ts92" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/227-png",Peace TV Urdu
+#EXTINF:-1 tvg-id="ts92" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/227-png",Peace TV Urdu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=92
 
-#EXTINF:-1 tvg-id="ts93" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/228-png",Nepal Mandal
+#EXTINF:-1 tvg-id="ts93" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/228-png",Nepal Mandal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=93
 
-#EXTINF:-1 tvg-id="ts94" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/229-png",Fashion TV Asia HD
+#EXTINF:-1 tvg-id="ts94" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/229-png",Fashion TV Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=94
 
-#EXTINF:-1 tvg-id="ts95" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/230-png",France 24 English HD
+#EXTINF:-1 tvg-id="ts95" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/230-png",France 24 English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=95
 
-#EXTINF:-1 tvg-id="ts96" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/235-png",Star Sports Select 2
+#EXTINF:-1 tvg-id="ts96" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/235-png",Star Sports Select 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=96
 
-#EXTINF:-1 tvg-id="ts97" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/237-png",Appan TV
+#EXTINF:-1 tvg-id="ts97" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/237-png",Appan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=97
 
-#EXTINF:-1 tvg-id="ts98" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/238-png",Bodhi TV HD
+#EXTINF:-1 tvg-id="ts98" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/238-png",Bodhi TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=98
 
-#EXTINF:-1 tvg-id="ts99" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-08-125925-62021851184ef-png",Mega TV
+#EXTINF:-1 tvg-id="ts99" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-08-125925-62021851184ef-png",Mega TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=99
 
-#EXTINF:-1 tvg-id="ts100" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/240-png",Madani Channel
+#EXTINF:-1 tvg-id="ts100" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/240-png",Madani Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=100
 
-#EXTINF:-1 tvg-id="ts101" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/241-png",TRT World HD
+#EXTINF:-1 tvg-id="ts101" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/241-png",TRT World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=101
 
-#EXTINF:-1 tvg-id="ts102" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/242-png",Star Sports Select 1 SD
+#EXTINF:-1 tvg-id="ts102" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/242-png",Star Sports Select 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=102
 
-#EXTINF:-1 tvg-id="ts103" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/243-png",Star Sports 2
+#EXTINF:-1 tvg-id="ts103" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/243-png",Star Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=103
 
-#EXTINF:-1 tvg-id="ts104" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/245-png",Yes TV
+#EXTINF:-1 tvg-id="ts104" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/245-png",Yes TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=104
 
-#EXTINF:-1 tvg-id="ts105" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/246-png",Kastamandap Television
+#EXTINF:-1 tvg-id="ts105" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/246-png",Kastamandap Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=105
 
-#EXTINF:-1 tvg-id="ts106" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/257-png",Arena TV
+#EXTINF:-1 tvg-id="ts106" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/257-png",Arena TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=106
 
-#EXTINF:-1 tvg-id="ts107" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/264-png",Sony BBC Earth 1
+#EXTINF:-1 tvg-id="ts107" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/264-png",Sony BBC Earth 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=107
 
-#EXTINF:-1 tvg-id="ts108" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174459-62a1e0bfd8748-png",Prime Times
+#EXTINF:-1 tvg-id="ts108" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174459-62a1e0bfd8748-png",Prime Times
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=108
 
-#EXTINF:-1 tvg-id="ts109" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/270-png",Cineplex HD
+#EXTINF:-1 tvg-id="ts109" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/270-png",Cineplex HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=109
 
-#EXTINF:-1 tvg-id="ts110" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/272-png",Kalika HD
+#EXTINF:-1 tvg-id="ts110" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/272-png",Kalika HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=110
 
-#EXTINF:-1 tvg-id="ts111" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121810-606aaf2695875-png",TV Today Janakpur
+#EXTINF:-1 tvg-id="ts111" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121810-606aaf2695875-png",TV Today Janakpur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=111
 
-#EXTINF:-1 tvg-id="ts112" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-15-105137-62d0f5dd4d609-png",Namaste TV
+#EXTINF:-1 tvg-id="ts112" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-15-105137-62d0f5dd4d609-png",Namaste TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=112
 
-#EXTINF:-1 tvg-id="ts113" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/282-png",ABC Australia Asia
+#EXTINF:-1 tvg-id="ts113" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/282-png",ABC Australia Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=113
 
-#EXTINF:-1 tvg-id="ts114" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-10-21-171441-61714f25a8908-png",KBS World 24
+#EXTINF:-1 tvg-id="ts114" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-10-21-171441-61714f25a8908-png",KBS World 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=114
 
-#EXTINF:-1 tvg-id="ts115" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/293-png",Angel TV HD
+#EXTINF:-1 tvg-id="ts115" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/293-png",Angel TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=115
 
-#EXTINF:-1 tvg-id="ts116" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/294-png",Buddha TV
+#EXTINF:-1 tvg-id="ts116" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/294-png",Buddha TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=116
 
-#EXTINF:-1 tvg-id="ts117" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150128-63677b6c11576-png",Sony Max HD
+#EXTINF:-1 tvg-id="ts117" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150128-63677b6c11576-png",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=117
 
-#EXTINF:-1 tvg-id="ts118" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150100-63677b5084440-png",Sony SAB HD
+#EXTINF:-1 tvg-id="ts118" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150100-63677b5084440-png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=118
 
-#EXTINF:-1 tvg-id="ts119" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/316-png",Nick India
+#EXTINF:-1 tvg-id="ts119" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/316-png",Nick India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=119
 
-#EXTINF:-1 tvg-id="ts120" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/317-png",TLC India
+#EXTINF:-1 tvg-id="ts120" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/317-png",TLC India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=120
 
-#EXTINF:-1 tvg-id="ts121" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-175416-64bfbb6c8d13e-png",Discovery Channel
+#EXTINF:-1 tvg-id="ts121" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-175416-64bfbb6c8d13e-png",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=121
 
-#EXTINF:-1 tvg-id="ts122" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123508-61fb7b20d6390-png",Star Sports 3
+#EXTINF:-1 tvg-id="ts122" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123508-61fb7b20d6390-png",Star Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=122
 
-#EXTINF:-1 tvg-id="ts123" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-01-02-214312-61d1cb943f5a7-png",Paryawaran TV
+#EXTINF:-1 tvg-id="ts123" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-01-02-214312-61d1cb943f5a7-png",Paryawaran TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=123
 
-#EXTINF:-1 tvg-id="ts124" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121056-606aad74ebe13-png",Bhadgaun Television
+#EXTINF:-1 tvg-id="ts124" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121056-606aad74ebe13-png",Bhadgaun Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=124
 
-#EXTINF:-1 tvg-id="ts125" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/325-png",Fewa TV HD
+#EXTINF:-1 tvg-id="ts125" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/325-png",Fewa TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=125
 
-#EXTINF:-1 tvg-id="ts126" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105249-606beca58dbdb-png",Life OK Nepal
+#EXTINF:-1 tvg-id="ts126" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105249-606beca58dbdb-png",Life OK Nepal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=126
 
-#EXTINF:-1 tvg-id="ts127" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/328-png",CBeebies Asia HD
+#EXTINF:-1 tvg-id="ts127" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/328-png",CBeebies Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=127
 
-#EXTINF:-1 tvg-id="ts128" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122543-62f2016ba9da3-png",Zee Nepal TV
+#EXTINF:-1 tvg-id="ts128" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122543-62f2016ba9da3-png",Zee Nepal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=128
 
-#EXTINF:-1 tvg-id="ts129" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/332-png",Divya Darshan HD
+#EXTINF:-1 tvg-id="ts129" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/332-png",Divya Darshan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=129
 
-#EXTINF:-1 tvg-id="ts130" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/360-png",CGTN HD
+#EXTINF:-1 tvg-id="ts130" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/360-png",CGTN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=130
 
-#EXTINF:-1 tvg-id="ts131" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/361-png",CGTN Documentary
+#EXTINF:-1 tvg-id="ts131" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/361-png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=131
 
-#EXTINF:-1 tvg-id="ts132" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-12-085022-62a557f20885e-png",Rapti Darpan HD
+#EXTINF:-1 tvg-id="ts132" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-12-085022-62a557f20885e-png",Rapti Darpan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=132
 
-#EXTINF:-1 tvg-id="ts133" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/398-png",Omkar Television
+#EXTINF:-1 tvg-id="ts133" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/398-png",Omkar Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=133
 
-#EXTINF:-1 tvg-id="ts134" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/399-png",Mithila TV HD
+#EXTINF:-1 tvg-id="ts134" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/399-png",Mithila TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=134
 
-#EXTINF:-1 tvg-id="ts135" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-04-04-132702-67ef8d4a557e4-png",Education TV
+#EXTINF:-1 tvg-id="ts135" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-04-04-132702-67ef8d4a557e4-png",Education TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=135
 
-#EXTINF:-1 tvg-id="ts136" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-164525-yoho-png",Yoho TV HD
+#EXTINF:-1 tvg-id="ts136" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-164525-yoho-png",Yoho TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=136
 
-#EXTINF:-1 tvg-id="ts137" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-23-140731-66f125476fdb8-png",Anna Television
+#EXTINF:-1 tvg-id="ts137" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-23-140731-66f125476fdb8-png",Anna Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=137
 
-#EXTINF:-1 tvg-id="ts138" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-03-175420-6220aff0ebdf0-png",Araniko Television
+#EXTINF:-1 tvg-id="ts138" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-03-175420-6220aff0ebdf0-png",Araniko Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=138
 
-#EXTINF:-1 tvg-id="ts139" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/424-png",Kisan TV
+#EXTINF:-1 tvg-id="ts139" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/424-png",Kisan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=139
 
-#EXTINF:-1 tvg-id="ts140" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/430-png",Rajya Television
+#EXTINF:-1 tvg-id="ts140" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/430-png",Rajya Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=140
 
-#EXTINF:-1 tvg-id="ts141" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105132-606bec585400e-png",Channel Ace
+#EXTINF:-1 tvg-id="ts141" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105132-606bec585400e-png",Channel Ace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=141
 
-#EXTINF:-1 tvg-id="ts142" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/475-png",News Nepal
+#EXTINF:-1 tvg-id="ts142" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/475-png",News Nepal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=142
 
-#EXTINF:-1 tvg-id="ts143" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/489-png",My TV
+#EXTINF:-1 tvg-id="ts143" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/489-png",My TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=143
 
-#EXTINF:-1 tvg-id="ts144" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/493-png",Newa TV HD
+#EXTINF:-1 tvg-id="ts144" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/493-png",Newa TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=144
 
-#EXTINF:-1 tvg-id="ts145" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/496-png",Discovery Kids
+#EXTINF:-1 tvg-id="ts145" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/496-png",Discovery Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=145
 
-#EXTINF:-1 tvg-id="ts146" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-14-131911-61405073591f9-png",Action Sports HD
+#EXTINF:-1 tvg-id="ts146" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-14-131911-61405073591f9-png",Action Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=146
 
-#EXTINF:-1 tvg-id="ts147" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-01-110119-5efc1c2356a90-png",Birat Television
+#EXTINF:-1 tvg-id="ts147" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-01-110119-5efc1c2356a90-png",Birat Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=147
 
-#EXTINF:-1 tvg-id="ts148" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/522-png",Lumbini TV HD
+#EXTINF:-1 tvg-id="ts148" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/522-png",Lumbini TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=148
 
-#EXTINF:-1 tvg-id="ts149" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/527-png",Suryadaya
+#EXTINF:-1 tvg-id="ts149" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/527-png",Suryadaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=149
 
-#EXTINF:-1 tvg-id="ts150" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/537-png",TV Birgunj
+#EXTINF:-1 tvg-id="ts150" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/537-png",TV Birgunj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=150
 
-#EXTINF:-1 tvg-id="ts151" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121315-606aadff49bfe-png",Disney Channel
+#EXTINF:-1 tvg-id="ts151" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121315-606aadff49bfe-png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=151
 
-#EXTINF:-1 tvg-id="ts152" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/548-png",Mukundasen HD
+#EXTINF:-1 tvg-id="ts152" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/548-png",Mukundasen HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=152
 
-#EXTINF:-1 tvg-id="ts153" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/562-png",Deep TV
+#EXTINF:-1 tvg-id="ts153" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/562-png",Deep TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=153
 
-#EXTINF:-1 tvg-id="ts154" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/567-png",DD Bharati
+#EXTINF:-1 tvg-id="ts154" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/567-png",DD Bharati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=154
 
-#EXTINF:-1 tvg-id="ts155" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105202-606bec7630103-png",Times TV
+#EXTINF:-1 tvg-id="ts155" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105202-606bec7630103-png",Times TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=155
 
-#EXTINF:-1 tvg-id="ts156" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-120914-606aad0e97d6f-png",Akash Television
+#EXTINF:-1 tvg-id="ts156" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-120914-606aad0e97d6f-png",Akash Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=156
 
-#EXTINF:-1 tvg-id="ts157" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-12-11-123545-6576b145f1523-png",Bagmati TV HD
+#EXTINF:-1 tvg-id="ts157" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-12-11-123545-6576b145f1523-png",Bagmati TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=157
 
-#EXTINF:-1 tvg-id="ts158" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/606-png",Sajha TV
+#EXTINF:-1 tvg-id="ts158" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/606-png",Sajha TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=158
 
-#EXTINF:-1 tvg-id="ts159" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-10-210619-5f08876fd2527-png",Tharu Television
+#EXTINF:-1 tvg-id="ts159" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-10-210619-5f08876fd2527-png",Tharu Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=159
 
-#EXTINF:-1 tvg-id="ts160" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-11-100311-5f093d83e0d6d-png",Disney International HD
+#EXTINF:-1 tvg-id="ts160" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-11-100311-5f093d83e0d6d-png",Disney International HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=160
 
-#EXTINF:-1 tvg-id="ts161" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-23-131203-6354ecc7389a6-png",Karuwa TV 1
+#EXTINF:-1 tvg-id="ts161" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-23-131203-6354ecc7389a6-png",Karuwa TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=161
 
-#EXTINF:-1 tvg-id="ts162" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121508-606aae701e857-png",Red TV
+#EXTINF:-1 tvg-id="ts162" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121508-606aae701e857-png",Red TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=162
 
-#EXTINF:-1 tvg-id="ts163" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-08-10-171354-5f312f76cf093-png",NTV Itahari HD
+#EXTINF:-1 tvg-id="ts163" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-08-10-171354-5f312f76cf093-png",NTV Itahari HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=163
 
-#EXTINF:-1 tvg-id="ts164" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-01-154225-5f9e86853141f-png",Me TV
+#EXTINF:-1 tvg-id="ts164" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-01-154225-5f9e86853141f-png",Me TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=164
 
-#EXTINF:-1 tvg-id="ts165" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-171917-606c47398f727-png",X Ray TV HD
+#EXTINF:-1 tvg-id="ts165" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-171917-606c47398f727-png",X Ray TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=165
 
-#EXTINF:-1 tvg-id="ts166" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115913-6007ca352cd52-png",Capital TV HD
+#EXTINF:-1 tvg-id="ts166" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115913-6007ca352cd52-png",Capital TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=166
 
-#EXTINF:-1 tvg-id="ts167" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-25-222238-5f95a9d218ba5-png",Colors SD
+#EXTINF:-1 tvg-id="ts167" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-25-222238-5f95a9d218ba5-png",Colors SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=167
 
-#EXTINF:-1 tvg-id="ts168" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-131446-5f9a6f6aa8439-png",Star Plus
+#EXTINF:-1 tvg-id="ts168" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-131446-5f9a6f6aa8439-png",Star Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=168
 
-#EXTINF:-1 tvg-id="ts169" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-132201-5f9a711d7d0c8-png",Star Gold
+#EXTINF:-1 tvg-id="ts169" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-10-29-132201-5f9a711d7d0c8-png",Star Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=169
 
-#EXTINF:-1 tvg-id="ts170" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-02-153415-5f9fd61b2b520-png",Prithivi TV
+#EXTINF:-1 tvg-id="ts170" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-02-153415-5f9fd61b2b520-png",Prithivi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=170
 
-#EXTINF:-1 tvg-id="ts171" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124937-5fe832051455f-png",A1 TV
+#EXTINF:-1 tvg-id="ts171" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124937-5fe832051455f-png",A1 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=171
 
-#EXTINF:-1 tvg-id="ts172" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-13-132742-5fae38f21c8c6-png",National Gold
+#EXTINF:-1 tvg-id="ts172" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-13-132742-5fae38f21c8c6-png",National Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=172
 
-#EXTINF:-1 tvg-id="ts173" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124920-5fe831f4cb3c1-png",Buddha Awaz
+#EXTINF:-1 tvg-id="ts173" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124920-5fe831f4cb3c1-png",Buddha Awaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=173
 
-#EXTINF:-1 tvg-id="ts174" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121533-606aae898b564-png",Saptrangi
+#EXTINF:-1 tvg-id="ts174" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121533-606aae898b564-png",Saptrangi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=174
 
-#EXTINF:-1 tvg-id="ts175" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-17-173148-5fdb45287be0d-png",Star Movies HD
+#EXTINF:-1 tvg-id="ts175" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-17-173148-5fdb45287be0d-png",Star Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=175
 
-#EXTINF:-1 tvg-id="ts176" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-18-151818-5fdc775e25a72-png",Star Movies Select HD
+#EXTINF:-1 tvg-id="ts176" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-18-151818-5fdc775e25a72-png",Star Movies Select HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=176
 
-#EXTINF:-1 tvg-id="ts177" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-05-113538-5ff3fe2eb015d-png",Nickelodeon Sonic
+#EXTINF:-1 tvg-id="ts177" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-05-113538-5ff3fe2eb015d-png",Nickelodeon Sonic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=177
 
-#EXTINF:-1 tvg-id="ts178" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-09-151153-622872ddab0b2-png",Global TV
+#EXTINF:-1 tvg-id="ts178" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-09-151153-622872ddab0b2-png",Global TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=178
 
-#EXTINF:-1 tvg-id="ts179" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-13-154321-5ffec43d0440a-png",Hungama TV
+#EXTINF:-1 tvg-id="ts179" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-13-154321-5ffec43d0440a-png",Hungama TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=179
 
-#EXTINF:-1 tvg-id="ts180" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-19-130712-600688a4d0ba9-png",National Geographic Channel SD
+#EXTINF:-1 tvg-id="ts180" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-19-130712-600688a4d0ba9-png",National Geographic Channel SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=180
 
-#EXTINF:-1 tvg-id="ts181" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115333-6007c8e16fb0b-png",Star Bharat
+#EXTINF:-1 tvg-id="ts181" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115333-6007c8e16fb0b-png",Star Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=181
 
-#EXTINF:-1 tvg-id="ts182" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115821-6007ca01c629f-png",Star Movies
+#EXTINF:-1 tvg-id="ts182" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Movies" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115821-6007ca01c629f-png",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=182
 
-#EXTINF:-1 tvg-id="ts183" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-31-131827-60165d477593e-png",Makalu TV HD
+#EXTINF:-1 tvg-id="ts183" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-31-131827-60165d477593e-png",Makalu TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=183
 
-#EXTINF:-1 tvg-id="ts184" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-03-08-110932-6045b510b3685-png",Jan Sanchar TV HD
+#EXTINF:-1 tvg-id="ts184" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-03-08-110932-6045b510b3685-png",Jan Sanchar TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=184
 
-#EXTINF:-1 tvg-id="ts185" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-094857-6923d92d739b9-png",Kantipur Cineplex HD
+#EXTINF:-1 tvg-id="ts185" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-094857-6923d92d739b9-png",Kantipur Cineplex HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=185
 
-#EXTINF:-1 tvg-id="ts186" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-121847-613464cbebd07-png",Bijay Killa HD
+#EXTINF:-1 tvg-id="ts186" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-121847-613464cbebd07-png",Bijay Killa HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=186
 
-#EXTINF:-1 tvg-id="ts187" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-04-122835-6090ed17ef065-png",Aam Nepali TV HD
+#EXTINF:-1 tvg-id="ts187" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-04-122835-6090ed17ef065-png",Aam Nepali TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=187
 
-#EXTINF:-1 tvg-id="ts188" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-30-124843-60b338cf981cb-png",News 18
+#EXTINF:-1 tvg-id="ts188" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 News" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-30-124843-60b338cf981cb-png",News 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=188
 
-#EXTINF:-1 tvg-id="ts189" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-09-100434-6392b756cd59a-png",Prabhu Family HD
+#EXTINF:-1 tvg-id="ts189" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-09-100434-6392b756cd59a-png",Prabhu Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=189
 
-#EXTINF:-1 tvg-id="ts190" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-23-115413-64e5a289ba7ce-png",Tilottama HD
+#EXTINF:-1 tvg-id="ts190" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-23-115413-64e5a289ba7ce-png",Tilottama HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=190
 
-#EXTINF:-1 tvg-id="ts191" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-07-09-160434-60e822b6085f8-png",Janaki TV HD
+#EXTINF:-1 tvg-id="ts191" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-07-09-160434-60e822b6085f8-png",Janaki TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=191
 
-#EXTINF:-1 tvg-id="ts192" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-03-19-101121-67da476db2566-png",Devdaha TV
+#EXTINF:-1 tvg-id="ts192" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-03-19-101121-67da476db2566-png",Devdaha TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=192
 
-#EXTINF:-1 tvg-id="ts193" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-112743-6136fbd35b0ed-png",City One HD
+#EXTINF:-1 tvg-id="ts193" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-112743-6136fbd35b0ed-png",City One HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=193
 
-#EXTINF:-1 tvg-id="ts194" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-113437-6136fd715df1d-png",Samata TV
+#EXTINF:-1 tvg-id="ts194" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-113437-6136fd715df1d-png",Samata TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=194
 
-#EXTINF:-1 tvg-id="ts195" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-20-145426-61484fc634701-png",Himshikhar TV
+#EXTINF:-1 tvg-id="ts195" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-20-145426-61484fc634701-png",Himshikhar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=195
 
-#EXTINF:-1 tvg-id="ts196" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-02-02-171344-679f56ec30f1a-png",8K TV
+#EXTINF:-1 tvg-id="ts196" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-02-02-171344-679f56ec30f1a-png",8K TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=196
 
-#EXTINF:-1 tvg-id="ts197" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-165616-a new -jpg",A News HD
+#EXTINF:-1 tvg-id="ts197" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-165616-a new -jpg",A News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=197
 
-#EXTINF:-1 tvg-id="ts198" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174601-62a1e0fd0eeca-png",Space 4K
+#EXTINF:-1 tvg-id="ts198" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174601-62a1e0fd0eeca-png",Space 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=198
 
-#EXTINF:-1 tvg-id="ts199" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-20-103728-6997e88c77c6d-png",Pokhara TV HD
+#EXTINF:-1 tvg-id="ts199" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-20-103728-6997e88c77c6d-png",Pokhara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=199
 
-#EXTINF:-1 tvg-id="ts200" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-05-31-191123-6296177feeca5-png",Saptakoshi TV
+#EXTINF:-1 tvg-id="ts200" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-05-31-191123-6296177feeca5-png",Saptakoshi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=200
 
-#EXTINF:-1 tvg-id="ts201" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-05-130957-62ecc5c945e19-png",Sakura TV
+#EXTINF:-1 tvg-id="ts201" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-05-130957-62ecc5c945e19-png",Sakura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=201
 
-#EXTINF:-1 tvg-id="ts202" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-04-104530-62c273eea1f67-png",Nepal Network TV
+#EXTINF:-1 tvg-id="ts202" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-04-104530-62c273eea1f67-png",Nepal Network TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=202
 
-#EXTINF:-1 tvg-id="ts203" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122950-62f202624ee09-png",Public TV
+#EXTINF:-1 tvg-id="ts203" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122950-62f202624ee09-png",Public TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=203
 
-#EXTINF:-1 tvg-id="ts204" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-15-052653-62f988412c3b0-png",Namaste TV HD
+#EXTINF:-1 tvg-id="ts204" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-15-052653-62f988412c3b0-png",Namaste TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=204
 
-#EXTINF:-1 tvg-id="ts205" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-16-163723-634be267debda-png",A Sports HD
+#EXTINF:-1 tvg-id="ts205" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-16-163723-634be267debda-png",A Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=205
 
-#EXTINF:-1 tvg-id="ts206" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-18-154947-637758bf21614-png",World Cup 1
+#EXTINF:-1 tvg-id="ts206" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-18-154947-637758bf21614-png",World Cup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=206
 
-#EXTINF:-1 tvg-id="ts207" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-13-161720-6370c7b4c7a63-png",Nepa TV
+#EXTINF:-1 tvg-id="ts207" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-13-161720-6370c7b4c7a63-png",Nepa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=207
 
-#EXTINF:-1 tvg-id="ts208" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-15-161258-639af6ae48bb6-png",1 Plus 4K
+#EXTINF:-1 tvg-id="ts208" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-15-161258-639af6ae48bb6-png",1 Plus 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=208
 
-#EXTINF:-1 tvg-id="ts209" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-03-13-181414-640f171ad5d60-png",7 Star 4K
+#EXTINF:-1 tvg-id="ts209" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-03-13-181414-640f171ad5d60-png",7 Star 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=209
 
-#EXTINF:-1 tvg-id="ts210" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-06-24-220846-Koshi-png",Koshi 4K
+#EXTINF:-1 tvg-id="ts210" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-06-24-220846-Koshi-png",Koshi 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=210
 
-#EXTINF:-1 tvg-id="ts211" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-16-102621-64b374f16ec26-png",Sanghu TV HD
+#EXTINF:-1 tvg-id="ts211" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-16-102621-64b374f16ec26-png",Sanghu TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=211
 
-#EXTINF:-1 tvg-id="ts212" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-171849-64bfb31d692d7-png",Animal Planet
+#EXTINF:-1 tvg-id="ts212" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-25-171849-64bfb31d692d7-png",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=212
 
-#EXTINF:-1 tvg-id="ts213" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-02-143201-64ca1805a89ba-png",Discovery Science
+#EXTINF:-1 tvg-id="ts213" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Adventures" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-02-143201-64ca1805a89ba-png",Discovery Science
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=213
 
-#EXTINF:-1 tvg-id="ts214" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-09-04-123542-64f57e42b0dca-png",PUBG Mobile Gamers Pack
+#EXTINF:-1 tvg-id="ts214" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2023-09-04-123542-64f57e42b0dca-png",PUBG Mobile Gamers Pack
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=214
 
-#EXTINF:-1 tvg-id="ts215" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-14-120505-65a37d1522555-png",Sarokar TV
+#EXTINF:-1 tvg-id="ts215" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-14-120505-65a37d1522555-png",Sarokar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=215
 
-#EXTINF:-1 tvg-id="ts216" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-162651-65b8d26fe2c2c-png",Rodhi TV
+#EXTINF:-1 tvg-id="ts216" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-162651-65b8d26fe2c2c-png",Rodhi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=216
 
-#EXTINF:-1 tvg-id="ts217" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-173633-65b8e2c588b4f-png",Prisma TV HD
+#EXTINF:-1 tvg-id="ts217" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-173633-65b8e2c588b4f-png",Prisma TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=217
 
-#EXTINF:-1 tvg-id="ts218" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-06-05-134825-66601bcd937d1-png",Sambridha TV
+#EXTINF:-1 tvg-id="ts218" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-06-05-134825-66601bcd937d1-png",Sambridha TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=218
 
-#EXTINF:-1 tvg-id="ts219" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-07-10-162801-668e65b5104bc-png",Khwopa TV
+#EXTINF:-1 tvg-id="ts219" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-07-10-162801-668e65b5104bc-png",Khwopa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=219
 
-#EXTINF:-1 tvg-id="ts220" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122127-66dfe8ebb89b3-png",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="ts220" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122127-66dfe8ebb89b3-png",Shemaroo Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=220
 
-#EXTINF:-1 tvg-id="ts221" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122515-66dfe9cf25f53-png",MN Plus
+#EXTINF:-1 tvg-id="ts221" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-10-122515-66dfe9cf25f53-png",MN Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=221
 
-#EXTINF:-1 tvg-id="ts222" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154034-6705019610b56-png",YRF Music
+#EXTINF:-1 tvg-id="ts222" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154034-6705019610b56-png",YRF Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=222
 
-#EXTINF:-1 tvg-id="ts223" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154232-6705020c2f333-png",Shemaroo Filmi Gaane
+#EXTINF:-1 tvg-id="ts223" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Music" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-08-154232-6705020c2f333-png",Shemaroo Filmi Gaane
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=223
 
-#EXTINF:-1 tvg-id="ts224" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-09-123025-67062685eb80e-png",The Movie Club
+#EXTINF:-1 tvg-id="ts224" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Entertainment" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-09-123025-67062685eb80e-png",The Movie Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=224
 
-#EXTINF:-1 tvg-id="ts225" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-23-135913-6718b055685cb-png",Animax
+#EXTINF:-1 tvg-id="ts225" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Kids" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-10-23-135913-6718b055685cb-png",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=225
 
-#EXTINF:-1 tvg-id="ts226" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-11-26-123146-67456ed6084b1-png",Anjan TV 1
+#EXTINF:-1 tvg-id="ts226" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Spiritual & Life" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2024-11-26-123146-67456ed6084b1-png",Anjan TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=226
 
-#EXTINF:-1 tvg-id="ts227" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131714-68aabffeec887-png",Test Channel 1
+#EXTINF:-1 tvg-id="ts227" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131714-68aabffeec887-png",Test Channel 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=227
 
-#EXTINF:-1 tvg-id="ts228" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-112207-68467303810d6-png",Sunrise HD
+#EXTINF:-1 tvg-id="ts228" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-112207-68467303810d6-png",Sunrise HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=228
 
-#EXTINF:-1 tvg-id="ts229" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd-png",GTV
+#EXTINF:-1 tvg-id="ts229" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd-png",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=229
 
-#EXTINF:-1 tvg-id="ts230" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131222-68aabedacb3d6-png",Sports 1
+#EXTINF:-1 tvg-id="ts230" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131222-68aabedacb3d6-png",Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=230
 
-#EXTINF:-1 tvg-id="ts231" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131451-68aabf6f3ba7f-png",Sports 2
+#EXTINF:-1 tvg-id="ts231" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-08-24-131451-68aabf6f3ba7f-png",Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=231
 
-#EXTINF:-1 tvg-id="ts232" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-083747-6923c87fcc017-png",Kantipur Max 2 HD
+#EXTINF:-1 tvg-id="ts232" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Sports" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-11-24-083747-6923c87fcc017-png",Kantipur Max 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=232
 
-#EXTINF:-1 tvg-id="ts233" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-12-17-111734-6942407280fb4-png",E TV
+#EXTINF:-1 tvg-id="ts233" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 Nepali" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2025-12-17-111734-6942407280fb4-png",E TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=233
 
-#EXTINF:-1 tvg-id="ts234" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa TV International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-17-131526-699419125836e-png",Kangba TV
+#EXTINF:-1 tvg-id="ts234" group-logo="https://img.freepik.com/premium-vector/nexa-digital_1169008-53.jpg" group-title="Nexa-TV 🍿 International" tvg-logo="https://resources-static.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-17-131526-699419125836e-png",Kangba TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://localhost:8080/Nexa/nexa.php?id=23
 
