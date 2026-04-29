@@ -1,16 +1,8 @@
 # prdking
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={
-  "keys": [
-    {
-      "kty": "oct",
-      "k": "Wby2i7WNk65WiHm470GFog",
-      "kid": "lR_aBjfvWGCKDMYqMcf1lA"
-    }
-  ],
-  "type": "temporary"
-}
+#EXTINF:-1 tvg-id="2255" tvg-name="Raftaar Samay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RRN_News.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",Raftaar Samay
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=473
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/WDVLive/index.mpd%3f
