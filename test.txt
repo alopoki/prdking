@@ -1,10 +1,4 @@
 
-
-Enter M3U URL
- 
-OTT Navigator
- Fetch Download playlist.txt
-
 #EXTM3U
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 ENG LOW QUALITY" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-title="IPL (2026)",STAR SPORTS 1 ENG LOW QUALITY
 https://datahub11.com:443/live/7744/4477/702533.ts
