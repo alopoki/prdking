@@ -1,89 +1,89 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 ENG LOW QUALITY" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 1 ENG LOW QUALITY
-https://datahub11.com:443/live/7744/4477/702533.ts
+https://localhost:8000/star.php?id=702533
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 ENG LOW QUALITY" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 2 ENG LOW QUALITY
-https://datahub11.com:443/live/7744/4477/702543.ts
+https://localhost:8000/star.php?id=702543
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 1 HINDI
-https://datahub11.com:443/live/7744/4477/702561.ts
+https://localhost:8000/star.php?id=702561
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 1 FHD (50FPS)
-https://datahub11.com:443/live/7744/4477/703296.ts
+https://localhost:8000/star.php?id=703296
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 2 FHD (50 FPS)
-https://datahub11.com:443/live/7744/4477/703297.ts
+https://localhost:8000/star.php?id=703297
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI FHD (50 FPS)" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 1 HINDI FHD (50 FPS)
-https://datahub11.com:443/live/7744/4477/703298.ts
+https://localhost:8000/star.php?id=703298
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR 4K" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR 4K
-https://datahub11.com:443/live/7744/4477/703299.ts
+https://localhost:8000/star.php?id=703299
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADD FREE WILLOW HINDI MATCH 1" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",ADD FREE WILLOW HINDI MATCH 1
-https://datahub11.com:443/live/7744/4477/703300.ts
+https://localhost:8000/star.php?id=703300
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADD FREE WILLOW ENG MATCH 1" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",ADD FREE WILLOW ENG MATCH 1
-https://datahub11.com:443/live/7744/4477/703301.ts
+https://localhost:8000/star.php?id=703301
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Hindi Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Hindi Match 1
-https://datahub11.com:443/live/7744/4477/705131.ts
+https://localhost:8000/star.php?id=705131
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL English Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL English Match 1
-https://datahub11.com:443/live/7744/4477/705132.ts
+https://localhost:8000/star.php?id=705132
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Telugu Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Telugu Match 1
-https://datahub11.com:443/live/7744/4477/705133.ts
+https://localhost:8000/star.php?id=705133
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Tamil Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Tamil Match 1
-https://datahub11.com:443/live/7744/4477/705134.ts
+https://localhost:8000/star.php?id=705134
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Malayalam Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Malayalam Match 1
-https://datahub11.com:443/live/7744/4477/705135.ts
+https://localhost:8000/star.php?id=705135
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL English Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL English Match 2
-https://datahub11.com:443/live/7744/4477/705136.ts
+https://localhost:8000/star.php?id=705136
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Hindi Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Hindi Match 2
-https://datahub11.com:443/live/7744/4477/705137.ts
+https://localhost:8000/star.php?id=705137
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Tamil Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Tamil Match 2
-https://datahub11.com:443/live/7744/4477/705138.ts
+https://localhost:8000/star.php?id=705138
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Telugu Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Telugu Match 2
-https://datahub11.com:443/live/7744/4477/705139.ts
+https://localhost:8000/star.php?id=705139
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Malayalam Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Malayalam Match 2
-https://datahub11.com:443/live/7744/4477/705140.ts
+https://localhost:8000/star.php?id=705140
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Hindi Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Hindi Match 1 4k
-https://datahub11.com:443/live/7744/4477/705141.ts
+https://localhost:8000/star.php?id=705141
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL English Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL English Match 1 4k
-https://datahub11.com:443/live/7744/4477/705142.ts
+https://localhost:8000/star.php?id=705142
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL English Match 2 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL English Match 2 4k
-https://datahub11.com:443/live/7744/4477/705143.ts
+https://localhost:8000/star.php?id=705143
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Hindi Match 2 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Hindi Match 2 4k
-https://datahub11.com:443/live/7744/4477/705144.ts
+https://localhost:8000/star.php?id=705144
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Punjabi Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Punjabi Match 1
-https://datahub11.com:443/live/7744/4477/705145.ts
+https://localhost:8000/star.php?id=705145
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Gujarati Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Gujarati Match 1
-https://datahub11.com:443/live/7744/4477/705146.ts
+https://localhost:8000/star.php?id=705146
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Kannada Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Kannada Match 1
-https://datahub11.com:443/live/7744/4477/705147.ts
+https://localhost:8000/star.php?id=705147
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Marathi Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Marathi Match 1
-https://datahub11.com:443/live/7744/4477/705148.ts
+https://localhost:8000/star.php?id=705148
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Gujarati Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Gujarati Match 2
-https://datahub11.com:443/live/7744/4477/705149.ts
+https://localhost:8000/star.php?id=705149
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Punjabi Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Punjabi Match 2
-https://datahub11.com:443/live/7744/4477/705150.ts
+https://localhost:8000/star.php?id=705150
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Kannada Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Kannada Match 2
-https://datahub11.com:443/live/7744/4477/705151.ts
+https://localhost:8000/star.php?id=705151
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Marathi Match 2" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Marathi Match 2
-https://datahub11.com:443/live/7744/4477/705152.ts
+https://localhost:8000/star.php?id=705152
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Tamil Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Tamil Match 1 4k
-https://datahub11.com:443/live/7744/4477/705153.ts
+https://localhost:8000/star.php?id=705153
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Telugu Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Telugu Match 1 4k
-https://datahub11.com:443/live/7744/4477/705154.ts
+https://localhost:8000/star.php?id=705154
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Kannada Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Kannada Match 1 4k
-https://datahub11.com:443/live/7744/4477/705155.ts
+https://localhost:8000/star.php?id=705155
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Malayalam Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Malayalam Match 1 4k
-https://datahub11.com:443/live/7744/4477/705156.ts
+https://localhost:8000/star.php?id=705156
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Marathi Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Marathi Match 1 4k
-https://datahub11.com:443/live/7744/4477/705157.ts
+https://localhost:8000/star.php?id=705157
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Gujarati Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Gujarati Match 1 4k
-https://datahub11.com:443/live/7744/4477/705158.ts
+https://localhost:8000/star.php?id=705158
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Punjabi Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Punjabi Match 1 4k
-https://datahub11.com:443/live/7744/4477/705159.ts
+https://localhost:8000/star.php?id=705159
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Bengali Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Bengali Match 1
-https://datahub11.com:443/live/7744/4477/705160.ts
+https://localhost:8000/star.php?id=705160
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Haryananvi Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Haryananvi Match 1
-https://datahub11.com:443/live/7744/4477/705161.ts
+https://localhost:8000/star.php?id=705161
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Bihari Match 1" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Bihari Match 1
-https://datahub11.com:443/live/7744/4477/705162.ts
+https://localhost:8000/star.php?id=705162
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Bengali Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Bengali Match 1 4k
-https://datahub11.com:443/live/7744/4477/705163.ts
+https://localhost:8000/star.php?id=705163
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Haryananvi Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Haryananvi Match 1 4k
-https://datahub11.com:443/live/7744/4477/705164.ts
+https://localhost:8000/star.php?id=705164
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Bihari Match 1 4k" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",IPL Bihari Match 1 4k
-https://datahub11.com:443/live/7744/4477/705165.ts
+https://localhost:8000/star.php?id=705165
