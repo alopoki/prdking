@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 ENG LOW QUALITY" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" group-logo="https://erp.adgully.com/artical_image/e455c9887224a54961b4cf84717a3e5a.jpeg" group-title="IPL (2026)",STAR SPORTS 1 ENG LOW QUALITY
 https://datahub11.com:443/live/7744/4477/702533.ts
