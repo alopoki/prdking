@@ -126,7 +126,7 @@ https://localhost:8000/jtv/manifest.mpd?id=146
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=153
 https://localhost:8000/jtv/manifest.mpd?id=153
 
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Sony SAB
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Sony SAB SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=154
@@ -13238,6 +13238,12 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=773
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=774
 https://localhost:8000/jiotv/jmanifest.mpd?id=774
+
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO_TV GO🎒 Entertainment",Sony SAB SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=154
+https://localhost:8000/jiotv/manifest.mpd?id=154
 
 #EXTINF:-1 tvg-id="775" tvg-name="Vanitha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Infotainment",Vanitha
 #KODIPROP:inputstream=inputstream.adaptive
