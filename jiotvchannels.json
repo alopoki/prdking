@@ -10,6 +10,16 @@
         "license_key": "eb19113c11ce5cfb80c89696765a0187:b2797ce5e403ee22d8e36c6d5f2b6630"
     },
     {
+        "id": "154",
+        "tvg-id": "154",
+        "name": "Sony Sab",
+        "group": "Entertainment",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd",
+        "license_type": "clearkey",
+        "license_key": "ba4d9b38517552de9654d3652d27933b:31e7cbf3d289d3116386457ed8bac3a2"
+    },
+    {
         "id": "144",
         "tvg-id": "144",
         "name": "Colors HD",
