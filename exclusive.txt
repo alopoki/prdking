@@ -19418,100 +19418,100 @@ __________DISHTV________
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Zee TV SD
+#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Zee TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", And TV SD
+#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", And TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-#EXTINF:-1 tvg-id="zee-anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Zee Anmol
+#EXTINF:-1 tvg-id="zee-anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="9xm" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/36HEDUo4.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9xm
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/36HEDUo4.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9xm
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", MTV Beats
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#EXTINF:-1 tvg-id="zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Zing
+#EXTINF:-1 tvg-id="zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Cinema SD
+#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Cinema SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Bollywood
+#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Anmol Cinema
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", And Pictures SD
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", And Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", DD National
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", DD National
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/Ddbharti.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", NDTV India
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", NDTV India
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", News Nation
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", News Nation
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Zee Hindustan
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Zee Hindustan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Zee Business
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Zee Business
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
-#EXTINF:-1 tvg-id="zee-kannada" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Kannada HD
+#EXTINF:-1 tvg-id="zee-kannada" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Kannada HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Telugu HD
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Telugu HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Bangla HD
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Marathi
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Marathi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
-#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Bihar Jharkhand
+#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Bihar Jharkhand
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Sarthak
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Zee Sarthak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
@@ -19519,87 +19519,87 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Bangla Cinema
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Talkies
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Movies", Zee Talkies
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Kids", Discovery Kids
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Kids", Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery
+#EXTINF:-1 tvg-id="discovey" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Science
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Science
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
-#EXTINF:-1 tvg-id="discovery-investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Investigation
+#EXTINF:-1 tvg-id="discovery-investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Investigation
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Turbo
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Lifestyle", TLC
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Lifestyle", TLC
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9xm Jalwa
+#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9xm Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9X Tashan
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9X Tashan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9x Jhakaas
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", 9x Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Music India
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Sangeet Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/Sangeetbangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Sangeet Bhojpuri
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Music", Sangeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/Sangeetbhojpuri.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Lifestyle", Zoom
+#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Lifestyle", Zoom
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Fakt Marathi
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Regional", Fakt Marathi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi/default/Faktmarathi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Korean Drama Active
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Korean Drama Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Shorts TV Active
+#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Entertainment", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", DD Bharati
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ Education", DD Bharati
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/Ddbharti.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Sansad TV HD
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Sansad TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/Sansadtvhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Sansad TV SD
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" group-logo="https://i.pinimg.com/736x/6f/a1/db/6fa1db43743788aadb4a85523fca51b6.jpg" group-title="𝘿𝙞𝙨𝙝𝙏𝙑〽️ News", Sansad TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
 
 ________SAMSUNG_____+____+_
@@ -19921,256 +19921,256 @@ ____AAIIR
 ____LG
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="𝐿𝒢 🍟 Entertainment",Zee Dil Se
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",Zee Dil Se
 
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="𝐿𝒢 🍟 Comedy",Zee Comedy Nation
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Comedy",Zee Comedy Nation
 
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="𝐿𝒢 🍟 Horror",Zee Horror Nights
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Horror",Zee Horror Nights
 
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="𝐿𝒢 🍟 Entertainment",Atrangii
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",Atrangii
 
 https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="𝐿𝒢 🍟 News",Lallantop
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 News",Lallantop
 
 https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/comedytadka/logo/Comedytadka-400x200.png" group-title="𝐿𝒢 🍟 Comedy",COMEDYTADKA
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/comedytadka/logo/Comedytadka-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Comedy",COMEDYTADKA
 
 https://vglivessai.akamaized.net/ptnr-lg/title-COMEDY_TADKA-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/79a85c7e-a12a-4739-a575-66b4684f91fa/master.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/AKA/AKAlogo200x400.png" group-title="𝐿𝒢 🍟 Entertainment",IndiaTVAapkiadalat
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/AKA/AKAlogo200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",IndiaTVAapkiadalat
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvaapkiadalat-lg-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/E24/E24-Logo.jpg" group-title="𝐿𝒢 🍟 Entertainment",E24
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/E24/E24-Logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",E24
 
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bollywood-masala-tv-epg/logo/Bollywood Masala Tv_400x200.png" group-title="𝐿𝒢 🍟 Movies",bollywood-masala-tv
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bollywood-masala-tv-epg/logo/Bollywood Masala Tv_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",bollywood-masala-tv
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Bollywood_Masala-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f596316d-2890-43c9-b30d-eb7cc081a837/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara-comedy/logo/pitaara comedy_400x200.png" group-title="𝐿𝒢 🍟 Comedy",Pitaara comedy
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara-comedy/logo/pitaara comedy_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Comedy",Pitaara comedy
 
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Entertainment",Telugu One
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",Telugu One
 
 https://amg02821-objectone-amg02821c1-lg-in-4934.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/justforlaughs/logo/Justforlaugh-400x200.png" group-title="𝐿𝒢 🍟 Comedy",JUSTFORLAUGH
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/justforlaughs/logo/Justforlaugh-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Comedy",JUSTFORLAUGH
 
 https://streams2.sofast.tv/ptnr-lg/title-JUST_FOR_LAUGHS_GAGS_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6c035de-2f3e-474d-87c1-8bd359911357/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/docuvision/logo/Docuvision-400x200.png" group-title="𝐿𝒢 🍟 Documentary",DOCUVISION
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/docuvision/logo/Docuvision-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Documentary",DOCUVISION
 
 https://streams2.sofast.tv/ptnr-lg/title-DOCUVISION-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ab5b0da3-7f65-4f2c-b4e5-3d4947d70065/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Outdoor/outdoor_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Lifestyle",OUTDOOR TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Outdoor/outdoor_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",OUTDOOR TV
 
 https://amg00718-outdoorchannelfast-amg00718c1-lg-in-2129.playouts.now.amagi.tv/playlist/amg00718-outdoorchannelfast-outdoor-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INFAST/infast_logo_resized_white_400x200.png" group-title="𝐿𝒢 🍟 Lifestyle",INFAST
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INFAST/infast_logo_resized_white_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",INFAST
 
 https://amg00861-terncloud-amg00861c8-lg-in-2384.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-infastlifestylehd-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INWONDER/InWonder_resized_400x200.png" group-title="𝐿𝒢 🍟 Documentary",INWONDER
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INWONDER/InWonder_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Documentary",INWONDER
 
 https://amg00861-terncloud-amg00861c9-lg-in-2363.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SHGL/shgl_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Lifestyle",Smart Healthy Green Living
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SHGL/shgl_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",Smart Healthy Green Living
 
 https://amg16109-shgliving-amg16109c1-lg-in-2094.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/spaceseries/logo/Spaceseries-400x200.png" group-title="𝐿𝒢 🍟 Documentary",Space Series
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/spaceseries/logo/Spaceseries-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Documentary",Space Series
 
 https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/automotions/logo/Automotions-400x200.png" group-title="𝐿𝒢 🍟 Documentary",AUTOMOTIONS
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/automotions/logo/Automotions-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Documentary",AUTOMOTIONS
 
 https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2249fc5e-e639-4c40-8ee2-7dc5950325d7/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="𝐿𝒢 🍟 Movies",Zee South Flix
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Zee South Flix
 
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="𝐿𝒢 🍟 Movies",Zee Cine Classic
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Zee Cine Classic
 
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MOVIES/b4u_movies_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Movies",B4U Movies
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MOVIES/b4u_movies_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",B4U Movies
 
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Movies",B4U Kadak
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",B4U Kadak
 
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara/logo/pitaara_400x200.png" group-title="𝐿𝒢 🍟 Movies",Pitaara
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara/logo/pitaara_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Pitaara
 
 https://vglivessai.akamaized.net/ptnr-lgtv/title-PitaaraTV_NonSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/36a2c703-80b0-44c3-b615-c6d830f42d42/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-title="𝐿𝒢 🍟 Movies",Cine Jomjomat
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Cine Jomjomat
 
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTV LOGO.jpg" group-title="𝐿𝒢 🍟 Entertainment",Mango Mobile TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTV LOGO.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",Mango Mobile TV
 
 https://amg01911-mangotv-amg01911c1-lg-in-1340.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/tolly-tv/logo/Tollytv-400x200.png" group-title="𝐿𝒢 🍟 Movies",TOLLY-TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/tolly-tv/logo/Tollytv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",TOLLY-TV
 
 https://streams2.sofast.tv/ptnr-lg/title-TOLLY-TV-TEL_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4767b71c-e27c-4b3a-b71d-b99293ee78c9/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/thalaa-tv/logo/Thalaatv-400x200.png" group-title="𝐿𝒢 🍟 Movies",THALAA-TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/thalaa-tv/logo/Thalaatv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",THALAA-TV
 
 https://streams2.sofast.tv/ptnr-lg/title-THALAA-TV-TAM_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a886723a-089d-4d04-9391-f7618be95ed2/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/best-thriller/logo/Best-thriller-400x200.png" group-title="𝐿𝒢 🍟 Movies",BEST-THRILLER
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/best-thriller/logo/Best-thriller-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",BEST-THRILLER
 
 https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04a87d60-a79e-4a36-9df8-0ea3a4e2c173/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/horrortv/logo/Horror-tv-400x200.png" group-title="𝐿𝒢 🍟 Horror",HORROR TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/horrortv/logo/Horror-tv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Horror",HORROR TV
 
 https://streams2.sofast.tv/ptnr-lg/title-HORROR-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/de879fd9-0fae-4530-af26-7abe5283d02a/master.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/nightmare-network/logo/Nightmare-Network-400x200.png" group-title="𝐿𝒢 🍟 Horror",NIGHTMARE NETWORK
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/nightmare-network/logo/Nightmare-Network-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Horror",NIGHTMARE NETWORK
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Nightmare_network/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4344f0d3-3d3b-43a9-83bf-344b9bf154bf/478.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Capemay/Panic TV Logo 400x200.png" group-title="𝐿𝒢 🍟 Horror",Panic TV
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Capemay/Panic TV Logo 400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Horror",Panic TV
 
 https://amg27164-amg27164c1-amgplt0173.playout.now3.amagi.tv/playlist/amg27164-amg27164c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bestaction/logo/Bestaction-tv-400x200.png" group-title="𝐿𝒢 🍟 Movies",Best Action TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bestaction/logo/Bestaction-tv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Best Action TV
 
 https://streams2.sofast.tv/ptnr-lg/title-BEST_ACTION_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e95e2eab-0390-4ec1-9c90-92cc21fee6a9/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/kungfu/logo/Kungfu-action-400x200.png" group-title="𝐿𝒢 🍟 Movies",Kung Fu Action
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/kungfu/logo/Kungfu-action-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",Kung Fu Action
 
 https://streams2.sofast.tv/ptnr-lg/title-KUNG-FU-ENG-LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0fc32d96-e596-4344-aac7-9b3792832887/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/cowboymovie-channel/logo/Cowboymoviechannel-400x200.png" group-title="𝐿𝒢 🍟 Movies",COWBOYMOVIE-CHANNEL
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/cowboymovie-channel/logo/Cowboymoviechannel-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Movies",COWBOYMOVIE-CHANNEL
 
 https://streams2.sofast.tv/ptnr-lg/title-COWBOY-MOVIE-CHANNEL-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0e5469ba-5d52-4430-bde3-aa183e7c793a/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Brat/brattv_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Entertainment",Brat TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Brat/brattv_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",Brat TV
 
 https://amg00350-bratstudio-amg00350c1-lg-in-2365.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_236/lg_channels/img/channel_logo/default/channel_logo.png" group-title="𝐿𝒢 🍟 Music",K-POPCORN
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_236/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",K-POPCORN
 
 https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/RIC-PLUS/logo/RIC Plus_400x200.png" group-title="𝐿𝒢 🍟 Entertainment",RIC-PLUS
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/RIC-PLUS/logo/RIC Plus_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",RIC-PLUS
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Ric_Plus/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/76ccd03f-a2a1-4b83-adfa-142dfc9d7072/master.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/baby-first/logo/Babyfirst-400x200.png" group-title="𝐿𝒢 🍟 Kids",BABY FIRST
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/baby-first/logo/Babyfirst-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Kids",BABY FIRST
 
 https://streams2.sofast.tv/ptnr-lg/title-BABYFIRST-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/703f3916-19b4-4d69-ae16-7a95f375e719/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/cartoon-tv/logo/Cartoon classics-tv-400x200.png" group-title="𝐿𝒢 🍟 Kids",CARTOON-TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/cartoon-tv/logo/Cartoon classics-tv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Kids",CARTOON-TV
 
 https://streams2.sofast.tv/ptnr-lg/title-CARTOON_TV_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d560fb51-529a-4ccc-94bf-01cfb10a1996/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/5minutecraft/5min_Craft_resized_400x200.png" group-title="𝐿𝒢 🍟 DIY",5-minute Crafts
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/5minutecraft/5min_Craft_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 DIY",5-minute Crafts
 
 https://amg02051-soulpublishing-amg02051c7-lg-in-1018.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsenglish-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/123go/123go_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 DIY",123 GO!
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/123go/123go_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 DIY",123 GO!
 
 https://amg02051-soulpublishing-amg02051c17-lg-in-1190.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/slickslime/LGASIA_640X360_Color.png" group-title="𝐿𝒢 🍟 DIY",Slick Slime Sam
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/slickslime/LGASIA_640X360_Color.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 DIY",Slick Slime Sam
 
 https://amg02051-soulpublishing-amg02051c12-lg-in-1188.playouts.now.amagi.tv/playlist/amg02051-admecyltd-slickslimesamenglish-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_5483.png" group-title="𝐿𝒢 🍟 Entertainment",TeenVee
+#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_5483.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Entertainment",TeenVee
 
 https://amg02051-soulpublishing-amg02051c5-lg-in-1846.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MUSIC/b4u_music_logo_resized_400x200.png" group-title="𝐿𝒢 🍟 Music",B4U Music
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MUSIC/b4u_music_logo_resized_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",B4U Music
 
 https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="𝐿𝒢 🍟 Music",YRF Music
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",YRF Music
 
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XM/9xm_logo_resized_white_400x200.png" group-title="𝐿𝒢 🍟 Music",9XM
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XM/9xm_logo_resized_white_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XM
 
 https://amg01281-amg01281c4-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c4-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJALWA/9xjalwa400x200_logo.jpg" group-title="𝐿𝒢 🍟 Music",9XJALWA
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJALWA/9xjalwa400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XJALWA
 
 https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png" group-title="𝐿𝒢 🍟 Music",Saga-Music
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Saga-Music
 
 https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XTashan/9xtashan400x200_logo.jpg" group-title="𝐿𝒢 🍟 Music",9XTashan
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XTashan/9xtashan400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XTashan
 
 https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Ghaintpunjab/logo_400x200.png" group-title="𝐿𝒢 🍟 Music",Ghaint Punjab
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Ghaintpunjab/logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Ghaint Punjab
 
 https://amg00223-unisys-amg00223c3-lg-in-2050.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-ghaintpunjab-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_haryanvi_logo_resized_black_400x200.png" group-title="𝐿𝒢 🍟 Music",Saga Music Haryanvi
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_haryanvi_logo_resized_black_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Saga Music Haryanvi
 
 https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusicharyanvi-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-title="𝐿𝒢 🍟 Music",9XJhakkas
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XJhakkas
 
 https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png" group-title="𝐿𝒢 🍟 Lifestyle",K-ASMR
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",K-ASMR
 
 https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-title="𝐿𝒢 🍟 Lifestyle",essential;
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",essential;
 
 https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png" group-title="𝐿𝒢 🍟 Music",@K-MUSIC
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",@K-MUSIC
 
 https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-title="𝐿𝒢 🍟 Lifestyle",IndiaTV Yoga
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",IndiaTV Yoga
 
 https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-hin/logo/Indian-Yoga-WellnessTV_Hindi_400X200.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV HIN
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-hin/logo/Indian-Yoga-WellnessTV_Hindi_400X200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV HIN
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Hindi/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/97cac431-edfa-48a4-83ba-78adb8991baa/indianyogahindi_lg.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-tel/logo/Indian-Yoga-WellnessTV_Telugu_400x200.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV TEL
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-tel/logo/Indian-Yoga-WellnessTV_Telugu_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV TEL
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Telugu/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f3d133e8-321f-4f63-acf3-860dcd461e78/indianyogatelugu_lg.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/ESCAPE-TV-ENG/logo/Escape Tv_400x200.png" group-title="𝐿𝒢 🍟 Travel",ESCAPE-TV-ENG
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/ESCAPE-TV-ENG/logo/Escape Tv_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",ESCAPE-TV-ENG
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Escape_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a4847583-0173-4687-ac66-5638d3f9240b/master.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-title="𝐿𝒢 🍟 Travel",4K TRAVEL
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",4K TRAVEL
 
 https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/heritage/logo/Heritage-400x200.png" group-title="𝐿𝒢 🍟 Travel",HERITAGE
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/heritage/logo/Heritage-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",HERITAGE
 
 https://streams2.sofast.tv/ptnr-lg/title-HERITAGE-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/074c919f-f587-4da2-bea0-345fcb1401c5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bhakti-play/logo/Bhakti_Play_Logo_400x200.png" group-title="𝐿𝒢 🍟 Devotional",BHAKTI-PLAY
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bhakti-play/logo/Bhakti_Play_Logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",BHAKTI-PLAY
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Bhakti_Play_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/566e7ecc-960b-4ce8-969e-fe622122b6b2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya/logo/divya_logo_400x200.png" group-title="𝐿𝒢 🍟 Devotional",Divya
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya/logo/divya_logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",Divya
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Divya_TV_NONSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed18b2e1-80b8-4f13-a763-bc28a0674e30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-title="𝐿𝒢 🍟 Devotional",Divya Bhajan
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",Divya Bhajan
 
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Divya_Bhajan_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6ab55dbd-de45-4239-80ea-8eacc13066b6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="𝐿𝒢 🍟 Devotional",Sikh Ratnavali
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",Sikh Ratnavali
 
 https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-title="𝐿𝒢 🍟 Sports",CRICKET-GOLD-USA
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Sports",CRICKET-GOLD-USA
 
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/motorracing/logo/Motorracing-400x200.png" group-title="𝐿𝒢 🍟 Sports",motor racing
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/motorracing/logo/Motorracing-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Sports",motor racing
 
 https://vglivessai.akamaized.net/ptnr-lg/title-Moto_Racing/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c10c238b-144a-4521-95d7-a7f11885d5e5/master.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/KraveMedia/LG/Logo/LogowithTagline/MTR-LogoTagline-wht-LG.png" group-title="𝐿𝒢 🍟 Sports",MTRSPT1
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/KraveMedia/LG/Logo/LogowithTagline/MTR-LogoTagline-wht-LG.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Sports",MTRSPT1
 
 https://amg02873-kravemedia-amg02873c1-lg-in-1990.playouts.now.amagi.tv/playlist/amg02873-kravemediafast-mtrspt1-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SportsGrid/SportsGrid_live_logo_resized_black_400x200.png" group-title="𝐿𝒢 🍟 Sports",SportsGrid
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SportsGrid/SportsGrid_live_logo_resized_black_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Sports",SportsGrid
 
 https://amg00315-amg00315c1-lg-in-2546.playouts.now.amagi.tv/playlist/amg00315-sportsgridfast-sportsgrid-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/fight-tv/logo/Fight-tv-400x200.png" group-title="𝐿𝒢 🍟 Sports",FIGHT-TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/fight-tv/logo/Fight-tv-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Sports",FIGHT-TV
 
 https://streams2.sofast.tv/ptnr-lg/title-FIGHT-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7f820a2f-e893-4ae1-8ad7-e62e9d9a9e07/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bangla_400x200-px-updated.jpg" group-title="𝐿𝒢 🍟 Regional News",TV9 Bangla
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bangla_400x200-px-updated.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",TV9 Bangla
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bangla-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/ANANDA/Ananda_LOGO200x400.png" group-title="𝐿𝒢 🍟 Regional News",ABP Ananda
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/ANANDA/Ananda_LOGO200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",ABP Ananda
 
 https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpananda-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Bangla.png" group-title="𝐿𝒢 🍟 Regional News",News18 Bangla
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Bangla.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",News18 Bangla
 
 https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bangla/logo/republic-bangla-400x200.png" group-title="𝐿𝒢 🍟 Regional News",Republic Bangla
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bangla/logo/republic-bangla-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",Republic Bangla
 
 https://vg-republictvlive.akamaized.net/ptnr-lgtv/title-Republic_Bangla_Non_SSAI_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/91b8741b-e610-4e2e-92c3-c848f1ae7d8a/main.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Marathi_400x200-px-update.jpg" group-title="𝐿𝒢 🍟 Regional News",TV9 Marathi
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Marathi_400x200-px-update.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",TV9 Marathi
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9marathi-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/MAJA/Majha_LOGO_200x400.png" group-title="𝐿𝒢 🍟 Regional News",ABP Majha
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/MAJA/Majha_LOGO_200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",ABP Majha
 
 https://amg01043-abpnewsnetwork-amg01043c3-lg-in-2043.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpmajha-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTVMarathi/NDTV-Marathi-dark.jpg" group-title="𝐿𝒢 🍟 Regional News",NDTV Marathi
+#EXTINF:-1 tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTVMarathi/NDTV-Marathi-dark.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",NDTV Marathi
 
 https://amg01605-amg01605c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01605-amg01605c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/Zee24Taas/zee-Marathi.png" group-title="𝐿𝒢 🍟 Regional News",Zee 24 Taas
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/Zee24Taas/zee-Marathi.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",Zee 24 Taas
 
 https://amg02481-amg02481c4-lg-in-5174.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zee24taas-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SaamTV/LG/SaamTVLogo_400x200.jpg" group-title="𝐿𝒢 🍟 Regional News",Saam TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SaamTV/LG/SaamTVLogo_400x200.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",Saam TV
 
 https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Gujarati_400x200-px-Updated.jpg" group-title="𝐿𝒢 🍟 Regional News",TV9 Gujarati
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Gujarati_400x200-px-Updated.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",TV9 Gujarati
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9gujrati-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/ASMITA/Asmita_LOGO_200x400.png" group-title="𝐿𝒢 🍟 Regional News",ABP Asmita
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/ASMITA/Asmita_LOGO_200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",ABP Asmita
 
 https://amg01043-abpnewsnetwork-amg01043c5-lg-in-2041.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpasmita-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Gujarati_400x200.png" group-title="𝐿𝒢 🍟 Regional News",News18 Gujarati
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Gujarati_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",News18 Gujarati
 
 https://amg00866-amg00866c7-lg-in-3523.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18gujarati-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Malai_Murasu/Logo-400x200_Updated.jpg" group-title="𝐿𝒢 🍟 Regional News",Malaimurasu Seithikal
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Malai_Murasu/Logo-400x200_Updated.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Regional News",Malaimurasu Seithikal
 
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 
