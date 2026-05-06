@@ -3185,13 +3185,13 @@ https://localhost:8000/jtv/manifest.mpd?id=1241
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1242
-https://localhost:8000/jtv/manifest.mpd?id=1242
+#https://localhost:8000/jtv/manifest.mpd?id=1242
 
 #EXTINF:-1 tvg-id="1243" tvg-name="Sonic Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sonic Kannada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1243
-https://localhost:8000/jtv/manifest.mpd?id=1243
+#https://localhost:8000/jtv/manifest.mpd?id=1243
 
 #EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nick Kannada
 #KODIPROP:inputstream=inputstream.adaptive
