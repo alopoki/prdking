@@ -2828,13 +2828,13 @@ https://localhost:8000/jtv/manifest.mpd?id=1079
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1080
-https://localhost:8000/jtv/manifest.mpd?id=1080
+#https://localhost:8000/jtv/manifest.mpd?id=1080
 
 #EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",CN HD+ Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1081
-https://localhost:8000/jtv/manifest.mpd?id=1081
+#https://localhost:8000/jtv/manifest.mpd?id=1081
 
 #EXTINF:-1 tvg-id="1082" tvg-name="Vande Gujarat 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Educational",Vande Gujarat 3
 #KODIPROP:inputstream=inputstream.adaptive
