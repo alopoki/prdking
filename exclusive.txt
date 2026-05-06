@@ -164,7 +164,7 @@ https://localhost:8000/jtv/manifest.mpd?id=165
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=166
-https://localhost:8000/jtv/manifest.mpd?id=166
+#https://localhost:8000/jtv/manifest.mpd?id=166
 
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Zee TV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -350,7 +350,7 @@ https://localhost:8000/jtv/manifest.mpd?id=289
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=290
-https://localhost:8000/jtv/manifest.mpd?id=290
+#https://localhost:8000/jtv/manifest.mpd?id=290
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",SET HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -926,13 +926,13 @@ https://localhost:8000/jtv/manifest.mpd?id=541
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=542
-https://localhost:8000/jtv/manifest.mpd?id=542
+#https://localhost:8000/jtv/manifest.mpd?id=542
 
 #EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nick Telugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=543
-https://localhost:8000/jtv/manifest.mpd?id=543
+#https://localhost:8000/jtv/manifest.mpd?id=543
 
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nick Junior
 #KODIPROP:inputstream=inputstream.adaptive
@@ -950,7 +950,7 @@ https://localhost:8000/jtv/manifest.mpd?id=545
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=546
-https://localhost:8000/jtv/manifest.mpd?id=546
+#https://localhost:8000/jtv/manifest.mpd?id=546
 
 #EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nickelodeon Jr.
 #KODIPROP:inputstream=inputstream.adaptive
@@ -962,7 +962,7 @@ https://localhost:8000/jtv/manifest.mpd?id=548
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=550
-https://localhost:8000/jtv/manifest.mpd?id=550
+#https://localhost:8000/jtv/manifest.mpd?id=550
 
 #EXTINF:-1 tvg-id="551" tvg-name="TEST14 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",TEST14 HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2216,7 +2216,7 @@ https://localhost:8000/jtv/manifest.mpd?id=816
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=817
-https://localhost:8000/jtv/manifest.mpd?id=817
+#https://localhost:8000/jtv/manifest.mpd?id=817
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Puthu Yugam
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3200,7 +3200,7 @@ https://localhost:8000/jtv/manifest.mpd?id=1243
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1244
-https://localhost:8000/jtv/manifest.mpd?id=1244
+#https://localhost:8000/jtv/manifest.mpd?id=1244
 
 #EXTINF:-1 tvg-id="1245" tvg-name="Sakkat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Music",Sakkat
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3470,37 +3470,37 @@ https://localhost:8000/jtv/manifest.mpd?id=1338
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1340
-https://localhost:8000/jtv/manifest.mpd?id=1340
+#https://localhost:8000/jtv/manifest.mpd?id=1340
 
 #EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nick Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1341
-https://localhost:8000/jtv/manifest.mpd?id=1341
+#https://localhost:8000/jtv/manifest.mpd?id=1341
 
 #EXTINF:-1 tvg-id="1342" tvg-name="Nick Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Nick Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1342
-https://localhost:8000/jtv/manifest.mpd?id=1342
+#https://localhost:8000/jtv/manifest.mpd?id=1342
 
 #EXTINF:-1 tvg-id="1344" tvg-name="Sonic Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sonic Malayalam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1344
-https://localhost:8000/jtv/manifest.mpd?id=1344
+#https://localhost:8000/jtv/manifest.mpd?id=1344
 
 #EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sonic Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1345
-https://localhost:8000/jtv/manifest.mpd?id=1345
+#https://localhost:8000/jtv/manifest.mpd?id=1345
 
 #EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sonic Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1346
-https://localhost:8000/jtv/manifest.mpd?id=1346
+#https://localhost:8000/jtv/manifest.mpd?id=1346
 
 #EXTINF:-1 tvg-id="1349" tvg-name="And Prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Movies",And Prive HD
 #KODIPROP:inputstream=inputstream.adaptive
