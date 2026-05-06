@@ -2345,40 +2345,37 @@ https://localhost:8000/jtv/manifest.mpd?id=858
 https://localhost:8000/jtv/manifest.mpd?id=866
 
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=872
-https://localhost:8000/jtv/manifest.mpd?id=872
+https://localhost:8000/stream.php?id=7
 
 #EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=873
-https://localhost:8000/jtv/manifest.mpd?id=873
+#https://localhost:8000/jtv/manifest.mpd?id=873
 
 #EXTINF:-1 tvg-id="874" tvg-name="Sony Yay Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Telugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=874
-https://localhost:8000/jtv/manifest.mpd?id=874
+#https://localhost:8000/jtv/manifest.mpd?id=874
 
 #EXTINF:-1 tvg-id="3423" tvg-name="Sony Yay Malyalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYMal.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Malyalam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=3423
-https://localhost:8000/jtv/manifest.mpd?id=3423
+#https://localhost:8000/jtv/manifest.mpd?id=3423
 
 #EXTINF:-1 tvg-id="3420" tvg-name="Sony Yay Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYKan.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Kannada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=3420
-https://localhost:8000/jtv/manifest.mpd?id=3420
+#https://localhost:8000/jtv/manifest.mpd?id=3420
 
 #EXTINF:-1 tvg-id="3424" tvg-name="Sony Yay Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYBen.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Kids",Sony Yay Bengali
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=3424
-https://localhost:8000/jtv/manifest.mpd?id=3424
+#https://localhost:8000/jtv/manifest.mpd?id=3424
 
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Sports",Eurosport HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13588,22 +13585,19 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=866
 https://localhost:8000/jiotv/jmanifest.mpd?id=871
 
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Kids",Sony Yay Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=872
-https://localhost:8000/jiotv/jmanifest.mpd?id=872
+https://localhost:8000/stream.php?id=7
 
 #EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Kids",Sony Yay Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=873
-https://localhost:8000/jiotv/jmanifest.mpd?id=873
+#https://localhost:8000/jiotv/jmanifest.mpd?id=873
 
 #EXTINF:-1 tvg-id="874" tvg-name="Sony Yay Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Kids",Sony Yay Telugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=874
-https://localhost:8000/jiotv/jmanifest.mpd?id=874
+#https://localhost:8000/jiotv/jmanifest.mpd?id=874
 
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Sports",Eurosport HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -17989,19 +17983,19 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=3418
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3420
-https://localhost:8000/jiotv/jmanifest.mpd?id=3420
+#https://localhost:8000/jiotv/jmanifest.mpd?id=3420
 
 #EXTINF:-1 tvg-id="3423" tvg-name="SONY YAY Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYMal.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Kids",SONY YAY Malayalam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3423
-https://localhost:8000/jiotv/jmanifest.mpd?id=3423
+#https://localhost:8000/jiotv/jmanifest.mpd?id=3423
 
 #EXTINF:-1 tvg-id="3424" tvg-name="SONY YAY Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Kids",SONY YAY Bengali
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3424
-https://localhost:8000/jiotv/jmanifest.mpd?id=3424
+#https://localhost:8000/jiotv/jmanifest.mpd?id=3424
 
 #EXTINF:-1 tvg-id="3425" tvg-name="Discovery Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryMal.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Infotainment",Discovery Malayalam
 #KODIPROP:inputstream=inputstream.adaptive
