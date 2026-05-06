@@ -1,7 +1,8 @@
 # prdking
 
 
-#EXTINF:-1 tvg-id="2255" tvg-name="Raftaar Samay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RRN_News.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",Raftaar Samay
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Colors HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=144
 http://localhost:8000/Rana.php
