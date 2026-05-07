@@ -5,4 +5,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=144
-http://localhost:8000/Rana.php
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_MOB/WDVLive/index.mpd%3f
