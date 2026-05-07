@@ -75,7 +75,7 @@
         "name": "Star Movies Select HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef"
     },
@@ -95,7 +95,7 @@
         "name": "Maa HD",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8"
     },
@@ -105,7 +105,7 @@
         "name": "Star Gold Select HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4"
     },
@@ -125,7 +125,7 @@
         "name": "Star Movies",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485"
     },
@@ -135,7 +135,7 @@
         "name": "Star Plus",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf"
     },
@@ -145,7 +145,7 @@
         "name": "Suvarna",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "fc71d871cbf45818a5b3eb3652d75387:added6a0df4d0eab8758b0ed9f54ecf2"
     },
@@ -155,7 +155,7 @@
         "name": "Asianet",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49"
     },
@@ -165,7 +165,7 @@
         "name": "Star Gold Select",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846"
     },
@@ -185,7 +185,7 @@
         "name": "Star Pravah",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80"
     },
@@ -225,7 +225,7 @@
         "name": "Star Gold",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "940a0a4080f553cab03ec23a2e80cf7c:b162354170b54cb588182eb75681cac0"
     },
@@ -235,7 +235,7 @@
         "name": "Star Jalsha",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "9d4fac613fa6505c8f4c34269bad472a:4eb0380c9f3d517db1eeaa768a3e23ac"
     },
@@ -4219,7 +4219,7 @@
         "name": "Star Pravah Picture HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456"
     },
@@ -4819,7 +4819,7 @@
         "name": "Naaptol Barker",
         "group": "Shopping",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol_Barker.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naaptol_Barker_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naaptol_Barker_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "699d22a5aef154bda8739fe4a5e7b236:35e7f12b1a74358809c61181c6ef2a5d"
     },
@@ -5027,7 +5027,7 @@
         "name": "Star Kiran",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485"
     },
@@ -5047,7 +5047,7 @@
         "name": "Vijay Takkar",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Takkar_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Takkar_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b"
     },
@@ -5077,7 +5077,7 @@
         "name": "Star Movies Select",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5"
     },
@@ -5087,7 +5087,7 @@
         "name": "Star Sports 1 Tamil HD",
         "group": "Sports",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337"
     },
@@ -5097,7 +5097,7 @@
         "name": "Star Sports 1 Telugu HD",
         "group": "Sports",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5"
     },
@@ -5657,7 +5657,7 @@
         "name": "Star Sports Hindi 1",
         "group": "Sports",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e"
     },
@@ -5797,7 +5797,7 @@
         "name": "Asianet HD",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62"
     },
@@ -5817,7 +5817,7 @@
         "name": "Jalsha Movies HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "336cae9ff0c957cfabc598f4faf7e701:24b00e0fec8785b474f544560dfec897"
     },
@@ -5827,7 +5827,7 @@
         "name": "Asianet Movies HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d"
     },
@@ -7695,7 +7695,7 @@
         "name": "Maa Movies HD",
         "group": "Movies",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846"
     },
@@ -8565,7 +8565,7 @@
         "name": "Star Bharat HD",
         "group": "Entertainment",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/WDVLive/index.mpd",
         "license_type": "clearkey",
         "license_key": "701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32"
     },
