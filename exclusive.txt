@@ -5938,6 +5938,12 @@ https://localhost:8000/jtv/manifest.mpd?id=3099
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1118
 https://localhost:8000/jtv/manifest.mpd?id=1118
 
+#EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Entertainment",Asianet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=443
+https://localhost:8000/jtv/manifest.mpd?id=443
+
 #EXTINF:-1 tvg-id="1156" tvg-name="Asianet Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Movies",Asianet Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
