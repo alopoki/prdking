@@ -19919,208 +19919,208 @@ ____AAIIR
 
 
 #EXTINF:-1 tvg-id="5693" tvg-name="Zee TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Zee TV HD
-http://localhost:8000/Air/air.php.php?id=649
+http://localhost:8000/Air/air.m3u8?id=649
 
 #EXTINF:-1 tvg-id="631" tvg-name="Zee Cinema HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Zee Cinema HD
-http://localhost:8000/Air/air.php.php?id=631
+http://localhost:8000/Air/air.m3u8?id=631
 
 #EXTINF:-1 tvg-id="6314" tvg-name="Zee Classic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Zee Classic
-http://localhost:8000/Air/air.php.php?id=5717
+http://localhost:8000/Air/air.m3u8?id=5717
 
 #EXTINF:-1 tvg-id="750" tvg-name="Zing" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Music",Zing
-http://localhost:8000/Air/air.php.php?id=750
+http://localhost:8000/Air/air.m3u8?id=750
 
 #EXTINF:-1 tvg-id="804" tvg-name="STAR UTSAV MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",STAR UTSAV MOVIES
-http://localhost:8000/Air/air.php.php?id=804
+http://localhost:8000/Air/air.m3u8?id=804
 
 #EXTINF:-1 tvg-id="5686" tvg-name="Star Bharat HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Star Bharat HD
-http://localhost:8000/Air/air.php.php?id=5093
+http://localhost:8000/Air/air.m3u8?id=5093
 
 #EXTINF:-1 tvg-id="646" tvg-name="Star Gold HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Star Gold HD
-http://localhost:8000/Air/air.php.php?id=646
+http://localhost:8000/Air/air.m3u8?id=646
 
 #EXTINF:-1 tvg-id="5700" tvg-name="Star Gold 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Star Gold 2 HD
-http://localhost:8000/Air/air.php.php?id=5104
+http://localhost:8000/Air/air.m3u8?id=5104
 
 #EXTINF:-1 tvg-id="4030" tvg-name="Star Gold Select HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Star Gold Select HD
-http://localhost:8000/Air/air.php.php?id=647
+http://localhost:8000/Air/air.m3u8?id=647
 
 #EXTINF:-1 tvg-id="5656" tvg-name="Star Plus HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Star Plus HD
-http://localhost:8000/Air/air.php.php?id=2154
+http://localhost:8000/Air/air.m3u8?id=2154
 
 #EXTINF:-1 tvg-id="5656" tvg-name="Star Plus HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Star Plus HD
-http://localhost:8000/Air/air.php.php?id=2154
+http://localhost:8000/Air/air.m3u8?id=2154
 
 #EXTINF:-1 tvg-id="644" tvg-name="Sony MAX HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Sony MAX HD
-http://localhost:8000/Air/air.php.php?id=644
+http://localhost:8000/Air/air.m3u8?id=644
 
 #EXTINF:-1 tvg-id="4033" tvg-name="Sony SAB HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Sony SAB HD
-http://localhost:8000/Air/air.php.php?id=645
+http://localhost:8000/Air/air.m3u8?id=645
 
 #EXTINF:-1 tvg-id="962" tvg-name="Sony Wah" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Sony Wah
-http://localhost:8000/Air/air.php.php?id=962
+http://localhost:8000/Air/air.m3u8?id=962
 
 #EXTINF:-1 tvg-id="931" tvg-name="Sony Pal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Sony Pal
-http://localhost:8000/Air/air.php.php?id=931
+http://localhost:8000/Air/air.m3u8?id=931
 
 #EXTINF:-1 tvg-id="18347" tvg-name="Sony Yay" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Sony Yay
-http://localhost:8000/Air/air.php.php?id=17732
+http://localhost:8000/Air/air.m3u8?id=17732
 
 #EXTINF:-1 tvg-id="5272" tvg-name="B4U Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",B4U Movies
-http://localhost:8000/Air/air.php.php?id=758
+http://localhost:8000/Air/air.m3u8?id=758
 
 #EXTINF:-1 tvg-id="3467" tvg-name="Colors HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Colors HD
-http://localhost:8000/Air/air.php.php?id=636
+http://localhost:8000/Air/air.m3u8?id=636
 
 #EXTINF:-1 tvg-id="635" tvg-name="Colors Cineplex HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Colors Cineplex HD
-http://localhost:8000/Air/air.php.php?id=635
+http://localhost:8000/Air/air.m3u8?id=635
 
 #EXTINF:-1 tvg-id="783" tvg-name="Big Magic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Big Magic
-http://localhost:8000/Air/air.php.php?id=783
+http://localhost:8000/Air/air.m3u8?id=783
 
 #EXTINF:-1 tvg-id="8464" tvg-name="Discovery HD World" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Infotainment",Discovery HD World
-http://localhost:8000/Air/air.php.php?id=7860
+http://localhost:8000/Air/air.m3u8?id=7860
 
 #EXTINF:-1 tvg-id="625" tvg-name="Epic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Epic
-http://localhost:8000/Air/air.php.php?id=625
+http://localhost:8000/Air/air.m3u8?id=625
 
 #EXTINF:-1 tvg-id="628" tvg-name="Nat Geo Wild HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Infotainment",Nat Geo Wild HD
-http://localhost:8000/Air/air.php.php?id=628
+http://localhost:8000/Air/air.m3u8?id=628
 
 #EXTINF:-1 tvg-id="7799" tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Star Jalsha HD
-http://localhost:8000/Air/air.php.php?id=7195
+http://localhost:8000/Air/air.m3u8?id=7195
 
 #EXTINF:-1 tvg-id="2661" tvg-name="Zee Anmol" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11967-j9luigc0-v2/imageContent-11967-j9luigc0-m2.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Zee Anmol
-http://localhost:8000/Air/air.php.php?id=1665
+http://localhost:8000/Air/air.m3u8?id=1665
 
 #EXTINF:-1 tvg-id="752" tvg-name="Zee Anmol Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Zee Anmol Cinema
-http://localhost:8000/Air/air.php.php?id=752
+http://localhost:8000/Air/air.m3u8?id=752
 
 #EXTINF:-1 tvg-id="751" tvg-name="Zee News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ News",Zee News
-http://localhost:8000/Air/air.php.php?id=751
+http://localhost:8000/Air/air.m3u8?id=751
 
 #EXTINF:-1 tvg-id="751" tvg-name="Zee News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ News",Zee News
-http://localhost:8000/Air/air.php.php?id=751
+http://localhost:8000/Air/air.m3u8?id=751
 
 #EXTINF:-1 tvg-id="6761" tvg-name="Disney Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Disney Channel
-http://localhost:8000/Air/air.php.php?id=864
+http://localhost:8000/Air/air.m3u8?id=864
 
 #EXTINF:-1 tvg-id="HUNGAMA" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png",HUNGAMA
-http://localhost:8000/Air/air.php.php?id=11305
+http://localhost:8000/Air/air.m3u8?id=11305
 
 #EXTINF:-1 tvg-id="AIRTEL_MINIPLEX" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Special" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Airtel Miniplex
-http://localhost:8000/Air/air.php.php?id=640
+http://localhost:8000/Air/air.m3u8?id=640
 
 #EXTINF:-1 tvg-id="725" tvg-name="Disney International HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Disney International HD
-http://localhost:8000/Air/air.php.php?id=725
+http://localhost:8000/Air/air.m3u8?id=725
 
 #EXTINF:-1 tvg-id="5272" tvg-name="B4U Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",B4U Movies
-http://localhost:8000/Air/air.php.php?id=758
+http://localhost:8000/Air/air.m3u8?id=758
 
 #EXTINF:-1 tvg-id="862" tvg-name="Cartoon Network" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Cartoon Network
-http://localhost:8000/Air/air.php.php?id=862
+http://localhost:8000/Air/air.m3u8?id=862
 
 #EXTINF:-1 tvg-id="9789" tvg-name="Dangal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Dangal
-http://localhost:8000/Air/air.php.php?id=9183
+http://localhost:8000/Air/air.m3u8?id=9183
 
 #EXTINF:-1 tvg-id="972" tvg-name="Discovery Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Discovery Kids
-http://localhost:8000/Air/air.php.php?id=972
+http://localhost:8000/Air/air.m3u8?id=972
 
 #EXTINF:-1 tvg-id="961" tvg-name="Zee Bollywood" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Zee Bollywood
-http://localhost:8000/Air/air.php.php?id=961
+http://localhost:8000/Air/air.m3u8?id=961
 
 #EXTINF:-1 tvg-id="1366" tvg-name="B4U Kadak" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_BoxCover-v9/B4UKad_BoxCover.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",B4U Kadak
-http://localhost:8000/Air/air.php.php?id=1360
+http://localhost:8000/Air/air.m3u8?id=1360
 
 #EXTINF:-1 tvg-id="972" tvg-name="Discovery Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Discovery Kids
-http://localhost:8000/Air/air.php.php?id=972
+http://localhost:8000/Air/air.m3u8?id=972
 
 #EXTINF:-1 tvg-id="3210" tvg-name="Disney Junior" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Kids",Disney Junior
-http://localhost:8000/Air/air.php.php?id=2055
+http://localhost:8000/Air/air.m3u8?id=2055
 
 #EXTINF:-1 tvg-id="24054" tvg-name="Star Sports 1 HD Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",Star Sports 1 HD Hindi
-http://localhost:8000/Air/air.php.php?id=23439
+http://localhost:8000/Air/air.m3u8?id=23439
 
 #EXTINF:-1 tvg-id="670" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",Star Sports 2 HD
-http://localhost:8000/Air/air.php.php?id=670
+http://localhost:8000/Air/air.m3u8?id=670
 
 #EXTINF:-1 tvg-id="858" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",Star Sports 3
-http://localhost:8000/Air/air.php.php?id=858
+http://localhost:8000/Air/air.m3u8?id=858
 
 #EXTINF:-1 tvg-id="5675" tvg-name="Star Sports Select 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",Star Sports Select 1 HD
-http://localhost:8000/Air/air.php.php?id=5082
+http://localhost:8000/Air/air.m3u8?id=5082
 
 #EXTINF:-1 tvg-id="710" tvg-name="Star Sports Select 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",Star Sports Select 2 HD
-http://localhost:8000/Air/air.php.php?id=710
+http://localhost:8000/Air/air.m3u8?id=710
 
 #EXTINF:-1 tvg-id="673" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",SONY SPORTS TEN 1 HD
-http://localhost:8000/Air/air.php.php?id=673
+http://localhost:8000/Air/air.m3u8?id=673
 
 #EXTINF:-1 tvg-id="674" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",SONY SPORTS TEN 2 HD
-http://localhost:8000/Air/air.php.php?id=674
+http://localhost:8000/Air/air.m3u8?id=674
 
 #EXTINF:-1 tvg-id="675" tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Sports",SONY SPORTS TEN 3 HD
-http://localhost:8000/Air/air.php.php?id=675
+http://localhost:8000/Air/air.m3u8?id=675
 
 #EXTINF:-1 tvg-id="4125" tvg-name="Colors Kannada HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Colors Kannada HD
-http://localhost:8000/Air/air.php.php?id=664
+http://localhost:8000/Air/air.m3u8?id=664
 
 #EXTINF:-1 tvg-id="981" tvg-name="Raj Musix" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Raj Musix
-http://localhost:8000/Air/air.php.php?id=981
+http://localhost:8000/Air/air.m3u8?id=981
 
 #EXTINF:-1 tvg-id="1011" tvg-name="Raj News Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ News",Raj News Kannada
-http://localhost:8000/Air/air.php.php?id=1011
+http://localhost:8000/Air/air.m3u8?id=1011
 
 #EXTINF:-1 tvg-id="4126" tvg-name="Star Suvarna HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Star Suvarna HD
-http://localhost:8000/Air/air.php.php?id=703
+http://localhost:8000/Air/air.m3u8?id=703
 
 #EXTINF:-1 tvg-id="4126" tvg-name="STAR SUVARNA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",STAR SUVARNA
-http://localhost:8000/Air/air.php.php?id=703
+http://localhost:8000/Air/air.m3u8?id=703
 
 #EXTINF:-1 tvg-id="5499" tvg-name="TV9 Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ News",TV9 Kannada
-http://localhost:8000/Air/air.php.php?id=782
+http://localhost:8000/Air/air.m3u8?id=782
 
 #EXTINF:-1 tvg-id="5389" tvg-name="Udaya HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Udaya HD
-http://localhost:8000/Air/air.php.php?id=704
+http://localhost:8000/Air/air.m3u8?id=704
 
 #EXTINF:-1 tvg-id="915" tvg-name="Udaya Comedy" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Udaya Comedy
-http://localhost:8000/Air/air.php.php?id=915
+http://localhost:8000/Air/air.m3u8?id=915
 
 #EXTINF:-1 tvg-id="916" tvg-name="UDAYA MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",UDAYA MOVIES
-http://localhost:8000/Air/air.php.php?id=916
+http://localhost:8000/Air/air.m3u8?id=916
 
 #EXTINF:-1 tvg-id="4075" tvg-name="Sun News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ News",Sun News
-http://localhost:8000/Air/air.php.php?id=902
+http://localhost:8000/Air/air.m3u8?id=902
 
 #EXTINF:-1 tvg-id="5693" tvg-name="Zee TV HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Zee TV HD
-http://localhost:8000/Air/air.php.php?id=649
+http://localhost:8000/Air/air.m3u8?id=649
 
 #EXTINF:-1 tvg-id="917" tvg-name="Udaya Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Music",Udaya Music
-http://localhost:8000/Air/air.php.php?id=917
+http://localhost:8000/Air/air.m3u8?id=917
 
 #EXTINF:-1 tvg-id="913" tvg-name="Public TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Public TV
-http://localhost:8000/Air/air.php.php?id=913
+http://localhost:8000/Air/air.m3u8?id=913
 
 #EXTINF:-1 tvg-id="4127" tvg-name="Zee Kannada HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Zee Kannada HD
-http://localhost:8000/Air/air.php.php?id=1013
+http://localhost:8000/Air/air.m3u8?id=1013
 
 #EXTINF:-1 tvg-id="4021" tvg-name="Colors Marathi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Colors Marathi HD
-http://localhost:8000/Air/air.php.php?id=665
+http://localhost:8000/Air/air.m3u8?id=665
 
 #EXTINF:-1 tvg-id="780" tvg-name="Sangeet Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Music",Sangeet Marathi
-http://localhost:8000/Air/air.php.php?id=780
+http://localhost:8000/Air/air.m3u8?id=780
 
 #EXTINF:-1 tvg-id="4023" tvg-name="Sony Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",Sony Marathi
-http://localhost:8000/Air/air.php.php?id=896
+http://localhost:8000/Air/air.m3u8?id=896
 
 #EXTINF:-1 tvg-id="3161" tvg-name="SONY AATH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Regional",SONY AATH
-http://localhost:8000/Air/air.php.php?id=3129
+http://localhost:8000/Air/air.m3u8?id=3129
 
 #EXTINF:-1 tvg-id="24193" tvg-name="Sun Marathi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Movies",Sun Marathi HD
-http://localhost:8000/Air/air.php.php?id=23578
+http://localhost:8000/Air/air.m3u8?id=23578
 
 #EXTINF:-1 tvg-id="4020" tvg-name="Zee Marathi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://www.nicepng.com/png/full/335-3357102_dish-tv-logo-png-airtel-digital-tv-logo.png" group-title="𝐀Ɨя𝐓𝑒ᒪ Entertainment",Zee Marathi HD
-http://localhost:8000/Air/air.php.php?id=667
+http://localhost:8000/Air/air.m3u8?id=667
 
 
 
