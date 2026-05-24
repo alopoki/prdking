@@ -21621,57 +21621,7 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XM/9xm_logo_resized_white_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XM
 
 https://amg01281-amg01281c4-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c4-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJALWA/9xjalwa400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XJALWA
 
-https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Saga-Music
-
-https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XTashan/9xtashan400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XTashan
-
-https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Ghaintpunjab/logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Ghaint Punjab
-
-https://amg00223-unisys-amg00223c3-lg-in-2050.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-ghaintpunjab-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_haryanvi_logo_resized_black_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",Saga Music Haryanvi
-
-https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusicharyanvi-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",9XJhakkas
-
-https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",K-ASMR
-
-https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",essential;
-
-https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Music",@K-MUSIC
-
-https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",IndiaTV Yoga
-
-https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-hin/logo/Indian-Yoga-WellnessTV_Hindi_400X200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV HIN
-
-https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Hindi/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/97cac431-edfa-48a4-83ba-78adb8991baa/indianyogahindi_lg.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-tel/logo/Indian-Yoga-WellnessTV_Telugu_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Lifestyle",INDIAN YOGA AND WELLNESS TV TEL
-
-https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Telugu/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f3d133e8-321f-4f63-acf3-860dcd461e78/indianyogatelugu_lg.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/ESCAPE-TV-ENG/logo/Escape Tv_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",ESCAPE-TV-ENG
-
-https://vglivessai.akamaized.net/ptnr-lg/title-Escape_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a4847583-0173-4687-ac66-5638d3f9240b/master.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",4K TRAVEL
-
-https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/heritage/logo/Heritage-400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Travel",HERITAGE
-
-https://streams2.sofast.tv/ptnr-lg/title-HERITAGE-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/074c919f-f587-4da2-bea0-345fcb1401c5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bhakti-play/logo/Bhakti_Play_Logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",BHAKTI-PLAY
-
-https://vglivessai.akamaized.net/ptnr-lg/title-Bhakti_Play_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/566e7ecc-960b-4ce8-969e-fe622122b6b2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya/logo/divya_logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",Divya
-
-https://vglivessai.akamaized.net/ptnr-lg/title-Divya_TV_NONSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed18b2e1-80b8-4f13-a763-bc28a0674e30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-logo="https://www.electronicsforyou.biz/wp-content/uploads/2025/12/LG-Electronics-696x373.png" group-title="𝐿𝒢 🍟 Devotional",Divya Bhajan
 
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Divya_Bhajan_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6ab55dbd-de45-4239-80ea-8eacc13066b6/playlist.m3u8
@@ -21762,6 +21712,5 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 #EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/135/547/png-transparent-present-bonus-icon-thumbnail.png" group-title="Extra Masala+" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg", Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
 
 
