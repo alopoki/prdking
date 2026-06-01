@@ -1,6 +1,6 @@
 [
     {
-        "id": "ZEE_TV_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TV_HD",
         "tittle": "Zee TV HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -8,7 +8,7 @@
         "language": "hi"
     },
     {
-        "id": "ZEE_CINEMA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD",
         "tittle": "Zee Cinema HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -16,7 +16,7 @@
         "language": "hi"
     },
     {
-        "id": "ACTION_CINEMA",
+        "id": "LIVETV_LIVETVCHANNEL_ACTION_CINEMA",
         "tittle": "Action Cinema",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169_HD/image.png",
@@ -24,7 +24,7 @@
         "language": "hi"
     },
     {
-        "id": "ZEE_CLASSIC",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CLASSIC",
         "tittle": "Zee Classic",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -32,7 +32,7 @@
         "language": "hi"
     },
     {
-        "id": "ZING",
+        "id": "LIVETV_LIVETVCHANNEL_ZING",
         "tittle": "Zing",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png",
@@ -40,7 +40,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_UTSAV_MOVIES",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES",
         "tittle": "STAR UTSAV MOVIES",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png",
@@ -48,7 +48,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_BHARAT_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD",
         "tittle": "Star Bharat HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png",
@@ -56,7 +56,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_GOLD_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_HD",
         "tittle": "Star Gold HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -64,7 +64,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_GOLD_2_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD",
         "tittle": "Star Gold 2 HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -72,7 +72,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_GOLD_SELECT_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD",
         "tittle": "Star Gold Select HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png",
@@ -80,7 +80,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_PLUS_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_PLUS_HD",
         "tittle": "Star Plus HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -88,7 +88,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_PLUS_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_PLUS_HD",
         "tittle": "Star Plus HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -96,7 +96,7 @@
         "language": "hi"
     },
     {
-        "id": "SET_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SET_HD",
         "tittle": "SET HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LANDSCAPE_169_HD/image.png",
@@ -104,7 +104,7 @@
         "language": "hi"
     },
     {
-        "id": "SONY_MAX_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_MAX_HD",
         "tittle": "Sony MAX HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -112,7 +112,7 @@
         "language": "hi"
     },
     {
-        "id": "SONY_PIX_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_PIX_HD",
         "tittle": "Sony Pix HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -120,7 +120,7 @@
         "language": "en,hi,te,ta"
     },
     {
-        "id": "SONY_BBC_EARTH_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD",
         "tittle": "Sony BBC earth HD",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -128,7 +128,7 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "SONY_SAB_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SAB_HD",
         "tittle": "Sony SAB HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -136,7 +136,7 @@
         "language": "hi"
     },
     {
-        "id": "SONY_WAH",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_WAH",
         "tittle": "Sony Wah",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -144,7 +144,7 @@
         "language": "hi"
     },
     {
-        "id": "SONY_PAL",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_PAL",
         "tittle": "Sony Pal",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -152,7 +152,7 @@
         "language": "hi"
     },
     {
-        "id": "SONY_YAY",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_YAY",
         "tittle": "Sony Yay",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -168,7 +168,7 @@
         "language": "Hindi"
     },
     {
-        "id": "COLORS_HD",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_HD",
         "tittle": "Colors HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -176,7 +176,7 @@
         "language": "hi"
     },
     {
-        "id": "COLORS_CINEPLEX_HD",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD",
         "tittle": "Colors Cineplex HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -192,7 +192,7 @@
         "language": "Hindi"
     },
     {
-        "id": "BIG_MAGIC",
+        "id": "LIVETV_LIVETVCHANNEL_BIG_MAGIC",
         "tittle": "Big Magic",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png",
@@ -200,7 +200,7 @@
         "language": "hi"
     },
     {
-        "id": "DISCOVERY_HD_WORLD",
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD",
         "tittle": "Discovery HD World",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png",
@@ -208,7 +208,7 @@
         "language": "en,hi,ta,te,ml,kn,bn"
     },
     {
-        "id": "EPIC",
+        "id": "LIVETV_LIVETVCHANNEL_EPIC",
         "tittle": "Epic",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png",
@@ -216,7 +216,7 @@
         "language": "hi"
     },
     {
-        "id": "HISTORY_TV18_HD",
+        "id": "LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD",
         "tittle": "History TV18 HD",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -224,7 +224,7 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "AIRTEL_MINIPLEX",
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX",
         "tittle": "Airtel Miniplex",
         "genre": "Airtel Special",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -232,7 +232,7 @@
         "language": "hi"
     },
     {
-        "id": "NAT_GEO_WILD_HD",
+        "id": "LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD",
         "tittle": "Nat Geo Wild HD",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png",
@@ -240,7 +240,15 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "JALSHA_MOVIES",
+        "id": "605",
+        "tittle": "National Geographic HD",
+        "genre": "Knowledge",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",
+        "traceId": "373017",
+        "language": "English,Telugu,Bengali,Hindi,Tamil"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_JALSHA_MOVIES",
         "tittle": "Jalsha Movies",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LANDSCAPE_169_HD/image.png",
@@ -248,19 +256,35 @@
         "language": "bn"
     },
      {
-        "id": "STAR_JALSHA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD",
         "tittle": "Star Jalsha HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png",
         "traceId": "1118057",
         "language": "bn"
-    },    
+    },
     {
-        "id": "STAR_GOLD_THRILLS",
+        "id": "486",
+        "tittle": "Tata Play Bollywood Premiere",
+        "genre": "Movies",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43897-jyofyk1s-v4/imageContent-43897-jyofyk1s-m4.png",
+        "traceId": "373006",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS",
         "tittle": "Star Gold Thrills",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
         "traceId": "373005",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE",
+        "tittle": "WOW Cinema One",
+        "genre": "Movies",
+        "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373002",
         "language": "hi"
     },
     {
@@ -280,7 +304,7 @@
         "language": "Hindi"
     },
     {
-        "id": "ZEE_BHARAT",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_BHARAT",
         "tittle": "Zee Bharat",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -288,7 +312,7 @@
         "language": "hi"
     },
     {
-        "id": "ZEE_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_NEWS",
         "tittle": "Zee News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -296,7 +320,7 @@
         "language": "hi"
     },
     {
-        "id": "ZEE_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_NEWS",
         "tittle": "Zee News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -304,7 +328,7 @@
         "language": "hi"
     },
     {
-        "id": "ZEE_RAJASTHAN_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS",
         "tittle": "Zee Rajasthan News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -312,7 +336,7 @@
         "language": "hi"
     },
     {
-        "id": "POGO",
+        "id": "LIVETV_LIVETVCHANNEL_POGO",
         "tittle": "Pogo",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LANDSCAPE_169_HD/image.png",
@@ -320,7 +344,7 @@
         "language": "hi,ta,te,kn,ml,mr"
     },
     {
-        "id": "DISNEY_CHANNEL",
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL",
         "tittle": "Disney Channel",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png",
@@ -328,7 +352,7 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "NICK_HDSYMPLUS",
+        "id": "LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS",
         "tittle": "NICK HD+",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -336,7 +360,7 @@
         "language": "en,hi"
     },
     {
-        "id": "MNX_HD",
+        "id": "LIVETV_LIVETVCHANNEL_MNX_HD",
         "tittle": "MNX HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png",
@@ -352,15 +376,31 @@
         "language": "English"
     },
     {
-        "id": "DISNEY_INTERNATIONAL_HD",
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD",
         "tittle": "Disney International HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
         "traceId": "372979",
         "language": "en"
-    },    
+    },
     {
-        "id": "CARTOON_NETWORK",
+        "id": "7",
+        "tittle": "B4U Movies",
+        "genre": "Movies",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",
+        "traceId": "372975",
+        "language": "Hindi"
+    },
+    {
+        "id": "114",
+        "tittle": "Disney",
+        "genre": "Kids",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg",
+        "traceId": "372974",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_CARTOON_NETWORK",
         "tittle": "Cartoon Network",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -368,7 +408,7 @@
         "language": "hi,ta,te,kn,ml"
     },
     {
-        "id": "DANGAL",
+        "id": "LIVETV_LIVETVCHANNEL_DANGAL",
         "tittle": "Dangal",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png",
@@ -376,7 +416,7 @@
         "language": ""
     },
     {
-        "id": "DISCOVERY_KIDS",
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS",
         "tittle": "Discovery Kids",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",
@@ -384,7 +424,7 @@
         "language": "hi,ta,te,ml,kn"
     },
     {
-        "id": "ZEE_BOLLYWOOD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD",
         "tittle": "Zee Bollywood",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -392,12 +432,28 @@
         "language": "hi"
     },
     {
-        "id": "ALANKAR",
+        "id": "LIVETV_LIVETVCHANNEL_ALANKAR",
         "tittle": "Alankar",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png",
         "traceId": "372912",
         "language": "or"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA",
+        "tittle": "Airtel Comedy Masala",
+        "genre": "Airtel Special",
+        "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433174",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA",
+        "tittle": "Airtel Hollywood Masala",
+        "genre": "Airtel Special",
+        "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433173",
+        "language": "hi"
     },
     {
         "id": "730",
@@ -408,7 +464,7 @@
         "language": "Hindi"
     },
     {
-        "id": "SYMANDFLIX_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD",
         "tittle": "&flix HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -416,7 +472,7 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "DANGAL_2",
+        "id": "LIVETV_LIVETVCHANNEL_DANGAL_2",
         "tittle": "Dangal 2",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL_2/images/LANDSCAPE_169_HD/image.png",
@@ -424,7 +480,7 @@
         "language": ""
     },
     {
-        "id": "DISCOVERY_KIDS",
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS",
         "tittle": "Discovery Kids",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",
@@ -432,7 +488,7 @@
         "language": "hi,ta,te,ml,kn"
     },
     {
-        "id": "DISNEY_JUNIOR",
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR",
         "tittle": "Disney Junior",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -448,7 +504,7 @@
         "language": "Hindi"
     },
     {
-        "id": "HUNGAMA",
+        "id": "LIVETV_LIVETVCHANNEL_HUNGAMA",
         "tittle": "HUNGAMA",
         "genre": "Kids",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png",
@@ -456,7 +512,7 @@
         "language": "ta,hi,te"
     },
     {
-        "id": "ISHARA_TV",
+        "id": "LIVETV_LIVETVCHANNEL_ISHARA_TV",
         "tittle": "Ishara TV",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LANDSCAPE_169_HD/image.png",
@@ -464,13 +520,45 @@
         "language": "hi"
     },
     {
-        "id": "STAR_GOLD_ROMANCE",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE",
         "tittle": "Star Gold Romance",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
         "traceId": "1433164",
         "language": "hi"
-    },        
+    },
+    {
+        "id": "741",
+        "tittle": "Tata Play Classic Cinema",
+        "genre": "Hindi",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44332-jz3hpk2o-v3/imageContent-44332-jz3hpk2o-m3.jpg",
+        "traceId": "1433240",
+        "language": "Hindi"
+    },
+    {
+        "id": "964",
+        "tittle": "Tata Play Classic TV",
+        "genre": "Entertainment",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_BoxCover-v4/TPCTV_BoxCover.png",
+        "traceId": "1433171",
+        "language": "Hindi"
+    },
+    {
+        "id": "1003",
+        "tittle": "Tata Play South Talkies",
+        "genre": "Movies",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72252-l6dn8nco-v3/imageContent-72252-l6dn8nco-m2.jpg",
+        "traceId": "1433172",
+        "language": "Hindi"
+    },
+    {
+        "id": "666",
+        "tittle": "Tata Play Theatre HD",
+        "genre": "Hindi",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31417-jmb48u74-v3/imageContent-31417-jmb48u74-m4.jpg",
+        "traceId": "1433241",
+        "language": "Hindi"
+    },
     {
         "id": "54",
         "tittle": "The Q",
@@ -480,7 +568,7 @@
         "language": "Hindi"
     },
     {
-        "id": "ZEE_ZEST_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD",
         "tittle": "ZEE ZEST HD",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -488,7 +576,7 @@
         "language": "hi"
     },
     {
-        "id": "STAR_SPORTS_1_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD",
         "tittle": "Star Sports 1 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",
@@ -496,7 +584,7 @@
         "language": "en,ml"
     },
     {
-        "id": "STAR_SPORTS_1_HD_HINDI",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI",
         "tittle": "Star Sports 1 HD Hindi",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -504,7 +592,7 @@
         "language": "hi,bh,mr"
     },
     {
-        "id": "STAR_SPORTS_2_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD",
         "tittle": "Star Sports 2 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png",
@@ -512,7 +600,7 @@
         "language": "en,mr,ta"
     },
     {
-        "id": "STAR_SPORTS_3",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_3",
         "tittle": "Star Sports 3",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -520,7 +608,7 @@
         "language": "en,bn,ml,hi"
     },
     {
-        "id": "STAR_SPORTS_SELECT_1_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD",
         "tittle": "Star Sports Select 1 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",
@@ -528,7 +616,7 @@
         "language": "en"
     },
     {
-        "id": "STAR_SPORTS_SELECT_2_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD",
         "tittle": "Star Sports Select 2 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",
@@ -536,7 +624,7 @@
         "language": "en"
     },
     {
-        "id": "SONY_SPORTS_TEN_1_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD",
         "tittle": "SONY SPORTS TEN 1 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -544,7 +632,7 @@
         "language": "en,ml"
     },
     {
-        "id": "SONY_SPORTS_TEN_2_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD",
         "tittle": "SONY SPORTS TEN 2 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -560,7 +648,7 @@
         "language": "Hindi"
     },
     {
-        "id": "SONY_SPORTS_TEN_5_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD",
         "tittle": "SONY SPORTS TEN 5 HD",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -568,7 +656,7 @@
         "language": "en,ml,bn"
     },
     {
-        "id": "SPORTS18SYMHYP3",
+        "id": "LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3",
         "tittle": "Star Sports 2 Tamil",
         "genre": "Sports",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png",
@@ -576,7 +664,7 @@
         "language": "ta"
     },
     {
-        "id": "COLORS_KANNADA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD",
         "tittle": "Colors Kannada HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png",
@@ -584,7 +672,7 @@
         "language": "kn"
     },
     {
-        "id": "COLORS_KANNADA_CINEMA",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA",
         "tittle": "Colors Kannada Cinema",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -592,7 +680,7 @@
         "language": "kn"
     },
     {
-        "id": "COLORS_SUPER",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_SUPER",
         "tittle": "Colors Super",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -616,7 +704,7 @@
         "language": "Tamil"
     },
     {
-        "id": "RAJ_NEWS_KANNADA",
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA",
         "tittle": "Raj News Kannada",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png",
@@ -624,7 +712,7 @@
         "language": "kn"
     },
     {
-        "id": "STAR_SUVARNA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD",
         "tittle": "Star Suvarna HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -632,7 +720,7 @@
         "language": "kn"
     },
     {
-        "id": "STAR_SUVARNA",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SUVARNA",
         "tittle": "STAR SUVARNA",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -640,7 +728,7 @@
         "language": "kn"
     },
     {
-        "id": "TV9_KANNADA",
+        "id": "LIVETV_LIVETVCHANNEL_TV9_KANNADA",
         "tittle": "TV9 Kannada",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -648,7 +736,7 @@
         "language": "kn"
     },
     {
-        "id": "UDAYA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_HD",
         "tittle": "Udaya HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png",
@@ -656,7 +744,7 @@
         "language": "kn"
     },
     {
-        "id": "UDAYA_COMEDY",
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_COMEDY",
         "tittle": "Udaya Comedy",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png",
@@ -664,7 +752,7 @@
         "language": "kn"
     },
     {
-        "id": "UDAYA_MOVIES",
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_MOVIES",
         "tittle": "UDAYA MOVIES",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png",
@@ -672,7 +760,7 @@
         "language": "kn"
     },
     {
-        "id": "SUN_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_SUN_NEWS",
         "tittle": "Sun News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -680,7 +768,7 @@
         "language": "ta"
     },
     {
-        "id": "ZEE_TV_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TV_HD",
         "tittle": "Zee TV HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -688,7 +776,7 @@
         "language": "hi"
     },
     {
-        "id": "DD_CHANDANA",
+        "id": "LIVETV_LIVETVCHANNEL_DD_CHANDANA",
         "tittle": "DD Chandana",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LANDSCAPE_169_HD/image.png",
@@ -696,7 +784,7 @@
         "language": "kn"
     },
     {
-        "id": "UDAYA_MUSIC",
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_MUSIC",
         "tittle": "Udaya Music",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png",
@@ -712,7 +800,7 @@
         "language": "Kannada"
     },
     {
-        "id": "PUBLIC_TV",
+        "id": "LIVETV_LIVETVCHANNEL_PUBLIC_TV",
         "tittle": "Public TV",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png",
@@ -720,7 +808,7 @@
         "language": "kn"
     },
     {
-        "id": "ZEE_KANNADA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD",
         "tittle": "Zee Kannada HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -728,7 +816,7 @@
         "language": "kn"
     },
     {
-        "id": "COLORS_MARATHI_HD",
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD",
         "tittle": "Colors Marathi HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -736,7 +824,7 @@
         "language": "mr"
     },
     {
-        "id": "SANGEET_MARATHI",
+        "id": "LIVETV_LIVETVCHANNEL_SANGEET_MARATHI",
         "tittle": "Sangeet Marathi",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png",
@@ -744,7 +832,7 @@
         "language": "mr"
     },
     {
-        "id": "SONY_MARATHI",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_MARATHI",
         "tittle": "Sony Marathi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -752,7 +840,7 @@
         "language": "mr"
     },
     {
-        "id": "SONY_8",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_8",
         "tittle": "SONY AATH",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -760,7 +848,7 @@
         "language": "bn"
     },
     {
-        "id": "SUN_MARATHI_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD",
         "tittle": "Sun Marathi HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png",
@@ -768,7 +856,7 @@
         "language": "mr"
     },
     {
-        "id": "ZEE_MARATHI_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD",
         "tittle": "Zee Marathi HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -776,7 +864,7 @@
         "language": "mr"
     },
     {
-        "id": "ZEE_TALKIES_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD",
         "tittle": "Zee Talkies HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -784,7 +872,7 @@
         "language": "mr"
     },
     {
-        "id": "DD_SAHYADRI",
+        "id": "LIVETV_LIVETVCHANNEL_DD_SAHYADRI",
         "tittle": "DD Sahyadri",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LANDSCAPE_169_HD/image.png",
@@ -792,7 +880,7 @@
         "language": "mr"
     },
     {
-        "id": "ZEE_24_TAAS",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_24_TAAS",
         "tittle": "Zee 24 Taas",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -800,7 +888,7 @@
         "language": "mr"
     },
     {
-        "id": "TV9_MARATHI",
+        "id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
         "tittle": "TV9 Marathi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -816,7 +904,7 @@
         "language": "Marathi"
     },
     {
-        "id": "ABP_MAJHA",
+        "id": "LIVETV_LIVETVCHANNEL_ABP_MAJHA",
         "tittle": "ABP Majha",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LANDSCAPE_169_HD/image.png",
@@ -824,7 +912,7 @@
         "language": ""
     },
     {
-        "id": "CHARDIKLA_TIME_TV",
+        "id": "LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV",
         "tittle": "Chardikla Time TV",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",
@@ -832,7 +920,7 @@
         "language": "pa"
     },
     {
-        "id": "CHARDIKLA_TIME_TV",
+        "id": "LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV",
         "tittle": "Chardikla Time TV",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",
@@ -840,7 +928,7 @@
         "language": "pa"
     },
     {
-        "id": "DD_PUNJABI",
+        "id": "LIVETV_LIVETVCHANNEL_DD_PUNJABI",
         "tittle": "DD Punjabi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LANDSCAPE_169_HD/image.png",
@@ -864,7 +952,7 @@
         "language": "Regional"
     },
     {
-        "id": "NDTV_INDIA",
+        "id": "LIVETV_LIVETVCHANNEL_NDTV_INDIA",
         "tittle": "NDTV India",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -880,7 +968,7 @@
         "language": "Regional"
     },
     {
-        "id": "LIVING_INDIA_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS",
         "tittle": "Living India News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -888,7 +976,23 @@
         "language": "pa"
     },
     {
-        "id": "FM_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES",
+        "tittle": "Manoranjan Movies",
+        "genre": "Movies",
+        "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908625",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_MANORANJAN_TV",
+        "tittle": "Manoranjan Tv",
+        "genre": "Movies",
+        "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908626",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_FM_NEWS",
         "tittle": "FM NEWS",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FM_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -896,7 +1000,7 @@
         "language": "hi"
     },
     {
-        "id": "MH_ONE_SHRADDHA",
+        "id": "LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA",
         "tittle": "MH One Shraddha",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png",
@@ -904,7 +1008,7 @@
         "language": "hi"
     },
     {
-        "id": "NEWS18_PUNJAB_HARYANA",
+        "id": "LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA",
         "tittle": "News18 Punjab Haryana",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -912,7 +1016,7 @@
         "language": "pa"
     },
     {
-        "id": "PITAARA",
+        "id": "LIVETV_LIVETVCHANNEL_PITAARA",
         "tittle": "Pitaara",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LANDSCAPE_169_HD/image.png",
@@ -920,7 +1024,7 @@
         "language": "pa"
     },
     {
-        "id": "PTC_CHAKDE",
+        "id": "LIVETV_LIVETVCHANNEL_PTC_CHAKDE",
         "tittle": "PTC Chakde",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LANDSCAPE_169_HD/image.png",
@@ -928,7 +1032,7 @@
         "language": "pa"
     },
     {
-        "id": "PTC_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_PTC_NEWS",
         "tittle": "PTC News",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -936,7 +1040,7 @@
         "language": "pa"
     },
     {
-        "id": "PTC_PUNJABI",
+        "id": "LIVETV_LIVETVCHANNEL_PTC_PUNJABI",
         "tittle": "PTC Punjabi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",
@@ -944,7 +1048,7 @@
         "language": "pa"
     },
     {
-        "id": "PTC_PUNJABI",
+        "id": "LIVETV_LIVETVCHANNEL_PTC_PUNJABI",
         "tittle": "PTC Punjabi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",
@@ -952,7 +1056,7 @@
         "language": "pa"
     },
     {
-        "id": "PTC_SIMRAN",
+        "id": "LIVETV_LIVETVCHANNEL_PTC_SIMRAN",
         "tittle": "PTC Simran",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LANDSCAPE_169_HD/image.png",
@@ -968,7 +1072,7 @@
         "language": "Regional"
     },
     {
-        "id": "ZEE_PUNJAB_HARYANA_HIMACHAL",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL",
         "tittle": "Zee Punjab Haryana Himachal",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -976,7 +1080,7 @@
         "language": "pa"
     },
     {
-        "id": "ZEE_PUNJABI",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_PUNJABI",
         "tittle": "Zee Punjabi",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1032,7 +1136,7 @@
         "language": "hi"
     },
     {
-        "id": "CVR_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_CVR_NEWS",
         "tittle": "CVR NEWS1",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -1040,7 +1144,7 @@
         "language": "te"
     },
     {
-        "id": "BHAKTI_TV",
+        "id": "LIVETV_LIVETVCHANNEL_BHAKTI_TV",
         "tittle": "Bhakti TV",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png",
@@ -1048,7 +1152,7 @@
         "language": "te"
     },
     {
-        "id": "ETV_CINEMA",
+        "id": "LIVETV_LIVETVCHANNEL_ETV_CINEMA",
         "tittle": "ETV Cinema",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png",
@@ -1056,7 +1160,7 @@
         "language": "te"
     },
     {
-        "id": "ETV_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ETV_HD",
         "tittle": "ETV HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png",
@@ -1064,7 +1168,7 @@
         "language": "te"
     },
     {
-        "id": "GEMINI_TV_HD",
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_TV_HD",
         "tittle": "Gemini TV HD",
         "genre": "Entertainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1072,7 +1176,7 @@
         "language": "ml"
     },
     {
-        "id": "GEMINI_MOVIES_HD",
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD",
         "tittle": "Gemini Movies HD",
         "genre": "Movies",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1080,7 +1184,7 @@
         "language": "te"
     },
     {
-        "id": "GEMINI_COMEDY",
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_COMEDY",
         "tittle": "Gemini Comedy",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1088,7 +1192,7 @@
         "language": "te"
     },
     {
-        "id": "STAR_MAA_MOVIES_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD",
         "tittle": "Star Maa Movies HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1096,7 +1200,15 @@
         "language": "te"
     },
     {
-        "id": "RAJ_MUSIX_TELUGU",
+        "id": "605",
+        "tittle": "National Geographic HD",
+        "genre": "Knowledge",
+        "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",
+        "traceId": "373495",
+        "language": "English,Telugu,Bengali,Hindi,Tamil"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU",
         "tittle": "Raj Musix Telugu",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LANDSCAPE_169_HD/image.png",
@@ -1104,7 +1216,7 @@
         "language": "te"
     },
     {
-        "id": "RAJ_NEWS_TELUGU",
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU",
         "tittle": "Raj News Telugu",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LANDSCAPE_169_HD/image.png",
@@ -1112,7 +1224,7 @@
         "language": "te"
     },
     {
-        "id": "SONY_BBC_EARTH_HD",
+        "id": "LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD",
         "tittle": "Sony BBC earth HD",
         "genre": "Infotainment",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1120,7 +1232,7 @@
         "language": "en,hi,ta,te"
     },
     {
-        "id": "STAR_MAA_GOLD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD",
         "tittle": "STAR MAA GOLD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1128,7 +1240,7 @@
         "language": "te"
     },
     {
-        "id": "STAR_MAA_HD",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_HD",
         "tittle": "Star MAA HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png",
@@ -1144,7 +1256,7 @@
         "language": "Gujarati"
     },
     {
-        "id": "V6_NEWS",
+        "id": "LIVETV_LIVETVCHANNEL_V6_NEWS",
         "tittle": "V6 NEWS",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png",
@@ -1152,7 +1264,7 @@
         "language": "te"
     },
     {
-        "id": "ETV_PLUS",
+        "id": "LIVETV_LIVETVCHANNEL_ETV_PLUS",
         "tittle": "ETV PLUS",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1160,7 +1272,7 @@
         "language": "te"
     },
     {
-        "id": "ZEE_CINEMALU_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD",
         "tittle": "Zee Cinemalu HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1168,7 +1280,7 @@
         "language": "te"
     },
     {
-        "id": "ZEE_TELUGU_HD",
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD",
         "tittle": "Zee Telugu HD",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1176,7 +1288,7 @@
         "language": "te"
     },
     {
-        "id": "GEMINI_MUSIC",
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_MUSIC",
         "tittle": "Gemini Music",
         "genre": "Music",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1184,7 +1296,7 @@
         "language": "te"
     },
     {
-        "id": "GEMINI_LIFE",
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_LIFE",
         "tittle": "Gemini Life",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1192,7 +1304,7 @@
         "language": "te"
     },
     {
-        "id": "ETV_LIFE",
+        "id": "LIVETV_LIVETVCHANNEL_ETV_LIFE",
         "tittle": "ETV Life",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png",
@@ -1216,7 +1328,7 @@
         "language": "Regional"
     },
     {
-        "id": "DD_SAPTAGIRI",
+        "id": "LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI",
         "tittle": "DD Saptagiri",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LANDSCAPE_169_HD/image.png",
@@ -1224,7 +1336,7 @@
         "language": "te"
     },
     {
-        "id": "VANITHA",
+        "id": "LIVETV_LIVETVCHANNEL_VANITHA",
         "tittle": "Vanitha",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png",
@@ -1232,7 +1344,7 @@
         "language": "te"
     },
     {
-        "id": "VISSA_TV",
+        "id": "LIVETV_LIVETVCHANNEL_VISSA_TV",
         "tittle": "Vissa TV",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LANDSCAPE_169_HD/image.png",
@@ -1240,7 +1352,7 @@
         "language": "te"
     },
     {
-        "id": "STAR_MAA",
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA",
         "tittle": "Star Maa",
         "genre": "Regional",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
@@ -1248,7 +1360,7 @@
         "language": "te"
     },
     {
-        "id": "SAKSHI_TV",
+        "id": "LIVETV_LIVETVCHANNEL_SAKSHI_TV",
         "tittle": "Sakshi TV",
         "genre": "News",
         "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png",
