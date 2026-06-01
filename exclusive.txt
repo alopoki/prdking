@@ -4785,31 +4785,6 @@ https://localhost:8000/jtv/manifest.mpd?id=2189
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=2192
 https://localhost:8000/jtv/manifest.mpd?id=2192
 
-#EXTINF:-1 tvg-id="2205" tvg-name="Guruvayur Devaswom" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ Devotional",Guruvayur Devaswom
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=2205
-https://localhost:8000/jtv/manifest.mpd?id=2205
-
-#EXTINF:-1 tvg-id="2224" tvg-name="India News Punjab" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Punjab.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ News",India News Punjab
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=2224
-https://localhost:8000/jtv/manifest.mpd?id=2224
-
-#EXTINF:-1 tvg-id="2225" tvg-name="TV24" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ News",TV24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=2225
-https://localhost:8000/jtv/manifest.mpd?id=2225
-
-
-#EXTINF:-1 tvg-id="2228" tvg-name="Samay Kolkata" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ News",Samay Kolkata
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=2228
-https://localhost:8000/jtv/manifest.mpd?id=2228
-
 #EXTINF:-1 tvg-id="2254" tvg-name="Media9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" group-logo="https://m.media-amazon.com/images/I/31GngoiH5pL.png" group-title="JIO+ ☎️ News",Media9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -12462,30 +12437,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=605
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=606
 https://localhost:8000/jiotv/jmanifest.mpd?id=606
 
-#EXTINF:-1 tvg-id="607" tvg-name="Subhavartha TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Devotional",Subhavartha TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=607
-https://localhost:8000/jiotv/jmanifest.mpd?id=607
-
-#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Devotional",Shubhsandesh TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=608
-https://localhost:8000/jiotv/jmanifest.mpd?id=608
-
-#EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Devotional",mh1 Shraddha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=609
-https://localhost:8000/jiotv/jmanifest.mpd?id=609
-
-#EXTINF:-1 tvg-id="611" tvg-name="Darshan 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Devotional",Darshan 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=611
-https://localhost:8000/jiotv/jmanifest.mpd?id=611
-
 #EXTINF:-1 tvg-id="612" tvg-name="ABP Majha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",ABP Majha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -15435,30 +15386,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=1697
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1698
 https://localhost:8000/jiotv/jmanifest.mpd?id=1698
 
-#EXTINF:-1 tvg-id="1699" tvg-name="ANN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/annnewssrt.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",ANN News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1699
-https://localhost:8000/jiotv/jmanifest.mpd?id=1699
-
-#EXTINF:-1 tvg-id="1725" tvg-name="24Hrs TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",24Hrs TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1725
-https://localhost:8000/jiotv/jmanifest.mpd?id=1725
-
-#EXTINF:-1 tvg-id="1728" tvg-name="Anaadi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",Anaadi TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1728
-https://localhost:8000/jiotv/jmanifest.mpd?id=1728
-
-#EXTINF:-1 tvg-id="1733" tvg-name="ND 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ND24.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",ND 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1733
-https://localhost:8000/jiotv/jmanifest.mpd?id=1733
-
 #EXTINF:-1 tvg-id="1735" tvg-name="TV9 Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",TV9 Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -15572,24 +15499,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=1797
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1798
 https://localhost:8000/jiotv/jmanifest.mpd?id=1798
-
-#EXTINF:-1 tvg-id="1799" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Entertainment",Studio Yuva Alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1799
-https://localhost:8000/jiotv/jmanifest.mpd?id=1799
-
-#EXTINF:-1 tvg-id="1804" tvg-name="Jan Setu News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",Jan Setu News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1804
-https://localhost:8000/jiotv/jmanifest.mpd?id=1804
-
-#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 News",NEWS 24 MPCG
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1817
-https://localhost:8000/jiotv/jmanifest.mpd?id=1817
 
 #EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-logo="https://cdn-1.webcatalog.io/catalog/directv-go/directv-go-icon-filled.png" group-title="JIO_TV GO🎒 Entertainment",Green Chillies
 #KODIPROP:inputstream=inputstream.adaptive
