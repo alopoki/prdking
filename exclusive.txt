@@ -20770,8 +20770,6 @@ http://localhost:8000/Airo/stream.m3u8?id=373017
 http://localhost:8000/Airo/stream.m3u8?id=373008
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD" group-title="Airtel Pro+ Regional" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png",Star Jalsha HD
 http://localhost:8000/Airo/stream.m3u8?id=1118057
-#EXTINF:-1 tvg-id="486" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43897-jyofyk1s-v4/imageContent-43897-jyofyk1s-m4.png",Tata Play Bollywood Premiere
-http://localhost:8000/Airo/stream.m3u8?id=373006
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Thrills
 http://localhost:8000/Airo/stream.m3u8?id=373005
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LANDSCAPE_169_HD/image.png",WOW Cinema One
@@ -20814,10 +20812,6 @@ http://localhost:8000/Airo/stream.m3u8?id=372928
 http://localhost:8000/Airo/stream.m3u8?id=372924
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ALANKAR" group-title="Airtel Pro+ Regional" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png",Alankar
 http://localhost:8000/Airo/stream.m3u8?id=372912
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA" group-title="Airtel Pro+ Special" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Airtel Comedy Masala
-http://localhost:8000/Airo/stream.m3u8?id=1433174
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA" group-title="Airtel Pro+ Special" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Airtel Hollywood Masala
-http://localhost:8000/Airo/stream.m3u8?id=1433173
 #EXTINF:-1 tvg-id="730" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_BoxCover-v9/B4UKad_BoxCover.jpg",B4U Kadak
 http://localhost:8000/Airo/stream.m3u8?id=1433208
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",&flix HD
@@ -20836,14 +20830,6 @@ http://localhost:8000/Airo/stream.m3u8?id=1433211
 http://localhost:8000/Airo/stream.m3u8?id=1433191
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Romance
 http://localhost:8000/Airo/stream.m3u8?id=1433164
-#EXTINF:-1 tvg-id="741" group-title="Airtel Pro+ Hindi" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44332-jz3hpk2o-v3/imageContent-44332-jz3hpk2o-m3.jpg",Tata Play Classic Cinema
-http://localhost:8000/Airo/stream.m3u8?id=1433240
-#EXTINF:-1 tvg-id="964" group-title="Airtel Pro+ Entertainment" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_BoxCover-v4/TPCTV_BoxCover.png",Tata Play Classic TV
-http://localhost:8000/Airo/stream.m3u8?id=1433171
-#EXTINF:-1 tvg-id="1003" group-title="Airtel Pro+ Movies" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72252-l6dn8nco-v3/imageContent-72252-l6dn8nco-m2.jpg",Tata Play South Talkies
-http://localhost:8000/Airo/stream.m3u8?id=1433172
-#EXTINF:-1 tvg-id="666" group-title="Airtel Pro+ Hindi" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31417-jmb48u74-v3/imageContent-31417-jmb48u74-m4.jpg",Tata Play Theatre HD
-http://localhost:8000/Airo/stream.m3u8?id=1433241
 #EXTINF:-1 tvg-id="54" group-title="Airtel Pro+ Entertainment" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58022-khxpmalc-v1/imageContent-58022-khxpmalc-m4.png",The Q
 http://localhost:8000/Airo/stream.m3u8?id=1433243
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD" group-title="Airtel Pro+ Infotainment" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",ZEE ZEST HD
