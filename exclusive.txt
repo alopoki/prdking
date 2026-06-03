@@ -6571,18 +6571,12 @@ https://localhost:8000/tp/tpmanifest.mpd?id=486
 https://localhost:8000/tp/tpmanifest.mpd?id=245
 
 #EXTINF:-1 tvg-id="ts80" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-241-j5fyl2f4-v3/imageContent-241-j5fyl2f4-m4.jpg",SONY MAX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=80
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=80
+https://localhost:8000/stream.php?id=8
 
 #EXTINF:-1 tvg-id="ts132" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-439-j5jt3mmg-v3/imageContent-439-j5jt3mmg-m3.jpg",SONY MAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=132
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=132
+https://localhost:8000/stream.php?id=9
 
 #EXTINF:-1 tvg-id="ts1130" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_BoxCover-v2/BMSLA_BoxCover.png",Tata Play Bollywood Masala
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6690,11 +6684,8 @@ https://localhost:8000/tp/tpmanifest.mpd?id=56
 https://localhost:8000/tp/tpmanifest.mpd?id=7
 
 #EXTINF:-1 tvg-id="ts120" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-400-j5jq1gko-v3/imageContent-400-j5jq1gko-m4.jpg",SONY MAX 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=120
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=120
+https://localhost:8000/stream.php?id=10
 
 #EXTINF:-1 tvg-id="ts296" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png",BFLIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19172,7 +19163,7 @@ http://localhost:8080/Nexa/nexa.php?id=23
 _______IPL 2026________
 
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR 4K" tvg-logo="https://documents.iplt20.com/bcci/articles/1774445634_Video_BG_V02.png" group-logo="https://exchange4media.gumlet.io/news-photo/115201-pic121.jpg" group-title="Airtel Pro+ Sports",STAR 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR 4K" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_4K/images/LOGO_HD/image.png" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" group-title="Airtel Pro+ Sports",STAR 4K
 https://localhost:8000/star.php?id=703299
 
 
