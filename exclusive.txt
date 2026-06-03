@@ -6326,11 +6326,8 @@ https://localhost:8000/tp/tpmanifest.mpd?id=15
 https://localhost:8000/tp/tpmanifest.mpd?id=556
 
 #EXTINF:-1 tvg-id="ts48" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-139-j5fpeji0-v3/imageContent-139-j5fpeji0-m3.jpg",SONY SAB HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=48
+https://localhost:8000/stream.php?id=2
 
 #EXTINF:-1 tvg-id="ts559" group-logo="https://images.assettype.com/fortune-india/import/company/logos/Tata%20Play.png" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12082-j9oc3vaw-v8/imageContent-12082-j9oc3vaw-m7.jpg",SONY SAB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
