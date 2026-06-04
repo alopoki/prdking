@@ -95,7 +95,7 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=3051
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=628
 
-#EXTINF:-1 tvg-id="1319" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/portrait/1920x770pwabannerce6777d11f2744d68f3fae5174a28c0e.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",Zee Cafe HD
+#EXTINF:-1 tvg-id="1319" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_avif,q_auto:eco/resources/0-9-zeecafehd/app_cover/1920x1080appbannerb3dc3fc0f6c244f39103a49e358d2e4b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1319
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -137,7 +137,7 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=1641
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1668
 
-#EXTINF:-1 tvg-id="1322" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/portrait/1920x770pwabannereb934e08e5d34655b2895321fdf3df32.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",&flix HD
+#EXTINF:-1 tvg-id="1322" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_546,h_308,c_scale,f_avif,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1322
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
