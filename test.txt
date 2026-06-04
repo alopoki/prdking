@@ -1,388 +1,388 @@
-#EXTINF:-1 tvg-id="167" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee TV HD
+#EXTINF:-1 tvg-id="167" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=167
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=167
 
-#EXTINF:-1 tvg-id="638" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Telugu
+#EXTINF:-1 tvg-id="638" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Telugu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=638
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=638
 
-#EXTINF:-1 tvg-id="413" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Cinemalu
+#EXTINF:-1 tvg-id="413" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Cinemalu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=413
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=413
 
-#EXTINF:-1 tvg-id="52" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Marathi
+#EXTINF:-1 tvg-id="52" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=52
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=52
 
-#EXTINF:-1 tvg-id="1358" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Talkies HD
+#EXTINF:-1 tvg-id="1358" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1358
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1358
 
-#EXTINF:-1 tvg-id="1356" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Tamil HD
+#EXTINF:-1 tvg-id="1356" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1356
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1356
 
-#EXTINF:-1 tvg-id="1360" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Marathi HD
+#EXTINF:-1 tvg-id="1360" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1360
 
-#EXTINF:-1 tvg-id="1354" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Telugu HD
+#EXTINF:-1 tvg-id="1354" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1354
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1354
 
-#EXTINF:-1 tvg-id="1363" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="1363" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1363
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1363
 
-#EXTINF:-1 tvg-id="1977" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Bangla HD
+#EXTINF:-1 tvg-id="1977" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Bangla HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1977
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1977
 
-#EXTINF:-1 tvg-id="685" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Bangla Sonar
+#EXTINF:-1 tvg-id="685" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Bangla Sonar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=685
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=685
 
-#EXTINF:-1 tvg-id="1691" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Classic
+#EXTINF:-1 tvg-id="1691" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Classic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1691
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1691
 
-#EXTINF:-1 tvg-id="185" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",&Pictures HD
+#EXTINF:-1 tvg-id="185" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=185
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=185
 
-#EXTINF:-1 tvg-id="487" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Bollywood
+#EXTINF:-1 tvg-id="487" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=487
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=487
 
-#EXTINF:-1 tvg-id="3051" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Thirai HD
+#EXTINF:-1 tvg-id="3051" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3051
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=3051
 
-#EXTINF:-1 tvg-id="628" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Tamil
+#EXTINF:-1 tvg-id="628" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=628
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=628
 
-#EXTINF:-1 tvg-id="1319" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/portrait/1920x770pwabannerce6777d11f2744d68f3fae5174a28c0e.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Sports",Zee Cafe HD
+#EXTINF:-1 tvg-id="1319" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/portrait/1920x770pwabannerce6777d11f2744d68f3fae5174a28c0e.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",Zee Cafe HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1319
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1319
 
-#EXTINF:-1 tvg-id="2757" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Lifestyle",Zee Zest HD
+#EXTINF:-1 tvg-id="2757" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Lifestyle",Zee Zest HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2757
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=2757
 
-#EXTINF:-1 tvg-id="49" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Kannada HD
+#EXTINF:-1 tvg-id="49" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=49
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=49
 
-#EXTINF:-1 tvg-id="1746" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Power HD
+#EXTINF:-1 tvg-id="1746" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Power HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1746
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1746
 
-#EXTINF:-1 tvg-id="472" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",&TV HD
+#EXTINF:-1 tvg-id="472" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=472
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=472
 
-#EXTINF:-1 tvg-id="1641" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Keralam HD
+#EXTINF:-1 tvg-id="1641" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Keralam HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1641
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1641
 
-#EXTINF:-1 tvg-id="1668" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",& xplorHD
+#EXTINF:-1 tvg-id="1668" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",& xplorHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1668
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1668
 
-#EXTINF:-1 tvg-id="1322" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/portrait/1920x770pwabannereb934e08e5d34655b2895321fdf3df32.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Sports",&flix HD
+#EXTINF:-1 tvg-id="1322" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/portrait/1920x770pwabannereb934e08e5d34655b2895321fdf3df32.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Sports",&flix HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1322
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1322
 
-#EXTINF:-1 tvg-id="1349" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",&Prive HD
+#EXTINF:-1 tvg-id="1349" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1349
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1349
 
-#EXTINF:-1 tvg-id="37" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee TV
+#EXTINF:-1 tvg-id="37" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=37
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=37
 
-#EXTINF:-1 tvg-id="39" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Anmol TV
+#EXTINF:-1 tvg-id="39" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Anmol TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=39
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=39
 
-#EXTINF:-1 tvg-id="1362" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383466/list/1920x1080listfd49e00fc50544278290170f04bc63c0.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Kannada
+#EXTINF:-1 tvg-id="1362" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383466/list/1920x1080listfd49e00fc50544278290170f04bc63c0.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Kannada
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1362
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1362
 
-#EXTINF:-1 tvg-id="625" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Bangla
+#EXTINF:-1 tvg-id="625" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Bangla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=625
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=625
 
-#EXTINF:-1 tvg-id="414" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Yuva
+#EXTINF:-1 tvg-id="414" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Yuva
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=414
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=414
 
-#EXTINF:-1 tvg-id="722" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list/1920x1080listed5a7eb2119c49b9b08a90831662c7ed.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Sarthak
+#EXTINF:-1 tvg-id="722" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list/1920x1080listed5a7eb2119c49b9b08a90831662c7ed.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Sarthak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=722
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=722
 
-#EXTINF:-1 tvg-id="1359" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Big Magic
+#EXTINF:-1 tvg-id="1359" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Big Magic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1359
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1359
 
-#EXTINF:-1 tvg-id="1751" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-215/list/1920x1080list480fac72c9754914bae975f1553ad4cb.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Entertainment",Zee Punjabi
+#EXTINF:-1 tvg-id="1751" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-215/list/1920x1080list480fac72c9754914bae975f1553ad4cb.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Entertainment",Zee Punjabi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1751
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1751
 
-#EXTINF:-1 tvg-id="165" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Cinema
+#EXTINF:-1 tvg-id="165" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=165
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=165
 
-#EXTINF:-1 tvg-id="488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Action
+#EXTINF:-1 tvg-id="488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=488
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=488
 
-#EXTINF:-1 tvg-id="415" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Anmol Cinema
+#EXTINF:-1 tvg-id="415" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Anmol Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=415
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=415
 
-#EXTINF:-1 tvg-id="2761" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Anmol Cinema 2
+#EXTINF:-1 tvg-id="2761" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2761
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=2761
 
-#EXTINF:-1 tvg-id="153" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Talkies
+#EXTINF:-1 tvg-id="153" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Talkies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=153
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=153
 
-#EXTINF:-1 tvg-id="585" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Music",Zing
+#EXTINF:-1 tvg-id="585" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Music",Zing
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=585
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=585
 
-#EXTINF:-1 tvg-id="1839" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",&Pictures
+#EXTINF:-1 tvg-id="1839" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",&Pictures
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1839
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1839
 
-#EXTINF:-1 tvg-id="1745" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Biskope
+#EXTINF:-1 tvg-id="1745" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1745
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1745
 
-#EXTINF:-1 tvg-id="288" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/list/rsz1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Devotional",Sanskar TV
+#EXTINF:-1 tvg-id="288" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/list/rsz1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Devotional",Sanskar TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=288
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=288
 
-#EXTINF:-1 tvg-id="173" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Aaj Tak
+#EXTINF:-1 tvg-id="173" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Aaj Tak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=173
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=173
 
-#EXTINF:-1 tvg-id="1251" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",TV9 Bharatvarsh
+#EXTINF:-1 tvg-id="1251" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",TV9 Bharatvarsh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1251
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=1251
 
-#EXTINF:-1 tvg-id="504" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee News
+#EXTINF:-1 tvg-id="504" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=504
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=504
 
-#EXTINF:-1 tvg-id="657" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Business
+#EXTINF:-1 tvg-id="657" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Business
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=657
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=657
 
-#EXTINF:-1 tvg-id="442" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee 24 Taas
+#EXTINF:-1 tvg-id="442" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee 24 Taas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=442
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=442
 
-#EXTINF:-1 tvg-id="617" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",TV9 Marathi
+#EXTINF:-1 tvg-id="617" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",TV9 Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=617
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=617
 
-#EXTINF:-1 tvg-id="619" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",TV9 Kannada
+#EXTINF:-1 tvg-id="619" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",TV9 Kannada
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=619
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=619
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-258/list/1920x1080listf159579f9b3641f9967581c6fe07d2f7.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",TV9 Telugu
+#EXTINF:-1 tvg-id="618" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-258/list/1920x1080listf159579f9b3641f9967581c6fe07d2f7.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",TV9 Telugu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=618
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=618
 
-#EXTINF:-1 tvg-id="4934" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-101-10z5588214/list/1170x658withlogofbf8f188fa714b538ff5dd8cb80e3bb5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",India Today
+#EXTINF:-1 tvg-id="4934" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-101-10z5588214/list/1170x658withlogofbf8f188fa714b538ff5dd8cb80e3bb5.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",India Today
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=4934
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=4934
 
-#EXTINF:-1 tvg-id="464" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="464" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee 24 Ghanta
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=464
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=464
 
-#EXTINF:-1 tvg-id="656" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-261/list/1920x1080list3588bf1480f74af3ae326a0a99b250c6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",News 9
+#EXTINF:-1 tvg-id="656" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-261/list/1920x1080list3588bf1480f74af3ae326a0a99b250c6.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",News 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=656
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=656
 
-#EXTINF:-1 tvg-id="493" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/1920x1080list7688549badc94ac683c8575a9c294ccd.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",India Today
+#EXTINF:-1 tvg-id="493" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/1920x1080list7688549badc94ac683c8575a9c294ccd.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",India Today
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=493
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=493
 
-#EXTINF:-1 tvg-id="412" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",WION
+#EXTINF:-1 tvg-id="412" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",WION
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=412
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=412
 
-#EXTINF:-1 tvg-id="502" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Good News Today
+#EXTINF:-1 tvg-id="502" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Good News Today
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=502
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=502
 
-#EXTINF:-1 tvg-id="654" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Punjab Haryana Himachal Pradesh
+#EXTINF:-1 tvg-id="654" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Punjab Haryana Himachal Pradesh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=654
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=654
 
-#EXTINF:-1 tvg-id="929" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee 24 Kalak
+#EXTINF:-1 tvg-id="929" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee 24 Kalak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=929
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=929
 
-#EXTINF:-1 tvg-id="652" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Bharat
+#EXTINF:-1 tvg-id="652" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Bharat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=652
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=652
 
-#EXTINF:-1 tvg-id="661" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Bihar Jharkhand
+#EXTINF:-1 tvg-id="661" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Bihar Jharkhand
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=661
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=661
 
-#EXTINF:-1 tvg-id="724" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/delhi-ncr-haryana.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Delhi NCR Haryana
+#EXTINF:-1 tvg-id="724" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/delhi-ncr-haryana.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Delhi NCR Haryana
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=724
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=724
 
-#EXTINF:-1 tvg-id="659" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Rajasthan News
+#EXTINF:-1 tvg-id="659" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Rajasthan News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=659
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=659
 
-#EXTINF:-1 tvg-id="658" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee Madhya Pradesh Chhattisgarh
+#EXTINF:-1 tvg-id="658" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee Madhya Pradesh Chhattisgarh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=658
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=658
 
-#EXTINF:-1 tvg-id="572" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 News",Zee News Uttar Pradesh Uttrakhand
+#EXTINF:-1 tvg-id="572" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 News",Zee News Uttar Pradesh Uttrakhand
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=572
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://localhost:8000/jiotv/jmanifest.mpd?id=572
 
-#EXTINF:-1 tvg-id="1745" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebioskop/list/1920x1080list5409a17e022443fbb70d5e3d0d4ec9f2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞𝟓 Movie",Zee Bioskop
+#EXTINF:-1 tvg-id="1745" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebioskop/list/1920x1080list5409a17e022443fbb70d5e3d0d4ec9f2.jpg" group-logo="https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg" group-title="𝐙𝐞𝐞5 💫 Movie",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1745
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
