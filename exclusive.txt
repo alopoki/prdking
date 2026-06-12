@@ -20794,6 +20794,13 @@ http://localhost:8000/Airo/stream.m3u8?id=373205
 http://localhost:8000/Airo/stream.m3u8?id=373204
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" group-title="Airtel Pro+ Sports" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 3
 http://localhost:8000/Airo/stream.m3u8?id=373203
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" group-title="Airtel Pro+ Sports" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.png",Unite-8 Sports 1 HD
+http://localhost:8000/Airo/stream.m3u8?id=373312
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" group-title="Airtel Pro+ Sports" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.png",Unite-8 Sports 2 HD
+http://localhost:8000/Airo/stream.m3u8?id=373343
+
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" group-title="Airtel Pro+ Sports" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 1 HD
 http://localhost:8000/Airo/stream.m3u8?id=373202
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" group-title="Airtel Pro+ Sports" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 2 HD
@@ -20972,6 +20979,8 @@ http://localhost:8000/Airo/stream.m3u8?id=373475
 http://localhost:8000/Airo/stream.m3u8?id=373474
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SAKSHI_TV" group-title="Airtel Pro+ News" group-logo="https://www.pngarts.com/files/8/Airtel-Logo-PNG-Pic.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png",Sakshi TV
 http://localhost:8000/Airo/stream.m3u8?id=373473
+
+
 ___________
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
