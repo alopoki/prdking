@@ -3027,42 +3027,6 @@ https://localhost:8000/jtv/manifest.mpd?id=1061
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1066
 https://localhost:8000/jtv/manifest.mpd?id=1066
 
-#EXTINF:-1 tvg-id="1069" tvg-name="Vande Gujarat 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Educational",Vande Gujarat 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1069
-https://localhost:8000/jtv/manifest.mpd?id=1069
-
-#EXTINF:-1 tvg-id="1070" tvg-name="Vande Gujarat 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Educational",Vande Gujarat 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1070
-https://localhost:8000/jtv/manifest.mpd?id=1070
-
-#EXTINF:-1 tvg-id="1071" tvg-name="Vande Gujarat 4" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Educational",Vande Gujarat 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1071
-https://localhost:8000/jtv/manifest.mpd?id=1071
-
-#EXTINF:-1 tvg-id="1073" tvg-name="Samara News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Infotainment",Samara News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1073
-https://localhost:8000/jtv/manifest.mpd?id=1073
-
-#EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Infotainment",Ayush TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1075
-https://localhost:8000/jtv/manifest.mpd?id=1075
-
-#EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Devotional",Sharnam TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1077
-https://localhost:8000/jtv/manifest.mpd?id=1077
-
 #EXTINF:-1 tvg-id="1078" tvg-name="Soham TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Devotional",Soham TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -13930,30 +13894,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=998
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=999
 https://localhost:8000/jiotv/jmanifest.mpd?id=999
 
-#EXTINF:-1 tvg-id="1059" tvg-name="TEST3 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Test03_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",TEST3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1059
-https://localhost:8000/jiotv/jmanifest.mpd?id=1059
-
-#EXTINF:-1 tvg-id="1069" tvg-name="Vande Gujarat 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1069
-https://localhost:8000/jiotv/jmanifest.mpd?id=1069
-
-#EXTINF:-1 tvg-id="1070" tvg-name="Vande Gujarat 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1070
-https://localhost:8000/jiotv/jmanifest.mpd?id=1070
-
-#EXTINF:-1 tvg-id="1071" tvg-name="Vande Gujarat 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1071
-https://localhost:8000/jiotv/jmanifest.mpd?id=1071
-
 #EXTINF:-1 tvg-id="1075" tvg-name="Ayush TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ayush_TV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Infotainment",Ayush TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -13989,84 +13929,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=1080
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1081
 https://localhost:8000/jiotv/jmanifest.mpd?id=1081
-
-#EXTINF:-1 tvg-id="1082" tvg-name="Vande Gujarat 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1082
-https://localhost:8000/jiotv/jmanifest.mpd?id=1082
-
-#EXTINF:-1 tvg-id="1083" tvg-name="Vande Gujarat 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1083
-https://localhost:8000/jiotv/jmanifest.mpd?id=1083
-
-#EXTINF:-1 tvg-id="1084" tvg-name="Vande Gujarat 6" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 6
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1084
-https://localhost:8000/jiotv/jmanifest.mpd?id=1084
-
-#EXTINF:-1 tvg-id="1085" tvg-name="Vande Gujarat 7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_7.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1085
-https://localhost:8000/jiotv/jmanifest.mpd?id=1085
-
-#EXTINF:-1 tvg-id="1086" tvg-name="Vande Gujarat 8" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_8.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1086
-https://localhost:8000/jiotv/jmanifest.mpd?id=1086
-
-#EXTINF:-1 tvg-id="1087" tvg-name="Vande Gujarat 9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_9.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1087
-https://localhost:8000/jiotv/jmanifest.mpd?id=1087
-
-#EXTINF:-1 tvg-id="1088" tvg-name="Vande Gujarat 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_10.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 10
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1088
-https://localhost:8000/jiotv/jmanifest.mpd?id=1088
-
-#EXTINF:-1 tvg-id="1089" tvg-name="Vande Gujarat 11" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_11.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 11
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1089
-https://localhost:8000/jiotv/jmanifest.mpd?id=1089
-
-#EXTINF:-1 tvg-id="1090" tvg-name="Vande Gujarat 12" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_12.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1090
-https://localhost:8000/jiotv/jmanifest.mpd?id=1090
-
-#EXTINF:-1 tvg-id="1091" tvg-name="Vande Gujarat 13" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 13
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1091
-https://localhost:8000/jiotv/jmanifest.mpd?id=1091
-
-#EXTINF:-1 tvg-id="1092" tvg-name="Vande Gujarat 14" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_14.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 14
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1092
-https://localhost:8000/jiotv/jmanifest.mpd?id=1092
-
-#EXTINF:-1 tvg-id="1093" tvg-name="Vande Gujarat 15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_15.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1093
-https://localhost:8000/jiotv/jmanifest.mpd?id=1093
-
-#EXTINF:-1 tvg-id="1094" tvg-name="Vande Gujarat 16" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_16.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Education",Vande Gujarat 16
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1094
-https://localhost:8000/jiotv/jmanifest.mpd?id=1094
 
 #EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Movies",Star Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -16036,30 +15898,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=2765
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2766
 https://localhost:8000/jiotv/jmanifest.mpd?id=2766
 
-#EXTINF:-1 tvg-id="2767" tvg-name="Sacchi Report" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sacchi_Report.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",Sacchi Report
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2767
-https://localhost:8000/jiotv/jmanifest.mpd?id=2767
-
-#EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jothi_TV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Devotional",Jothi TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2768
-https://localhost:8000/jiotv/jmanifest.mpd?id=2768
-
-#EXTINF:-1 tvg-id="2770" tvg-name="Har Khabar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Har_Khabar.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",Har Khabar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2770
-https://localhost:8000/jiotv/jmanifest.mpd?id=2770
-
-#EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",Sadhna News MP CG
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2771
-https://localhost:8000/jiotv/jmanifest.mpd?id=2771
-
 #EXTINF:-1 tvg-id="2772" tvg-name="India Daily 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",India Daily 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -16077,12 +15915,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=2773
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2774
 https://localhost:8000/jiotv/jmanifest.mpd?id=2774
-
-#EXTINF:-1 tvg-id="2775" tvg-name="Grace TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Devotional",Grace TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2775
-https://localhost:8000/jiotv/jmanifest.mpd?id=2775
 
 #EXTINF:-1 tvg-id="2777" tvg-name="Asian News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",Asian News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -16155,30 +15987,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=2862
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2914
 https://localhost:8000/jiotv/jmanifest.mpd?id=2914
-
-#EXTINF:-1 tvg-id="2916" tvg-name="Daily Post PHH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Daily_Post_PHH.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",Daily Post PHH
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2916
-https://localhost:8000/jiotv/jmanifest.mpd?id=2916
-
-#EXTINF:-1 tvg-id="2917" tvg-name="Sadhna Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_Gold.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Devotional",Sadhna Gold
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2917
-https://localhost:8000/jiotv/jmanifest.mpd?id=2917
-
-#EXTINF:-1 tvg-id="2918" tvg-name="WPN World Punjabi News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WPN_World_Punjabi_News.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",WPN World Punjabi News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2918
-https://localhost:8000/jiotv/jmanifest.mpd?id=2918
-
-#EXTINF:-1 tvg-id="2919" tvg-name="Firstpost NW18" tvg-logo="" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Infotainment",Firstpost NW18
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=2919
-https://localhost:8000/jiotv/jmanifest.mpd?id=2919
 
 #EXTINF:-1 tvg-id="2932" tvg-name="99 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/99TV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",99 TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -17301,18 +17109,6 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=3287
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3288
 https://localhost:8000/jiotv/jmanifest.mpd?id=3288
-
-#EXTINF:-1 tvg-id="3289" tvg-name="Qello Concerts by Stingray" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Music",Qello Concerts by Stingray
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3289
-https://localhost:8000/jiotv/jmanifest.mpd?id=3289
-
-#EXTINF:-1 tvg-id="3290" tvg-name="Stingray Djazz" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/djazz-djaads-dhaka.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 Music",Stingray Djazz
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=3290
-https://localhost:8000/jiotv/jmanifest.mpd?id=3290
 
 #EXTINF:-1 tvg-id="3291" tvg-name="NBC24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NBC24_News.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jio_Tv_logo.png/1280px-Jio_Tv_logo.png" group-title="JIO_TV GO🎒 News",NBC24 News
 #KODIPROP:inputstream=inputstream.adaptive
