@@ -6143,12 +6143,6 @@ https://localhost:8000/jtv/manifest.mpd?id=3220
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=3219
 https://localhost:8000/jtv/manifest.mpd?id=3219
 
-#EXTINF:-1 tvg-id="3218" tvg-name="STV24 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV24_News.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ News",STV24 News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=3218
-https://localhost:8000/jtv/manifest.mpd?id=3218
-
 #EXTINF:-1 tvg-id="3217" tvg-name="NE News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NE_News.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ News",NE News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6692,6 +6686,34 @@ https://localhost:8000/tp/tpmanifest.mpd?id=174
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=24
+
+#EXTINF:-1 tvg-id="ts502" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1HD_Transparent_d916e565-7ca1-4877-a40d-9178af838602.png" group-title="TPLAY⭐->Sports",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=502
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://localhost:8000/tp/tpmanifest.mpd?id=502
+
+#EXTINF:-1 tvg-id="ts506" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports2HD_Transparent_fb9ce368-8081-4c88-9d74-29aff61e3c35.png" group-title="TPLAY⭐->Sports",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=506
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://localhost:8000/tp/tpmanifest.mpd?id=506
+
+#EXTINF:-1 tvg-id="ts592" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports2_Transparent_73b93aff-88e3-4204-9527-f9dbf5439536.png" group-title="TPLAY⭐->Sports",Unite8 Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=592
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://localhost:8000/tp/tpmanifest.mpd?id=592
+
+#EXTINF:-1 tvg-id="ts602" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1_Transparent_8bc6241c-fc8a-4f29-b0c0-cdabe5531c17.png" group-title="TPLAY⭐->Sports",Unite8 Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=602
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://localhost:8000/tp/tpmanifest.mpd?id=602
 
 #EXTINF:-1 tvg-id="ts78" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8302-j7hc08ts-v1/imageContent-8302-j7hc08ts-m1.jpg",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10370,13 +10392,6 @@ https://localhost:8000/tp/tpmanifest.mpd?id=331
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=325
 
-#EXTINF:-1 tvg-id="ts449" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Others" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11729-j9kw2rh4-v1/imageContent-11729-j9kw2rh4-m1.jpg",Ramdhenu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=449
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=449
-
 #EXTINF:-1 tvg-id="ts991" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71498-l4stx0xc-v3/imageContent-71498-l4stx0xc-m5.jpg",DD Meghalaya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=991
@@ -10447,26 +10462,12 @@ https://localhost:8000/tp/tpmanifest.mpd?id=912
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=807
 
-#EXTINF:-1 tvg-id="ts782" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Kannada" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47613-k2jwaqug-v1/imageContent-47613-k2jwaqug-m3.jpg",Namma TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=782
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=782
-
 #EXTINF:-1 tvg-id="ts781" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Marathi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47610-k2jw4vfc-v1/imageContent-47610-k2jw4vfc-m4.jpg",Prudent
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=781
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=781
-
-#EXTINF:-1 tvg-id="ts819" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Marathi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53441-kanbrwjs-v1/imageContent-53441-kanbrwjs-m1.jpg",RDX Goa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=819
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=819
 
 #EXTINF:-1 tvg-id="ts1290" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Lifestyle" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVRIW_BoxCover-v2/TVRIW_BoxCover.png",TVRI World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10495,13 +10496,6 @@ https://localhost:8000/tp/tpmanifest.mpd?id=866
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=887
-
-#EXTINF:-1 tvg-id="ts883" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Spiritual" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60931-kljn4c9c-v1/imageContent-60931-kljn4c9c-m1.jpg",Swar Shree
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=883
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://localhost:8000/tp/tpmanifest.mpd?id=883
 
 #EXTINF:-1 tvg-id="ts1379" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Spiritual" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BTNNews_BoxCover-v1/BTNNews_BoxCover.png",Bharat Times News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
