@@ -7436,6 +7436,13 @@ https://localhost:8000/tp/tpmanifest.mpd?id=119
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://localhost:8000/tp/tpmanifest.mpd?id=127
 
+#EXTINF:-1 tvg-id="ts127" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Kids" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/TataPlayCartoonNetworkForever_BoxCover_3825e3ed-3f8f-4a68-80e2-0709c7392bf3.png",Cartoon Network Forever
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=1787
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://localhost:8000/tp/tpmanifest.mpd?id=1787
+
 #EXTINF:-1 tvg-id="ts45" group-logo="https://i.ibb.co/vxCZdmdn/tata-play-fiber-broadband-plans-1735625627.webp" catchup-type="append" catchup-days="8" catchup-source="?begin={utc}&end={utcend}" tvg-type="live" group-title="TPLAY⭐->Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-130-j5fpedbs-v3/imageContent-130-j5fpedbs-m5.jpg",SONY YAY!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/tp/key.php?id=45
