@@ -5678,14 +5678,14 @@ https://localhost:8000/jtv/manifest.mpd?id=1115
 #EXTINF:-1 tvg-id="1111" tvg-name="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Movies",Star Maa Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1111
-https://localhost:8000/jtv/manifest.mpd?id=1111
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=760
+https://localhost:8000/jtv/manifest.mpd?id=760
 
 #EXTINF:-1 tvg-id="4459" tvg-name="Star Maa Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Movies",Star Maa Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=4459
-https://localhost:8000/jtv/manifest.mpd?id=4459
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev?id=1111
+https://localhost:8000/jtv/manifest.mpd?id=1111
 
 #EXTINF:-1 tvg-id="1129" tvg-name="Star Maa Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-logo="https://img.media.jio.com/imagespublic/logos/jiotvplus.png" group-title="JIO+ ☎️ Music",Star Maa Music
 #KODIPROP:inputstream=inputstream.adaptive
