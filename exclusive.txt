@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz
-
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 ___SLLIV!____
 
 #EXTINF:-1 tvg-id="1" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="ꜱᴏɴʏʟɪᴠ🍄-Entertainment" group-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/sony-liv-logo.png", SET HD
