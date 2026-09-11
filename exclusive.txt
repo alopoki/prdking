@@ -13242,7 +13242,7 @@ https://localhost:8000/jiotv/jmanifest.mpd?id=1110
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1111
 https://localhost:8000/jiotv/jmanifest.mpd?id=1111
 
-#EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-logo="https://i.ibb.co/99QSxBgJ/images.png" group-title="JIO_TV GO🎒 Entertainment",Maa HD
+#EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-logo="https://i.ibb.co/99QSxBgJ/images.png" group-title="JIO_TV GO🎒 Entertainment",Star Maa HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://localhost:8000/jiotv/jkey.php?id=1112
